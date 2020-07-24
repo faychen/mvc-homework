@@ -1,0 +1,2607 @@
+﻿[LINE] 201810 極速開發的聊天記錄
+儲存日期： 2019/02/27 10:07
+
+2018/09/28（五）
+下午05:48	Joey Chen(91)-仕傑	[貼圖]
+下午05:48	黃文德(Duncan)加入群組
+下午06:14	Julian Yu-Lang Chu加入群組
+下午06:48	Janet加入群組
+下午06:57	阿斬加入群組
+下午07:18	歐趴加入群組
+下午07:24	Jasper加入群組
+下午10:33	Tomato(Tom)加入群組
+
+2018/09/29（六）
+上午10:56	Patrick Shih加入群組
+下午12:15	Karl_陳楷文_Kev加入群組
+
+2018/09/30（日）
+上午11:37	Alan_Huang加入群組
+
+2018/10/01（一）
+上午09:01	Jaye Chen加入群組
+上午09:09	小安加入群組
+上午10:48	黃銘軒加入群組
+下午05:57	Allen加入群組
+
+2018/10/03（三）
+下午05:02	Joey Chen(91)-仕傑	hello, 有沒有人不是使用 C#+Visual Studio 開發的呢？有的話，喊個聲，講一下自己的語言跟開發工具啊
+下午05:03	Joey Chen(91)-仕傑	我只知道 @黃文德(Duncan) 是 php+phpstorm
+下午05:08	黃文德(Duncan)	[貼圖]
+下午05:08	黃文德(Duncan)	空虛孤單寂寞得冷......
+下午07:47	Julian Yu-Lang Chu	可以獨享91哥對php學員的關愛 溫暖你的心！
+下午07:58	小安	獨享91哥的關愛！？
+下午08:00	斬斬斬斬天地人 斷斷斷斷情仇恨	91 哥，周末颱風來，是否會停課呢？
+下午08:01	斬斬斬斬天地人 斷斷斷斷情仇恨	感謝
+下午08:05	Joey Chen(91)-仕傑	我記得颱風不會來啊
+下午08:06	Joey Chen(91)-仕傑	除非台北停班停課，不然不會停課唷。
+下午08:15	Julian Yu-Lang Chu	91哥 我想問一下在Visual Studio的VsVim鍵盤設定的問題，重複的快捷鍵以VsVim為主還是Visual Studio ，另外參考影片中用z+r+a取代ctrl+r+a這個該怎麼設定
+下午08:16	Joey Chen(91)-仕傑	上課會教啊，課前準備跟影片，是希望大家了解 tennis kata 在幹嘛而已
+下午08:16	Joey Chen(91)-仕傑	不是要做得一模一樣啊
+下午08:16	Joey Chen(91)-仕傑	例如知道有 extract method 可以用
+下午08:16	Joey Chen(91)-仕傑	有提取參數可以用
+下午08:17	Joey Chen(91)-仕傑	有 inline variable 可以用，這樣就夠了
+下午08:17	Joey Chen(91)-仕傑	相衝的快捷鍵，我有幾個是吃 vim 的，有幾個g4
+下午08:17	Joey Chen(91)-仕傑	是用 Visual Studio 的
+下午08:18	Joey Chen(91)-仕傑	大家請一定要先熟悉 tennis 的需求跟作法
+下午08:18	Joey Chen(91)-仕傑	因為那不是上課的重點
+下午08:18	Joey Chen(91)-仕傑	當然，在我們演練的過程中，你會順便學到寫單元測試、重構單元測試、TDD 跟即時重構產品代碼
+下午08:19	Joey Chen(91)-仕傑	應該說，練習到
+下午08:19	Joey Chen(91)-仕傑	"如果可以，最好可以了解一下 IDE 跟 JetBrains 的套件有哪一些功能可以幫助你。
+
+上課則是幫大家把這些動作用比較好的方式執行或串起來。"
+下午08:27	Julian Yu-Lang Chu	了解 感謝91哥  
+下午08:34	黃文德(Duncan)	我會害羞
+下午09:04	斬斬斬斬天地人 斷斷斷斷情仇恨	阿...剛剛看到新聞才說周五中午就走了
+下午09:04	斬斬斬斬天地人 斷斷斷斷情仇恨	我誤會了，感謝  91 哥
+下午11:14	Joey Chen(91)-仕傑	如果有寫 java 的同學，IntelliJ 版本的影片我剛錄了第一版了：https://www.youtube.com/watch?v=dM0wzwgqzj0
+下午11:15	Joey Chen(91)-仕傑	配樂刻意挑過的，"Don't Break My World" XD
+下午11:16	Joey Chen(91)-仕傑	還有一首準備下次用 "More Mistakes"
+
+2018/10/04（四）
+上午09:38	黃文德(Duncan)	這路線跟上週一模一樣.....
+上午09:38	黃文德(Duncan)	[照片]
+下午01:27	原來是阿春加入群組
+下午04:03	Joey Chen(91)-仕傑	"第二版 IntelliJ tennis，https://www.youtube.com/watch?v=RepmB7w1v3k&feature=youtu.be
+15:22, 比第一版快了 1:11 (dance)"
+下午04:04	Janet	[貼圖]
+下午04:48	陳喬治加入群組
+
+2018/10/05（五）
+下午01:20	Joey Chen(91)-仕傑	我今天要訂便當了，目前沒人是吃素的。如果你是吃素的，請回應一下嘿
+下午01:20	Tomato(Tom)	不吃海鮮呢
+下午01:21	Joey Chen(91)-仕傑	好
+下午01:21	小安	+1（小聲）
+下午01:21	Tomato(Tom)	[貼圖]
+下午01:21	小安	不吃海鮮XD
+下午01:21	Joey Chen(91)-仕傑	你吃素？還是不吃海鮮？
+下午01:21	Joey Chen(91)-仕傑	好，那我就取消 龍蝦 buffet 了
+下午01:21	Joey Chen(91)-仕傑	（幻想文
+下午01:21	小安	[貼圖]
+下午01:22	Tomato(Tom)	改 和牛 buffet
+下午01:23	Tomato(Tom)	[貼圖]
+下午01:23	原來是阿春	舉手🙋‍♂️
+下午01:23	小安	[貼圖]
+下午01:25	Joey Chen(91)-仕傑	方便素嗎？我訂鬍鬚張，請他們幫我準備素食的便當唷
+下午01:26	原來是阿春	沒關係.我可以自己去外面買.
+下午01:26	Joey Chen(91)-仕傑	那我明天拿一百塊現金給你補貼 :)
+下午07:41	Jamin加入群組
+下午08:28	Hikaru Lai加入群組
+
+2018/10/06（六）
+上午07:39	Joey Chen(91)-仕傑	大家早安，506教室，在一樓門口進來後往右轉，會在走廊轉角看到電梯，搭電梯到五樓，出電梯後右轉，就會看到506教室。
+上午07:39	Joey Chen(91)-仕傑	下午會訂飲料，中午會有便當，目前只有阿春吃素。
+上午07:40	Joey Chen(91)-仕傑	建議帶自帶水杯，有提供濾掛式咖啡
+上午07:42	Janet	[貼圖]
+上午07:43	Karl_陳楷文_Kev	[貼圖]
+上午07:43	黃文德(Duncan)	[貼圖]
+上午07:44	Jamin	[貼圖]
+上午07:51	Tomato(Tom)	[貼圖]
+上午07:57	Joey Chen(91)-仕傑	[照片]
+上午07:57	Joey Chen(91)-仕傑	我已經到了
+上午07:59	黃文德(Duncan)	好早！我剛到北車而已
+上午08:02	斬斬斬斬天地人 斷斷斷斷情仇恨	wow...剛買完早餐給家人，準備要過去了
+上午09:03	黃迺翔（Milkker）加入群組
+上午10:28	Joey Chen(91)-仕傑	https://paper.dropbox.com/doc/VS-201810--AOeBeCo5YTvUvSu2IHilz_enAQ-JKJ380HI1rQzSYrvScol8
+上午11:33	treemanou加入群組
+下午01:09	黃文德(Duncan)	https://paper.dropbox.com/doc/VS-201810--AOeBeCo5YTvUvSu2IHilz_enAQ-JKJ380HI1rQzSYrvScol8
+下午07:41	Joey Chen(91)-仕傑	"JetBrains 個人訂閱首年八折優惠，有需要的朋友記得填一下表單，截止日 10/12。
+https://goo.gl/forms/EhXSi0Q8JJkxK27l2
+
+不是 100% 一定能要到，我也只是幫忙大家凹福利，沒有額外獲得任何利益。"
+下午07:42	Joey Chen(91)-仕傑	謝謝 @Janet , @黃文德(Duncan) 幫我收延長線啊，還有其他幫忙的同學，萬分感謝🙏
+下午07:42	黃文德(Duncan)	[貼圖]
+下午07:42	黃文德(Duncan)	小事
+下午07:54	Joey Chen(91)-仕傑	來去陪一下女兒，她今天去參加體操比賽
+下午07:54	Joey Chen(91)-仕傑	拿了六面獎牌，三面金牌，總成績第一名
+下午07:54	Janet	[貼圖]
+下午07:54	黃文德(Duncan)	哇哇！厲害！
+下午07:54	黃迺翔（Milkker）	[貼圖]
+下午07:55	黃迺翔（Milkker）	強耶 恭喜91老師
+下午07:55	Ivy Chen	好強喔！真棒👍
+下午07:55	Tomato(Tom)	以後要參加奧運了
+下午07:56	Jasper	[貼圖]
+下午07:57	Joey Chen(91)-仕傑	"誇張了 她得失心很重，處女座追求完美主義。
+
+好處是跟我一樣，很願意拼命練習"
+下午07:57	歐趴	虎父無犬女XD
+下午07:58	Joey Chen(91)-仕傑	對了對了 今天沒特別跟大家講：dit 就是把 tag 裡面的內容清掉
+下午07:58	Joey Chen(91)-仕傑	前提是 <xxx>odhkeihxk</xxx>
+下午07:59	Joey Chen(91)-仕傑	不需要在同一行，可以跨行
+下午07:59	Joey Chen(91)-仕傑	但結尾tag得有 /
+下午08:00	Tomato(Tom)	多個tag會一起清掉嗎
+下午08:01	Tomato(Tom)	晚點試試
+下午08:08	Joey Chen(91)-仕傑	"另外，visual studio 的 snippets 原本只能用 snippet manager 這個擴充套件比較好做。
+
+但有 ReSharper 就建議都用 ReSharper template explorer 比較好"
+下午08:11	Joey Chen(91)-仕傑	另外，就我今年的經驗，錄影、YouTube, online coaching 的方式跟效果真的很好，好到我自己出乎意料。
+下午08:11	斬斬斬斬天地人 斷斷斷斷情仇恨	不知道會不會跟去年 11/11 一樣，買一年送一年，我去年就是買一年送一年，所以乾脆買整套
+下午08:11	Joey Chen(91)-仕傑	我 coaching 一小時報價是 8000 塊啊！！
+下午08:12	斬斬斬斬天地人 斷斷斷斷情仇恨	[貼圖]
+下午08:12	Joey Chen(91)-仕傑	不練，放影片，我覺得這門課真的可惜了，那是最後一哩路。
+下午08:12	Joey Chen(91)-仕傑	我覺得也是有可能，還有個黑色星期天還是啥聖誕節的
+下午08:12	Joey Chen(91)-仕傑	大家可以等等看，但我收單就收單了。
+下午08:13	斬斬斬斬天地人 斷斷斷斷情仇恨	就是先買先享受
+下午08:13	Joey Chen(91)-仕傑	哈 是 
+下午08:13	Joey Chen(91)-仕傑	我用一個最簡單的比喻
+下午08:13	斬斬斬斬天地人 斷斷斷斷情仇恨	買全套對我比較划算，我只有 RubyMine 用不到
+下午08:13	Joey Chen(91)-仕傑	應該說例子
+下午08:14	Joey Chen(91)-仕傑	我寫代碼的速度、對程式碼品質和乾淨程度的要求，比大家都高很多
+下午08:14	Joey Chen(91)-仕傑	如果我都需要 JetBrains 了
+下午08:14	Joey Chen(91)-仕傑	你們怎麼可能不需要，對吧
+下午08:14	斬斬斬斬天地人 斷斷斷斷情仇恨	也是 XD
+下午08:14	Joey Chen(91)-仕傑	會不需要的朋友，是因為他們懶得搞懂可以有啥幫助
+下午08:14	Joey Chen(91)-仕傑	那裝了也只是拖慢速度
+下午08:14	黃文德(Duncan)	超需要！
+下午08:15	斬斬斬斬天地人 斷斷斷斷情仇恨	不過上完課的感覺，就是好像根本還沒開始開挖 VS & JetBrains
+下午08:15	斬斬斬斬天地人 斷斷斷斷情仇恨	接下來要苦練了，感謝 91 哥
+下午08:15	Joey Chen(91)-仕傑	喔對 問卷也可以要求全系列產品的訂閱優惠，一樣是八折
+下午08:16	Joey Chen(91)-仕傑	因為我火力展示給銷售總監看過了 XD
+下午08:18	Joey Chen(91)-仕傑	等你啊 
+下午08:18	Joey Chen(91)-仕傑	目前最誇張的紀錄是台中的朋友上來台北上課
+下午08:18	Joey Chen(91)-仕傑	高鐵回去當晚第一版影片就出來了
+下午08:18	Joey Chen(91)-仕傑	而且做完tennis 
+下午08:19	黃文德(Duncan)	目前用 PhpStorm 三年有了，沒有它真的不會學 code 了
+下午08:19	Joey Chen(91)-仕傑	面試開發人員，給他個需求，看他寫程式的方式
+下午08:19	Joey Chen(91)-仕傑	就知道他「有多苛求自己」
+下午08:20	黃文德(Duncan)	厲害！我對 tennis 還不熟...光模仿都很慢⋯⋯
+下午08:21	Joey Chen(91)-仕傑	應該有偷練過，上課是打通關隘
+下午08:21	Joey Chen(91)-仕傑	就是之前的複製忍者啊
+下午08:21	Joey Chen(91)-仕傑	他把我影片用0.25x速度播放
+下午08:22	Joey Chen(91)-仕傑	每一個鍵都按到跟我一模一樣
+下午08:22	Joey Chen(91)-仕傑	唯一一個練到比我快的學員
+下午08:22	黃文德(Duncan)	我也是，還有些用影格一格一格放XD
+下午08:23	黃文德(Duncan)	不過第一晚就在30分鐘寫完太強了！
+下午08:24	Joey Chen(91)-仕傑	大家也不用擔心自己錄影寫太慢
+下午08:25	Joey Chen(91)-仕傑	因為我會用兩倍速播 哈哈哈哈哈
+下午08:25	黃文德(Duncan)	XD 
+下午08:25	黃文德(Duncan)	兩倍夠嗎XD
+下午08:26	Janet	哈哈哈~
+下午08:26	Tomato(Tom)	[貼圖]
+下午08:27	Joey Chen(91)-仕傑	大家一開始可以糾正的點太多了
+下午08:28	Joey Chen(91)-仕傑	反饋超過五個我就停止了
+下午08:28	Tomato(Tom)	看到第5秒
+下午08:30	Joey Chen(91)-仕傑	不過我給五個一定是有代表性的
+下午08:31	Julian Yu-Lang Chu	太多點一時間也改不了 QQ
+下午08:31	Julian Yu-Lang Chu	路徑的選擇就不知道要練多久
+下午08:32	Julian Yu-Lang Chu	單純很好（誤
+下午08:32	Joey Chen(91)-仕傑	嗯 f, t,/ 的選擇，定位的精準跟可重複性的取捨
+下午08:34	Joey Chen(91)-仕傑	再搭配順序、次數跟自訂 pattern, 再搭配 live temple/code snippets 
+下午08:34	Joey Chen(91)-仕傑	無限世界啊
+下午08:34	Joey Chen(91)-仕傑	insert mode 的貼上是 z,p
+下午09:50	Patrick Shih	不好意思，熊熊忘記如何把單行程式往上移動，影片中的 Alt + Up 無效
+下午09:50	Patrick Shih	[照片]
+下午09:51	Joey Chen(91)-仕傑	要設定 Dropbox paper 最下面的熱鍵設定。
+下午09:51	Joey Chen(91)-仕傑	Edit.move selected line up 那個
+下午09:51	Karl_陳楷文_Kev	那個是設在vimrc ？
+下午09:51	Joey Chen(91)-仕傑	那個會被 resharper 蓋掉
+下午09:52	Joey Chen(91)-仕傑	Visual studio keyboard 
+下午09:53	Joey Chen(91)-仕傑	你要用 vim 硬吃掉也行啦，但是 vimrc 的 up arrow, 我不確定怎麼給。是 Up 嗎？
+下午09:56	黃文德(Duncan)	嗯，UP、 DOWN
+下午09:56	Karl_陳楷文_Kev	好 謝謝 來試試
+下午09:58	Patrick Shih	[照片]
+下午09:58	Patrick Shih	我找不到MoveSelectedLines
+下午09:58	Joey Chen(91)-仕傑	因為你是中文的 visual studio 
+下午09:59	Patrick Shih	[貼圖]
+下午09:59	Joey Chen(91)-仕傑	Vs換語系挺簡單的，語言包就可以搞定了
+下午09:59	Joey Chen(91)-仕傑	你去查一下 MSDN zh 
+下午10:00	Karl_陳楷文_Kev	http://dog0416.blogspot.com/2018/01/visual-studio-2017.html
+下午10:00	Joey Chen(91)-仕傑	說錯，先查 en
+下午10:00	Joey Chen(91)-仕傑	再切到 zh, 通常會有翻譯
+下午10:00	Joey Chen(91)-仕傑	微軟的語言詞彙入口網站可能也有
+下午10:01	Joey Chen(91)-仕傑	如果大家覺得今天的課很爽、很嗨、很熱血，歡迎大家在 Facebook tag 我
+下午10:01	Joey Chen(91)-仕傑	通常 Facebook 多聊幾次 我比較容易記住人的臉（前提是有人臉的照片啊
+下午10:02	Joey Chen(91)-仕傑	最近蠻多不錯的朋友在請我推薦人才
+下午10:02	Joey Chen(91)-仕傑	小弟的推薦在這業界還算有點用
+下午10:02	Joey Chen(91)-仕傑	https://www.facebook.com/profile.php?id=1069344389
+下午10:15	Karl_陳楷文_Kev	"- ReSharper > Generate
+  -  `Alt+Insert` 
+
+這是不是打錯@@?"
+下午10:15	Joey Chen(91)-仕傑	哪裡打錯？
+下午10:16	Joey Chen(91)-仕傑	熱鍵的部分看大家自己怎麼套跟選的預設範本
+下午10:16	Karl_陳楷文_Kev	[照片]
+下午10:16	Joey Chen(91)-仕傑	....
+下午10:16	Joey Chen(91)-仕傑	不是這意思啊
+下午10:16	Joey Chen(91)-仕傑	menu 上的 ReSharper 裡面的 Generate
+下午10:17	Joey Chen(91)-仕傑	預設熱鍵是 Alt +insert
+下午10:17	Joey Chen(91)-仕傑	他不是一個 action
+下午10:17	Joey Chen(91)-仕傑	> 代表 menu 的階層
+下午10:17	Joey Chen(91)-仕傑	例如 File > Save as...
+下午10:17	Karl_陳楷文_Kev	喔喔 了解~ 謝
+下午10:18	Joey Chen(91)-仕傑	嗯嗯 不是 keyboard 裡面的
+下午10:18	Joey Chen(91)-仕傑	Keyboard 我手邊剩手機，可能要猜一下名字
+下午10:18	Joey Chen(91)-仕傑	ReSharper_ganerate
+下午10:18	Joey Chen(91)-仕傑	之類的
+
+2018/10/07（日）
+上午12:22	Julian Yu-Lang Chu	這個有人推薦win10錄影的嗎， 我用內建的遇到ctrl-k, ctrl-s會停止錄影，且resharper跟carnac錄不進去，還是只有我win10這樣
+上午12:23	Joey Chen(91)-仕傑	我用的兩套，簡易版的是 http://www.faststone.org/
+上午12:23	Joey Chen(91)-仕傑	進階版的是 https://www.techsmith.com/video-editor.html
+上午12:23	Joey Chen(91)-仕傑	Camtasia
+上午12:45	Julian Yu-Lang Chu	謝91哥，下載來用看看
+上午11:59	Joey Chen(91)-仕傑	昨天講 visual studio dump keyboard shortcut 的套件
+上午11:59	Joey Chen(91)-仕傑	[照片]
+下午12:20	Joey Chen(91)-仕傑	[照片]
+下午12:20	Joey Chen(91)-仕傑	我還蠻會猜的嘛...XD
+下午12:42	Joey Chen(91)-仕傑	對了，彩色列印的 vi-vim cheat sheet pdf 檔案在這：https://www.dropbox.com/s/soj2m3bpaevwu3h/vi-vim-cheat-sheet-and-tutorial.pdf?dl=0
+下午12:43	Joey Chen(91)-仕傑	[記事本] 對了，彩色列印的 vi-vim cheat sheet pdf 檔案在這：https://www.dropbox.com/s/soj2m3bpaevwu3h/vi-vim-cheat-sheet-an
+下午01:10	Karl_陳楷文_Kev	[貼圖]
+下午05:54	Julian Yu-Lang Chu	"@Joey Chen(91)-仕傑  https://youtu.be/16zIBoKdLQo。  
+原本今天打算想錄新的，不過回到台南應該半夜了，這是昨天faststone試錄的練習影片"
+下午06:01	Julian Yu-Lang Chu	91哥有要統一影片的標題或tag嗎？ 
+下午07:55	Joey Chen(91)-仕傑	沒關係 不用 :) 
+下午08:20	Karl_陳楷文_Kev	"有個小疑問，alt + 上下移整行code 好用，但不是手就會離開位置了嗎？
+
+今天練習時，我手一到方向鍵就又想按他上下左右移動"
+下午08:23	Joey Chen(91)-仕傑	那你就換掉囉，我在 JetBrains IDE 是改成 ctrl+alt+K/J
+下午08:23	Karl_陳楷文_Kev	原來⋯⋯ 哈
+下午08:23	Joey Chen(91)-仕傑	我有時還是會按 esc, 有時還是會按方向鍵
+下午08:23	Joey Chen(91)-仕傑	只要錄影看起來不會慢或卡，我覺得還行
+下午08:23	Karl_陳楷文_Kev	哦 我以為是不是還是有保留的用意
+下午08:24	Joey Chen(91)-仕傑	哈，沒有耶，只是這功能也不是會打斷思緒的
+下午08:24	Joey Chen(91)-仕傑	只有在重構的時候會用到
+下午08:25	Joey Chen(91)-仕傑	比較遠的時候我可能就直接 dd 掉了
+下午08:25	Joey Chen(91)-仕傑	在適合的位置用 p 貼上
+下午08:25	Joey Chen(91)-仕傑	所以，除非就是兩三行內，不然我也不會用 move line up/down
+下午08:28	Joey Chen(91)-仕傑	@Julian Yu-Lang Chu , 我剛剛在 review 你的影片
+下午08:28	Joey Chen(91)-仕傑	我發現你的 if 也是那一個有 bug 的 resharper 版本
+下午08:29	Joey Chen(91)-仕傑	輸入 if 之後，只會出來 bool 可以選，你輸入其他東西都不會有 intellisense
+下午08:29	Joey Chen(91)-仕傑	"你有兩種方式可以用，
+1. 用 postfix template, 就是 .if 的寫法，這樣你寫判斷式時，才有 intellisense"
+下午08:29	Joey Chen(91)-仕傑	2. 自己把 bug 修掉，要去 template explorer 裡面，找到 if, 把它使用的 marco 改掉
+下午08:30	Joey Chen(91)-仕傑	我兩個都做了，發 issue 給 JetBrains, JetBrains 的工程師還回我：很高興看到你找到正確的解法
+下午08:39	Joey Chen(91)-仕傑	已經有兩個同學錄影啦～～其他同學加油！
+下午08:45	Patrick Shih	老師有沒有建議的 Page Up/Down 的按法
+下午08:45	Joey Chen(91)-仕傑	你什麼時候會用到 Page up/down?
+下午08:46	Patrick Shih	通常是看 Code的時候
+下午08:48	Joey Chen(91)-仕傑	trace code?
+下午08:48	Joey Chen(91)-仕傑	還是只是無意識的像逛購物網站一樣 XD
+下午08:48	黃文德(Duncan)	動作好快！我都錄一錄自己不滿意就又重來......已經重來二十多次了吧.....
+下午08:48	Joey Chen(91)-仕傑	除了 trace code，我覺得你不太會有機會用到 page up/down
+下午08:49	Joey Chen(91)-仕傑	會用到捲軸大幅度往上往下，都代表著你不知道你要去哪裡
+下午08:49	Joey Chen(91)-仕傑	如果你不知道你要去哪裡，那這才是根本的問題
+下午08:49	Joey Chen(91)-仕傑	單一檔案要跳方法/member/constructor, 我是用 Alt+\ 或是我綁定,m 的 FileStructure
+下午08:50	Joey Chen(91)-仕傑	其他的我如果要快速移動，我會用 {} 跳段落
+下午08:50	Joey Chen(91)-仕傑	再來我會用 / 往下搜尋關鍵字
+下午08:50	Joey Chen(91)-仕傑	就像我說的，你用滑鼠捲軸，大部分都是放空的
+下午08:51	Joey Chen(91)-仕傑	代表你不知道要去哪裡，或是你只是讓自己看起來很忙，而且這是個習慣
+下午08:51	Joey Chen(91)-仕傑	大家一定養成一個習慣，「告訴你的電腦，你要做什麼，或是你要去哪裡」
+下午08:51	Joey Chen(91)-仕傑	OS 也是這樣，browser 也是這樣，IDE 也是這樣
+下午08:52	Joey Chen(91)-仕傑	改掉你用位置/index 去找東西的習慣
+下午08:52	Joey Chen(91)-仕傑	例如一個一個頁籤往上下跳
+下午08:52	Joey Chen(91)-仕傑	不建議這樣重來啊，只要 timebox 30 分鐘，忠實呈現原貌
+下午08:53	Joey Chen(91)-仕傑	錄完第一遍，你可以只給自己看，自己 review 給自己 comment, 在錄第二遍時，刻意練習，刻意調校習慣
+下午08:53	Joey Chen(91)-仕傑	這樣才會進步比較快，這才是敏捷的實踐方式
+下午08:54	Patrick Shih	謝謝老師 ~~
+下午08:55	Joey Chen(91)-仕傑	"對了，大家，我改掉一個很常用的綁定了。
+
+之前的 zb 我綁定的是 bcw"
+下午08:55	Joey Chen(91)-仕傑	原意是希望我的游標在 word 任何一個 char 上，我都可以刪掉這個 word
+下午08:55	Joey Chen(91)-仕傑	就像你 double click 再按 backspace
+下午08:56	Joey Chen(91)-仕傑	但 bcw 如果是在 word 第一個 char 就會變成刪前一個 word
+下午08:56	Joey Chen(91)-仕傑	所以應該要改成正規的 daw
+下午08:56	Joey Chen(91)-仕傑	delete a word
+下午08:56	Joey Chen(91)-仕傑	就像 da" 是刪掉 "" 的內容一樣
+下午09:02	Ivy Chen	"@Joey Chen(91)-仕傑 
+龜速練習中😳
+https://www.youtube.com/watch?v=wNiLdheNhAA&feature=share"
+下午09:04	Joey Chen(91)-仕傑	[貼圖]
+下午09:04	Joey Chen(91)-仕傑	"面對問題，才能解決問題。
+
+大家別怕自己練習慢"
+下午09:04	Joey Chen(91)-仕傑	慢才正常，那個快的都是練家子，他們一開始也是先這樣練過得
+下午09:05	Joey Chen(91)-仕傑	你要做的是，怎麼樣縮短變快的時間，而不是一開始就追求很快，不可能，也不科學。
+下午09:06	Joey Chen(91)-仕傑	"也不要擔心，一開始那麼爛的影片放出來，會不會對自己不好。恰恰相反，如果你有個歷程，人家看到你一開始這麼慢，練習幾次之後變成這麼快。
+
+代表你的成長潛力很好，願意練習，願意追求改善生產力"
+下午09:06	Joey Chen(91)-仕傑	就像我十年前寫的文章，現在看根本是垃圾
+下午09:06	Joey Chen(91)-仕傑	"如果有人說，你寫那啥爛文章，我就會說，對啊，你看我現在寫得多好。
+
+代表即使十年了，我隨時都在進步。"
+下午09:07	Joey Chen(91)-仕傑	讓這個爛，變成你的優點，在面試很重要的。
+下午09:46	Julian Yu-Lang Chu	Page up/down 綁原生vim的話有ctrl+b/f 可以參考看看
+下午09:47	Julian Yu-Lang Chu	91哥 我覺得diw比較趨近你的原意， daw會連空白一起
+下午09:50	Julian Yu-Lang Chu	91哥感謝review 我晚點看的時候會把resharper的bug修掉
+下午09:51	Ivy Chen	謝謝91哥給我們的激勵，持續刻意練習
+下午10:03	黃文德(Duncan)	好哦！
+下午10:04	Joey Chen(91)-仕傑	嗯嗯，對，應該要用 i
+
+2018/10/08（一）
+上午12:03	Janet	"@Joey Chen(91)-仕傑
+https://www.youtube.com/watch?v=EIRDWwTGh4E&feature=youtu.be"
+上午12:04	Janet	哈哈, 上傳完跨日了(moon laugh)
+上午12:07	Patrick Shih	"@Joey Chen(91)-仕傑 
+https://youtu.be/DrF-Uf8Hum0"
+上午12:32	小安	@Joey Chen(91)-仕傑  https://www.youtube.com/watch?v=A7uAzJ6A0Y8
+上午12:37	小安	上傳搞半天...我的if也有91哥說的bug還沒調整
+上午12:59	Joey Chen(91)-仕傑	很不錯耶
+上午01:51	Joey Chen(91)-仕傑	[照片]
+上午01:51	Joey Chen(91)-仕傑	哈哈哈哈
+上午01:51	Joey Chen(91)-仕傑	快打旋風桑基爾夫的螺旋摔
+上午01:52	黃銘軒	[貼圖]
+上午02:00	黃文德(Duncan)	@Joey Chen(91)-仕傑 https://youtu.be/c8hmgVsLDbw
+上午02:00	黃文德(Duncan)	Tennis 好不熟.....
+上午02:01	Joey Chen(91)-仕傑	[貼圖]
+上午02:02	黃文德(Duncan)	咦....不會....按鍵顯示被擋到......
+上午02:02	黃文德(Duncan)	可惡.....明晚再來一版.....
+上午02:03	Joey Chen(91)-仕傑	哈，先休息吧，晚安啦
+上午02:03	黃文德(Duncan)	晚安
+上午02:26	Joey Chen(91)-仕傑	@黃文德(Duncan) 完全可以在工作上用 vim 了 :)
+上午02:41	Joey Chen(91)-仕傑	Duncan 24min 做完 tennis 了
+上午07:23	Janet	厲害！
+上午07:55	Julian Yu-Lang Chu	強！
+上午08:17	Janet	謝謝91的用心與熱血式教學！練習才發現一切都是環環相扣的，跟Resharper比較熟，再練Vim有關係，
+上午08:18	Janet	重點是您設定的鍵都是有意義的，能互相切換的，真的是太強了！
+上午08:18	Janet	期待練功完成下山的那一天(hahaha)
+上午08:41	Janet	[照片]
+上午08:42	Janet	仔細看才發現連發票都熱血呀！加油💪
+上午09:49	Joey Chen(91)-仕傑	哈 對，我開第二間公司了
+上午09:49	Joey Chen(91)-仕傑	熱血科技，請大家多多指教
+上午09:50	黃文德(Duncan)	我第一次看到也驚呆了~太熱血了XDDDDD
+上午09:51	黃文德(Duncan)	感謝！針對影片裡，有什麼要特別調整的嗎？或我今天應該會再錄一次再看XD
+上午09:59	小安	這樣91會出熱血的貼紙嗎
+上午10:12	Joey Chen(91)-仕傑	"有機會 XD
+
+但得找人幫忙設計啊..."
+上午10:12	Joey Chen(91)-仕傑	熱血兩個字是我覺得最適合我的形容詞，也希望能喚醒大家心裡最原始的工程師魂
+上午10:13	Joey Chen(91)-仕傑	要調整的都在 comments 裡面啊
+上午10:14	Joey Chen(91)-仕傑	你的 comments 很少是因為你已經有偷練了，而且本來就對IDE很熟很熟了，所以串起來就很順了
+上午10:14	Joey Chen(91)-仕傑	最大的問題是，你TDD的節奏，沒執行測試出來紅燈，就改產品代碼，哈
+上午10:15	黃文德(Duncan)	對，這也是我一直重錄的原因，因為已經知道後面了，很常直接去寫產品代碼了........Orz
+上午10:15	黃文德(Duncan)	所以我是TDD不熟XD
+上午10:16	Janet	互相激勵, 很有動力!!
+上午10:19	黃文德(Duncan)	哦哦！原來寫在 Youtube 裡面了~現在才看到
+上午10:19	Joey Chen(91)-仕傑	是，後來覺得這樣進行挺不錯的 我也鼓勵大家看看別人的
+上午10:21	Janet	OK
+上午10:23	Joey Chen(91)-仕傑	後來我會請第一位第二位通過驗證的同學練習看其他同學，練習給建議
+上午10:23	Joey Chen(91)-仕傑	會發現其他同學思路、習慣的差異
+上午10:26	Janet	[貼圖]
+上午10:50	黃文德(Duncan)	@Joey Chen(91)-仕傑  ae 的 live template, variable 的變數順序要調整一下，expected 放上面﻿ ← 這個我不理解意思
+上午10:52	Joey Chen(91)-仕傑	我看到你的 ae, assertEquals 游標會先跳到 actual 的位置，才跳到 expected
+上午10:52	黃文德(Duncan)	哦哦！了解，那段是按誤，我不小心先按了 tab才跳到 actual，所以才要再回去，正常是如你所說的那樣
+上午10:56	Joey Chen(91)-仕傑	cool, 那就沒關係了
+上午10:56	黃文德(Duncan)	另外就切換使用過的檔案來說，以 phpstorm + mac ，我覺得按 command+e 會比 雙擊 shift 來的順，而且不知道是不是錯覺，command+e比double shift跳出來的快
+上午10:56	Joey Chen(91)-仕傑	"XD
+沒問題的，因為 Command 的位置比較舒服一點"
+上午10:57	Joey Chen(91)-仕傑	command +e 是單一組合鍵
+上午10:57	Joey Chen(91)-仕傑	雙擊 shift 要 listen
+上午10:57	黃文德(Duncan)	哦！對吼~那就合理了
+上午11:09	Joey Chen(91)-仕傑	@黃文德(Duncan) , IntelliJ 的 cyclic expand word 分成向前向後反而好麻煩
+上午11:12	黃文德(Duncan)	那如果使用單一方向，會循環到前面嗎？
+上午11:13	黃文德(Duncan)	PhpStorm 的 Cyclic Expand Word 方向性我搞不懂，隨機XD
+上午11:15	黃文德(Duncan)	另外 PhpStorm 的 Cyclic Expand Word 不單掃目前這個檔，是掃目前有開的所有檔案
+上午11:16	黃文德(Duncan)	測出來了，PhpStorm 是向上，然後掃所有目前開啟的檔案內容
+上午11:16	Joey Chen(91)-仕傑	酷
+上午11:16	Joey Chen(91)-仕傑	有 index 就是方便 XD
+上午11:17	Joey Chen(91)-仕傑	IntelliJ 單一方向會到底
+上午11:17	Joey Chen(91)-仕傑	不會循環，所以難用
+上午11:17	黃文德(Duncan)	那真的不好用....
+上午11:18	黃文德(Duncan)	以 Tennis 來說，因為測試已經寫了 Fifteen Love，所以我在產品代碼裡完全沒出現 Fifteen 的情況之下，我可以按 fif+Cyclic Expand Word 它就會出來了
+上午11:22	Joey Chen(91)-仕傑	是，我有看到
+上午11:23	黃文德(Duncan)	現在一直在想， abs那段，有沒有什麼更快的方式，實務上也算蠻常遇到那個情境的
+上午11:24	Joey Chen(91)-仕傑	"by the way, 擋在大家最大的障礙，其實還不是原本的開發習慣。
+
+而是你敢不敢在其他人面前呈現你寫代碼的真實模樣。"
+上午11:24	黃文德(Duncan)	我有點想以原本開發的方式來錄一次
+上午11:25	黃文德(Duncan)	算是個人記錄一下這個改變XD
+上午11:25	Joey Chen(91)-仕傑	"包括，錄影，放出來給別人看。
+
+我懂，因為我也被這道檻卡住過。我們總害怕顯露出自己不夠好的一面。
+
+然而這是上課，大家本來就是不會才來的。"
+上午11:25	Joey Chen(91)-仕傑	"聽起來不錯，但我自己是覺得很委屈自己 XD
+我上次錄影片就是關掉 vim, 好難受的啊"
+上午11:25	黃文德(Duncan)	[貼圖]
+上午11:25	Joey Chen(91)-仕傑	surround live template
+上午11:25	黃文德(Duncan)	反正就 ....很委屈自己30分鐘囉....
+上午11:26	Joey Chen(91)-仕傑	可以自訂 postfix template 也行
+上午11:27	黃文德(Duncan)	嗯嗯，晚點有空來玩玩看
+上午11:30	Joey Chen(91)-仕傑	phpstorm 還不能自訂 postfix template, 所以你只剩下 surround live template 可以選了
+上午11:31	Joey Chen(91)-仕傑	@黃文德(Duncan) 三門課都上完了，應該可以體會，為啥這三門課是三位一體的。
+上午11:31	黃文德(Duncan)	phpstorm 可以自訂 postfix 了
+上午11:31	黃文德(Duncan)	好像是在上上一改改成可以自訂
+上午11:31	黃文德(Duncan)	上上一版
+上午11:32	Joey Chen(91)-仕傑	實務上開發，要發揮100%戰力，就是這三門課的精華要融會貫通
+上午11:32	黃文德(Duncan)	真的，完全相關！！
+上午11:32	Joey Chen(91)-仕傑	喔喔，那就沒問題啦
+上午11:32	黃文德(Duncan)	也才發現，我最大的關卡還是 TDD 不熟
+上午11:33	Joey Chen(91)-仕傑	恩，TDD 內化最花時間啊...
+上午11:34	Joey Chen(91)-仕傑	所以我說，我TDD該知道的大概都知道時，大概還花了兩年的實務開發跟刻意練習，才有法子內化到很自然
+上午11:34	黃文德(Duncan)	[貼圖]
+下午12:07	Joey Chen(91)-仕傑	大家下課前的反饋整理：https://www.dropbox.com/sh/sgc1hjcqou3s0jm/AACfEFHHGGoj6xCs5pPZyM84a?dl=0
+下午12:23	Julian Yu-Lang Chu	藉機問一下91哥，之前有上過Skilltree TDD的話，單元測試實戰班還是會建議上過嗎 我本來是打算下次直接上TDD跟重構的
+下午12:27	Joey Chen(91)-仕傑	"我覺得，先上重構跟 TDD 就行了。
+
+如果你在實務上有碰到，沒法加單元測試的情況，再來找我討論就行。"
+下午12:27	Joey Chen(91)-仕傑	我覺得你底子挺好，所以應該還好。
+下午04:01	Julian Yu-Lang Chu	嗯 感謝91哥 
+下午06:21	Patrick Shih	"@Joey Chen(91)-仕傑 
+https://youtu.be/-B8UJgL5ewA"
+下午06:33	Joey Chen(91)-仕傑	看了前一分半，很棒，沒啥好建議的 (Y)
+下午07:01	Joey Chen(91)-仕傑	"這次迭代，最需要修改的地方是，zgc 用 tab 移到 message 的動作，只有第一次需要。
+
+之後 zgc 跳出視窗，focus 就都會停在 message 了。"
+下午07:02	Joey Chen(91)-仕傑	"另外，我也覺得 @Patrick Shih 可以在實務上用 vim 了 :)
+
+就是還需要精鍊一下 TDD 的動作"
+下午07:03	Joey Chen(91)-仕傑	期待第三個版本
+下午07:11	Patrick Shih	謝謝老師的誇獎
+下午07:13	Patrick Shih	這點我在試試看，總覺得要按好多次TAB好麻煩
+下午07:13	Joey Chen(91)-仕傑	最一開始應該是3-4次
+下午07:14	Joey Chen(91)-仕傑	然後就不需要了
+下午07:15	Patrick Shih	我發現有一個設定可以讓 Windows和VIM共用剪貼簿
+下午07:15	Patrick Shih	""" 共用剪貼簿
+set clipboard=unnamed"
+下午07:17	Joey Chen(91)-仕傑	嗯嗯
+下午07:18	Joey Chen(91)-仕傑	印象中之前有瞥到，但沒記起來，感謝補充 🙏
+下午07:19	Julian Yu-Lang Chu	zgc那個要用alt+i commit才行 不然下次游標不會在message
+下午07:19	Joey Chen(91)-仕傑	我記得他有用 alt+I 
+下午07:20	Joey Chen(91)-仕傑	另外，就算是用 tab 跳到按鈕上，下一次應該也只需要 shift+tab, 哈
+下午07:39	Patrick Shih	vsvim是不是設定擋不能用副檔名，我試過改成.txt後，VS重開不會自動載入
+下午07:40	Patrick Shih	source 有記得改
+下午07:40	Patrick Shih	路徑
+下午07:41	陳喬治	設定檔不能有副檔名，拿掉應該就好了
+下午07:45	Joey Chen(91)-仕傑	預設檔名得遵守規範
+下午07:45	Joey Chen(91)-仕傑	如果是txt, 就自己用 :source 載入即可
+下午07:46	Patrick Shih	可 IdeaVim 可以，哈
+下午09:13	Julian Yu-Lang Chu	@Joey Chen(91)-仕傑 https://youtu.be/aqTlAopgksQ
+下午09:54	Joey Chen(91)-仕傑	"我看了一半了，兩個主要要先提醒的重點。
+1. Ctrl+D 複製是最快的，原因是 normal mode 跟 insert mode 都能用。絕對比 yyp 來得快。
+2. tennis kata 拿來練 TDD, 重構, 開發方式, 極速的改善。不要急著完成代碼，而跳過思考的部份，這樣會有點本末倒置囉。
+
+會變跑很快，但方向是錯的，或是方式是錯的。
+
+雖然我們那門課沒強調到 TDD 跟設計的一些緣由，但看一下影片會發現，重構每個細的步驟都有其意義的。TDD 也是，think first, test first。"
+下午09:55	Joey Chen(91)-仕傑	"其餘的部份，vim 已經熟到不行了，我覺得沒問題。
+
+選取 mode insert surround template 的部份很讚，times 提取參數那邊我有給你反饋，你應該直接先用 for 2, 再把2提取成參數，然後順便命名成 times，這樣才不需要改呼叫端。"
+下午10:13	Karl_陳楷文_Kev	"@Joey Chen(91)-仕傑 
+https://www.youtube.com/watch?v=CjfYltp2qv8"
+下午10:14	Julian Yu-Lang Chu	謝謝91哥 有點太在意路徑跟動作 本末倒置了... 明天我會放慢節奏來練習
+下午10:15	Julian Yu-Lang Chu	另外 提醒一下大家 youtube會把短期間內太頻繁的部分留言丟進審核裡面 所以記得去審核一下，
+下午10:16	Joey Chen(91)-仕傑	XD
+下午10:16	Joey Chen(91)-仕傑	這我就不知道了，哈哈
+下午10:19	Julian Yu-Lang Chu	因為91哥剛貼在line的， 我在留言沒看到，才發現在審核裡面, 大概有一半左右被丟到待審核， 如果有看到昨天影片待審核的留言，今天就會少犯點錯誤XD
+下午10:22	Joey Chen(91)-仕傑	大家練幾天之後，就可以體會，第一梯次的同學連續錄了40天（還包含除夕跟農曆過年），有多威武了
+下午10:22	Joey Chen(91)-仕傑	說真的，心情需要平復時，練一下 tennis 可以平靜一下的
+下午10:27	Joey Chen(91)-仕傑	"話說，我 Odd-e 其他國外的同事，聽到我這樣的 training 方式也都驚呆了，對我用 youtube 做 online coaching 很感興趣，同時也覺得：這得花掉你多少時間啊？！
+
+我都回他們：這樣做才有效果，我要的是效果，效果就是口碑，口碑就是品牌。"
+下午10:31	黃文德(Duncan)	真的！一開始知道你 Youtube online coaching 就覺得很花時間，但也是這樣一直 review 我們寫的，效果才會好！太感謝！！！
+下午10:32	Joey Chen(91)-仕傑	"我 review 告一段落了。
+
+最主要要調整過來的，兩個點：
+1. cfn 跟 cfy 那邊，你會習慣用 cin 或 ciy。
+記住這件事就可以了：i跟a是拿來清「成對符號」的內容的。f跟t是單行，就像你用選取，從這邊清道那邊。
+
+2. 記得早一點重構測試，下一輪之前可以先看一下示範影片。"
+下午10:32	Joey Chen(91)-仕傑	我的 review 是為了讓大家覺得自己練習有意義，在補充下一輪的動力 XD
+下午10:33	Joey Chen(91)-仕傑	也是剛好我這周事情比較少啦，所以幾乎可以即時 review
+下午10:33	黃文德(Duncan)	XD
+下午10:35	Joey Chen(91)-仕傑	題外話，大家不要被前面幾位同學的影片嚇到了，他們好幾位都應該有一些 vim 的經驗了。這都不太正常啊 XD
+下午10:36	Joey Chen(91)-仕傑	正常一點的影片應該會讓我看得有點焦躁 XD
+下午10:36	黃文德(Duncan)	我是真的為了上課怕跟不上有偷練XDD
+下午10:37	Joey Chen(91)-仕傑	因為以前都是用 C# 上課，php的同學已經養成習慣了....XD
+下午10:39	黃文德(Duncan)	逼自已用vim+ide用了兩個多月，一開始也痛苦了一個半月.....
+下午10:39	Joey Chen(91)-仕傑	"說真的，別說啥，有多少人以前沒錄過影片。
+
+我以前也不知道怎麼錄影片，但後來發現一個契機，打通這道入門磚之後，我發現路影片這件事，你職涯成長過程中，總有一天會用到它。（不一定是 coding）"
+下午10:39	Joey Chen(91)-仕傑	就跟騎古靈精怪腳踏車一樣
+下午10:39	黃文德(Duncan)	@Joey Chen(91)-仕傑 Day2  https://youtu.be/8ZYB5f3_h4E
+下午10:39	Julian Yu-Lang Chu	我有在VScode試著用side project. 往事不堪回首.....上課後有點想轉用WebStorm....XD
+下午10:40	Joey Chen(91)-仕傑	[貼圖]
+下午10:42	歐趴	"還在看拷貝忍者的示範影片一步一步練QQ
+大概七成的時間都在殘廢狀態/設定照著影片按的行為，想說等到比較流暢一點再po, 會比較方便給評論。"
+下午10:43	黃文德(Duncan)	@Joey Chen(91)-仕傑 刮號系列的 map 還是記不起來
+下午10:43	Karl_陳楷文_Kev	謝謝～
+下午10:44	Joey Chen(91)-仕傑	改成自己記得起來的，就記得起來了，哈哈
+下午10:44	Joey Chen(91)-仕傑	我自己喜歡疊字
+下午10:44	Joey Chen(91)-仕傑	非得3個 character 時，我會先傾向讓2,3 同一個 char
+下午10:44	Joey Chen(91)-仕傑	好按
+下午10:45	Joey Chen(91)-仕傑	所以我喜歡按兩次 shift
+下午10:54	Julian Yu-Lang Chu	online coaching 真的很花時間跟專注力 同時要注意動作按鍵跟程式碼  還不是一天或是一個人而已 請收下我的膝蓋XD
+下午10:54	黃文德(Duncan)	了解！
+下午11:00	Julian Yu-Lang Chu	今天發現ctrl-x ctl-a 在同一行數字後沒有作用 而且在我筆電也不好按， 想改綁^<C-a> 跟^<C-x>的時候發現zaa跟zxx都已經被用走了...還猶豫了一些時間要改用甚麼...
+下午11:01	Julian Yu-Lang Chu	疊字還蠻好記的
+下午11:05	Joey Chen(91)-仕傑	在 php 裡面看到 f$ 我都會大笑。真討厭的 $
+下午11:06	Joey Chen(91)-仕傑	"趁著你們習慣還沒養成，可以把我的綁定改成自己的。
+
+我之前也有這種先用掉了，但我有更需要用的時候，去把之前綁定的換成新的 action"
+下午11:06	Joey Chen(91)-仕傑	然後再練個兩輪，習慣就可以再被改掉
+下午11:06	Joey Chen(91)-仕傑	身體已經習慣，差不多兩個迭代就可以把之前開發習慣調整過來
+下午11:08	黃文德(Duncan)	嗯嗯，我今天有改掉zra了，變成zrr，其它也慢慢慢感受順不順手，然後修改
+下午11:08	Joey Chen(91)-仕傑	Duncan 你比較少用 ; 對吧？
+下午11:08	Joey Chen(91)-仕傑	我指的是，f or t 之後的重複搜尋
+下午11:09	黃文德(Duncan)	對，還沒辦法直覺得去使用
+下午11:09	Joey Chen(91)-仕傑	13:50 的 comments，你再看一下
+下午11:09	黃文德(Duncan)	f、t 也沒辦法快速判斷使用時機
+下午11:09	Joey Chen(91)-仕傑	你那 3f空白，根本是鬼扯啊 XD
+下午11:09	黃文德(Duncan)	XDDD
+下午11:09	Joey Chen(91)-仕傑	我還想說你那邊為啥停頓了
+下午11:09	黃文德(Duncan)	其實按完就知道自己亂來了...但....回不去了XD
+下午11:10	Joey Chen(91)-仕傑	原來在算是第幾個空格 XD
+下午11:10	黃文德(Duncan)	對XDDDD
+下午11:10	Joey Chen(91)-仕傑	那邊就是用 vf空格，然後用 ; 不斷往後選
+下午11:10	Joey Chen(91)-仕傑	嚴格來說，應該是 vfs
+下午11:11	黃文德(Duncan)	那有個疑問，如果不小心多按了一個;的話，如何回頭？
+下午11:13	Joey Chen(91)-仕傑	好問題，我還不知道
+下午11:14	Joey Chen(91)-仕傑	永遠不回頭～～～～～～
+下午11:14	黃文德(Duncan)	XDDDD
+下午11:14	Joey Chen(91)-仕傑	交給你找答案了
+下午11:14	Joey Chen(91)-仕傑	因為我有發現這一點過
+下午11:14	Julian Yu-Lang Chu	,
+下午11:14	黃文德(Duncan)	結果熱血！永遠不回頭
+下午11:14	小安	我剛剛一回頭就要重錄了（掩面）
+下午11:15	Joey Chen(91)-仕傑	用逗號嗎？
+下午11:15	黃文德(Duncan)	哇！
+下午11:15	黃文德(Duncan)	感謝！
+下午11:15	Joey Chen(91)-仕傑	喔喔喔，真的耶
+下午11:15	Joey Chen(91)-仕傑	好棒
+下午11:15	Joey Chen(91)-仕傑	,.;果然是我們的好朋友
+下午11:16	Joey Chen(91)-仕傑	感謝 Duncan 問了好問題，感謝 Julian 瞬間給的幫助，我多學了一招了
+下午11:17	黃文德(Duncan)	可以回頭了，希望下次不會出現 3f 這種鬼東西XDDD
+下午11:17	Julian Yu-Lang Chu	我有寫在之前的vim筆記上XD 剛去搜
+下午11:17	黃文德(Duncan)	[貼圖]
+下午11:17	Julian Yu-Lang Chu	但其實我都會忘掉
+下午11:19	Julian Yu-Lang Chu	這種平時不常用 需要時會焦慮的這種鍵...
+下午11:20	黃文德(Duncan)	真的......
+下午11:20	黃文德(Duncan)	像我目前都只會用f、F，但事後看發現有些地方按 t、T 更快....但當下根本判斷不出來.....
+下午11:20	Joey Chen(91)-仕傑	review 完畢
+下午11:21	黃文德(Duncan)	感謝！！
+下午11:21	Joey Chen(91)-仕傑	f跟t的差異，我都是先辨識哪個東西足夠獨特
+下午11:22	Joey Chen(91)-仕傑	你也可以發現，如果你用 TDD 開發，你比較會去思考到，什麼東西可以用 . 重複
+下午11:22	Joey Chen(91)-仕傑	因為這個機會變多了，每次新的 test case 大概都只有一個東西跟上一個不一樣
+下午11:22	Joey Chen(91)-仕傑	如果是大量不同的，代表你是在處理/描述，新的 test case group 了，也就是新的小 feature
+下午11:23	Joey Chen(91)-仕傑	我還是覺得，這門課我可以安排成這樣上法，還是挺屌的 XD
+下午11:24	黃文德(Duncan)	[貼圖]
+下午11:25	黃文德(Duncan)	真的，今天特別有你說的這個感受，昨天感覺只是單純模仿，今天就有這種感覺
+下午11:29	Joey Chen(91)-仕傑	"是， @黃文德(Duncan) 跟 @Julian Yu-Lang Chu 你們手感都沒問題了，現在要讓快跟TDD的對，也就是思路跟手跟代碼合而為一。
+
+do the right thing, do the thing right。TDD 是練思維的，練設計的。
+
+TDD 的完成體，是習慣性的化繁為簡拆分需求，以及高可用性的 API 設計。"
+
+2018/10/09（二）
+上午12:08	黃文德(Duncan)	哈，錄了一版用我原本的開發方式
+上午12:17	Julian Yu-Lang Chu	嗯 知道接下來的目標了 持續練習精進
+上午12:17	Julian Yu-Lang Chu	不會不習慣嗎
+上午12:18	Hikaru Lai	請問, 我按zd有時會沒作用, 是因為跟其他設定干擾了嗎
+上午12:19	Julian Yu-Lang Chu	我之前會出現在正常VS2017按dd跟o的狀況
+上午12:19	Julian Yu-Lang Chu	我幫你看一下設定檔
+上午12:19	Joey Chen(91)-仕傑	時間差多少啊？
+上午12:20	Julian Yu-Lang Chu	zd只能在insert mode用喔
+上午12:20	Julian Yu-Lang Chu	你會不會在normal mode
+上午12:20	Joey Chen(91)-仕傑	"insert mode 的 zd 用來刪除當下這一行？
+確認一下是不是你還有綁其他 zd開頭的 keymap，然後也可以改用 ctrl+X 直接剪掉那一行"
+上午12:23	Hikaru Lai	對耶 確實只能在insert mod使用
+上午12:24	Hikaru Lai	:nmap zb bcw  這個沒用嗎
+上午12:25	Julian Yu-Lang Chu	有 那個要在要normal mode
+上午12:26	Hikaru Lai	但是我在normal mod按是沒作用的
+上午12:26	Julian Yu-Lang Chu	設定檔裡面註解是用"，  各行最前面:的不影響任何東西
+上午12:28	Julian Yu-Lang Chu	直接按bcw可以嗎
+上午12:29	黃文德(Duncan)	跟我預期的一樣，比目前我使用 vim 還快，18:35 ，但那是因為我對原本的操作很熟，幾乎不用思考XD
+上午12:30	黃文德(Duncan)	所以 vim 再一直練下去一定會超過這個的！
+上午12:30	黃文德(Duncan)	https://www.youtube.com/watch?v=PdZGzWBzB64
+上午12:31	Julian Yu-Lang Chu	我想到還有一個可能 zb中間隔太久...
+上午12:31	黃文德(Duncan)	只是一直大量使用方向鍵，少數用滑鼠
+上午12:31	Julian Yu-Lang Chu	z(等一下)b會失效
+上午12:32	黃文德(Duncan)	會哦，因為 listen 時間超過了
+上午12:32	Joey Chen(91)-仕傑	這個肯定有用的，你如果在 normal mode, 那很可能是位置錯了
+上午12:33	Joey Chen(91)-仕傑	是，vim 的 keymap 每一個鍵要在 0.5秒內接起來，不然就會以為你是要按 z 而已
+上午12:34	Julian Yu-Lang Chu	18分35好快喔...
+上午12:36	Julian Yu-Lang Chu	不過我突然想到一件事 Tennis Kata需求其實沒有在宣傳或報名網站出現對嗎 好像練示範影片中都沒出現?
+上午12:37	Julian Yu-Lang Chu	有興趣的人 想要測自己實作跟影片差多快不就沒辦法嗎
+上午12:38	黃文德(Duncan)	因為不用思考怎麼按，剛全是肌內記憶，vim 現在還無法，剛才忘了開 keycastr ，不然會發現我按的按鍵非常得多而且快，這樣的情況下才到 18:35，但 @Joey Chen(91)-仕傑  的 php 版沒按這麼多按鍵，用 vim+ide+肌內記憶就到 16分了......完全是不同的檔次ㄚ~~~~~
+上午12:49	Karl_陳楷文_Kev	其實google tennis kata 就有文章在介紹需求了
+上午12:52	Julian Yu-Lang Chu	[貼圖]
+上午12:52	Julian Yu-Lang Chu	糗 我完全不知道⋯
+上午12:52	Joey Chen(91)-仕傑	所以之前有人在粉專私訊我，覺得16分鐘沒什麼...XD
+上午12:52	Joey Chen(91)-仕傑	恩，tennis 跟 bowling 是很有名的 kata
+上午12:53	Julian Yu-Lang Chu	bowling倒是練過好幾次.....tennis我就真的完全沒碰到了 哪本書的阿
+上午12:54	Joey Chen(91)-仕傑	我有機會會再玩一版，是加入 Cyclic expand word 的
+上午12:54	Joey Chen(91)-仕傑	"不是書的，是 kata 網站啊。
+http://codingdojo.org/kata/"
+上午01:03	Julian Yu-Lang Chu	91哥沒叫那個人來錄個影片秀一下多快嗎XD
+上午01:06	黃文德(Duncan)	"而且，我發現我是對 TennisGame 愈來愈熟才會快，剛又錄了一次原始操作有 keycastr，這次又破記錄了.....期待明天 vim  的！！
+但整個過程就真的很急很急的感覺XDDD"
+上午01:08	黃文德(Duncan)	@Joey Chen(91)-仕傑 PhpStorm 的 Main menu | Edit | Find | Add Selection for Next Occurrence 也很好用，我在原始操作方式下，非常常用
+上午01:12	Joey Chen(91)-仕傑	那個不是用來類似 rename 的嗎？
+上午01:12	Joey Chen(91)-仕傑	"他說，我不懂為啥你要寫得那麼麻煩，一定要寫測試嗎？
+那種這麼簡單的 if 為啥要寫得這麼囉唆。
+
+我就不想跟他討論下去了。"
+上午01:13	黃文德(Duncan)	算是，但 rename 我反偶少用，除非改 變數名、function 原頭需要 ide，不然是改使用端或字串，我會用它
+上午01:14	黃文德(Duncan)	主要是  rename 會去掃其它的，但我只想改當下的
+上午01:14	Joey Chen(91)-仕傑	我覺得那功能很不錯，但我自己真的找不到試用場景 XD
+上午01:14	Joey Chen(91)-仕傑	適用
+上午01:14	黃文德(Duncan)	哈
+上午01:14	Joey Chen(91)-仕傑	可能要有個例子
+上午01:15	Joey Chen(91)-仕傑	例如 test method 複製 Fifteen 要一起改成 Thirty?
+上午01:15	黃文德(Duncan)	剛我原始操作的影片就很常用，例如 'Love All' 要改成 'Fifteen All'
+上午01:17	黃文德(Duncan)	以傳統方式，必需先在要選的字的開頭然後shift+control+→，然後再改，而且操作起來有點麻煩，我就會按它，是不同在那個字的哪邊都可以按
+上午01:17	黃文德(Duncan)	但這是傳統操作之下，vim的話，目前我是找不到用的時機點
+上午01:17	黃文德(Duncan)	所以vim版我還沒使用那個功能
+上午01:18	黃文德(Duncan)	算是跟 bcw 雷同
+上午01:18	Joey Chen(91)-仕傑	恩，我有試用過這功能 :)
+上午01:19	黃文德(Duncan)	ㄚ!!這樣聊完，發現我可以把你的zb改成我習慣的Add Selection for Next Occurrence
+上午01:20	黃文德(Duncan)	這樣應該可以更順手了！
+上午01:21	小安	剛剛才發現 91哥的指導留言居然有一半被youtube 丟進疑似垃圾內容（囧）
+上午01:21	黃文德(Duncan)	[貼圖]
+上午01:21	黃文德(Duncan)	短時間留言太多吧....
+上午01:22	小安	有一堆建議都沒看到啊啊啊...OTZ
+上午01:23	小安	@Joey Chen(91)-仕傑 附上今天的影片 https://www.youtube.com/watch?v=Q_DAO_RdTCA&feature=youtu.be
+上午01:25	Ivy Chen	趁小孩睡了才有時間專心練習30分鐘，結果練到一半小孩哭了......思路不太清晰的一次練習，要辛苦91哥了...
+上午01:25	Ivy Chen	"@Joey Chen(91)-仕傑 
+https://youtu.be/4Az6ByF8YRI"
+上午01:35	Joey Chen(91)-仕傑	"https://plugins.jetbrains.com/files/2162/screenshot_16015.png
+IntelliJ 上一個好噁心的 string plugin"
+上午01:37	Joey Chen(91)-仕傑	辛苦了
+上午01:48	黃文德(Duncan)	這......好變態的 sort .....
+上午10:05	Julian Yu-Lang Chu	有種內嵌偽excel的感覺XD...用來處理排序的test case感覺很實用
+下午01:13	Joey Chen(91)-仕傑	review 完畢了，看到 17:06
+下午01:15	Joey Chen(91)-仕傑	"你是接著第一次的繼續往下練嗎？
+
+建議每一次都從頭練"
+下午01:16	Ivy Chen	對耶...好的
+下午01:30	Joey Chen(91)-仕傑	review 完畢。每一次都從開頭練，才能依據 review comments 把該調整的習慣調整過來。
+下午01:30	Joey Chen(91)-仕傑	"@黃文德(Duncan) , @Julian Yu-Lang Chu ，我錯了，那個 plugin 不是 IntelliJ 而已。
+Compatible with: IntelliJ IDEA  PhpStorm  WebStorm  PyCharm  RubyMine  AppCode  CLion  GoLand  DataGrip  Rider MPS  Android Studio"
+下午01:31	Joey Chen(91)-仕傑	https://plugins.jetbrains.com/plugin/2162-string-manipulation
+下午01:31	黃文德(Duncan)	哇！
+下午05:18	Joey Chen(91)-仕傑	剛錄了一版 13:58
+下午05:18	黃文德(Duncan)	哇哇！！！
+下午05:18	Joey Chen(91)-仕傑	肯定還能更快
+下午05:18	黃文德(Duncan)	我昨天第二版是 16:22
+下午05:19	Joey Chen(91)-仕傑	因為我有兩個地方按錯
+下午05:19	黃文德(Duncan)	太神了！
+下午05:20	Joey Chen(91)-仕傑	大家應該可以知道，為啥我對那種代碼裡面用中文來命名的，有多嗤之以鼻了
+下午05:20	Joey Chen(91)-仕傑	告訴我，vim怎麼用 XD
+下午05:20	黃文德(Duncan)	中文命名？
+下午05:20	黃文德(Duncan)	變數名嗎？
+下午05:20	黃文德(Duncan)	還是 test name ？
+下午05:20	Joey Chen(91)-仕傑	恩，台灣好多 .net 工程師愛用中文命名，方法名字跟變數啊
+下午05:20	Joey Chen(91)-仕傑	產品代碼
+下午05:20	黃文德(Duncan)	呃..........
+下午05:20	黃文德(Duncan)	我傻眼......
+下午05:21	Joey Chen(91)-仕傑	理由是，英文太差，人家看不懂他的程式
+下午05:21	Joey Chen(91)-仕傑	幹，他輸入法還沒打完我都寫完一行了
+下午05:21	Joey Chen(91)-仕傑	喔，不小心爆粗口了，罪過罪過，雖然大家應該知道我的 style 就是降 :P
+下午05:22	黃文德(Duncan)	XDD
+下午05:28	Karl_陳楷文_Kev	我以為那是中國才這樣
+下午05:28	Karl_陳楷文_Kev	@@
+下午05:30	Joey Chen(91)-仕傑	哈，至少我知道，之前保哥公司底下的專案，蠻多工程師是這樣的。還有旅遊業、出版業的工程師
+下午05:30	黃文德(Duncan)	噗，這算爆料嗎XD
+下午05:30	Joey Chen(91)-仕傑	我都跟他們直接說, 連想名字都不想花力氣，怎麼可能寫出好設計
+下午05:31	Joey Chen(91)-仕傑	"https://www.youtube.com/watch?v=gmiEQKlt1fY&feature=youtu.be
+IntelliJ, 13:58"
+下午05:33	黃文德(Duncan)	[貼圖]
+下午05:36	Karl_陳楷文_Kev	好像還有公司是用羅馬拼音
+下午05:36	Patrick Shih	我之前上過他的課，課堂上他也是說寫亂七八糟的英文命名，還不如用中文命名
+下午05:37	Joey Chen(91)-仕傑	XD 這句話沒有說錯，只是他們家的工程師，因應這句話的 action 就是中文命名
+下午05:38	黃文德(Duncan)	寫亂七八糟的英文命名，還不如用中文命名 ← 這句我倒覺得是ok，因為前題是"亂七八糟的英文命名"，所以要想好出好的命名XD
+下午05:43	Patrick Shih	這是直接放棄的意思~~~~讓底下的工程師直接用中文
+下午05:49	Julian Yu-Lang Chu	JetBrains都出些黑科技......VS地表最強IDE.... 看91哥文章後就覺得 JetBrains系列好像快離地了XD
+下午05:52	Joey Chen(91)-仕傑	哈，說真的，我用 C# with Visual Studio 寫不出 13分鐘的版本
+下午05:52	Joey Chen(91)-仕傑	IntelliJ 的版本，在TDD跟重構上，更貼近原意了
+下午05:52	Joey Chen(91)-仕傑	那個 merge if 是關鍵
+下午05:52	Julian Yu-Lang Chu	我覺得註解中文沒問題  方法跟變數真的不行，雖然以閱讀程式碼的方便度來說中文的確比較方便, 但交換來的是生產力低落..現在有很多輔助拼寫錯誤的功能， 之前好像還有看到利用AI可以提供建議字(忘了是Amazon還是M$)，這些功能都是英文一定先有的，之後生產力差異會越拉越大
+下午07:16	Julian Yu-Lang Chu	寫亂七八糟的英文命名，還不如用中文命名這句話其實有點問題.....如果是亂七八糟的英文命名code reviewer跟資深工程師或架構師的要負責阿，
+下午11:35	Patrick Shih	"@Joey Chen(91)-仕傑 
+https://youtu.be/JDrmrpEhkoE"
+下午11:56	Karl_陳楷文_Kev	"@Joey Chen(91)-仕傑 
+https://www.youtube.com/watch?v=b0XVm1JViMg"
+
+2018/10/10（三）
+上午01:16	Joey Chen(91)-仕傑	挺奇怪的，你在11:30 F1 複製測試失效了，然後 13:59 的 . 重複 ctPsecond 應該也要生效才對。
+上午01:18	Joey Chen(91)-仕傑	F1 難道是在 visual mode 按的，看起來不太像
+上午01:18	黃文德(Duncan)	"@Joey Chen(91)-仕傑 
+https://youtu.be/auFlWdeOE9k"
+上午01:18	黃迺翔（Milkker）	"@Joey Chen(91)-仕傑 
+https://www.youtube.com/watch?v=5W_scx6SLKU"
+上午01:19	Joey Chen(91)-仕傑	Duncan 你的我再下一輪就不用看了 :P
+上午01:19	黃文德(Duncan)	好哦~
+上午01:19	黃文德(Duncan)	昨天建議的 zn 在這次有很大的幫助！
+上午01:20	Joey Chen(91)-仕傑	之前 zn 這綁定真的是我一個里程碑的突破啊
+上午01:20	黃文德(Duncan)	[貼圖]
+上午01:20	Joey Chen(91)-仕傑	幾乎反射動作，只是 java, C# 紅字很明顯，php比較不明顯，偶爾也會誤判
+上午01:20	黃文德(Duncan)	剛錄完也有嚇到.....
+上午01:29	Joey Chen(91)-仕傑	"下次錄影，把字/百分比調大一點點吧。
+review 起來太傷眼了 XD"
+上午01:43	Joey Chen(91)-仕傑	"review 告一段落，兩個重點：1. vi""c 這個習慣要改掉，可以直接用 ci""。
+2. 怎麼稍微調整順序，就可以用 . 重複，這一個感覺要練習養成。﻿"
+上午01:47	Joey Chen(91)-仕傑	我覺得一兩年內，應該不會看到這門課有人 PHP 會比你快了...
+上午01:53	黃文德(Duncan)	[貼圖]
+上午01:54	黃文德(Duncan)	只是手速比較快些，但 TDD 不行......Tennis Game 因為練很多次了，不用"想"了XD
+上午01:57	Joey Chen(91)-仕傑	"這門課本來就是手速了 :P
+
+PHP 對我來說比較難的，其實是那幾個 tricky 的重構跟手法。
+
+例如先宣告 field ==0 抽走，先寫 for loop 再提取參數上去。"
+上午01:58	黃文德(Duncan)	哈，原來是php才這樣ㄚ？c#不用？
+上午01:58	黃文德(Duncan)	來看看c#的影片
+上午02:00	Joey Chen(91)-仕傑	"C#, java 都可以直接用 add parameter 做。
+然後 field 不用宣告，直接寫 firstPlayerScoreTimes++; 就可以產生了。
+因為 ++ 預設是 integer 行為，所以會自動標示成 integer"
+上午02:00	Joey Chen(91)-仕傑	強型別的世界 Love~
+上午02:00	黃文德(Duncan)	另外目前寫 tennis 快，但實務上，情況都不一樣，還是很卡，又無法一直重複練XD~需要慢慢增加經驗值了
+上午02:01	黃文德(Duncan)	[貼圖]
+上午02:01	Joey Chen(91)-仕傑	"我覺得沒問題的，偷一點，是一點。
+
+我的經驗，實務上只是沒法子這樣不停頓，也不該不停頓。"
+上午02:01	Joey Chen(91)-仕傑	"可是，當你的想法已經到了，代碼大概也到了。
+而不是想法到了，代碼還慢慢在推進...反而影響了想法的節奏。"
+上午02:02	黃文德(Duncan)	嗯嗯！持續努力！
+上午02:04	黃文德(Duncan)	然後用了 vim 之後，真的愈來愈覺得 php 的錢好煩XDDD
+上午02:05	黃迺翔（Milkker）	"今天在錄的時候很有感
+先嘗試vim的使用方法，一堆hardcode
+後面有點有感覺一點後，才有辦法分一些腦袋去處理平常寫code的pattern"
+上午02:05	黃文德(Duncan)	[貼圖]
+上午02:08	Joey Chen(91)-仕傑	surround live template 可以設一下。我 intelliJ 已經搞定了
+上午02:08	Joey Chen(91)-仕傑	abs() 括起來
+上午02:09	黃文德(Duncan)	今天晚上花了半個多小時想怎麼設 vim map 來處理掉，但無法......
+上午02:09	黃文德(Duncan)	surround live template 我不太會設
+上午02:09	Joey Chen(91)-仕傑	https://youtu.be/gmiEQKlt1fY?t=690
+上午02:10	Joey Chen(91)-仕傑	"其實我也是因為錄完感覺到不方便，才研究怎麼設定的。
+所以我喜歡我這份工作啊，發現可以改善的點，然後一步一步推。"
+上午02:12	Joey Chen(91)-仕傑	你有高畫質的版本嗎？480p 其實挺難 review 的
+上午02:12	黃迺翔（Milkker）	我看看喔
+上午02:13	黃迺翔（Milkker）	我重新輸出看看
+上午02:18	黃迺翔（Milkker）	"因為剛剛沒關line 所以有剪輯
+我重新輸出，晚上讓他跑上傳 明天在貼上來好了"
+上午02:18	Joey Chen(91)-仕傑	而且建議你從頭開始練，這影片直接切入中間，我完全無法 review 起。影片的開頭完全不知道你再按什麼，因為不知道目的 XD
+上午02:19	Joey Chen(91)-仕傑	一定要多看完幾次完整的示範影片
+上午02:19	黃迺翔（Milkker）	好
+上午02:19	Joey Chen(91)-仕傑	順便練 TDD, 會有幫助的
+上午02:19	黃迺翔（Milkker）	"恩恩 老師想問一下
+( 這個符號的移動規則不太懂"
+上午02:20	Joey Chen(91)-仕傑	"我給另外一位同學的建議，就是如果覺得自己是在「想」怎麼開發上卡住，就是下一輪開始前，先再看一次示範影片。
+會越看越快。
+
+然後看一遍上一次自己練習的影片，我給了什麼 comments，記在心裡，等等刻意練習用的。"
+上午02:20	Joey Chen(91)-仕傑	"我不用 ( 啊。
+
+嚴格來說是段落的開頭"
+上午02:21	Joey Chen(91)-仕傑	{ 是跳上一個空白行，( 大概就是在空白行的下一行
+上午02:21	Joey Chen(91)-仕傑	我看你影片，g4
+上午02:22	Joey Chen(91)-仕傑	是用 console project 在跑，裡面的寫法也搞得複雜，弄到 Func，這些都是多的...
+上午02:23	Joey Chen(91)-仕傑	而且，我在你的 menu 上，好像沒看到 ReSharper，該不會沒裝吧？ @@?
+上午02:34	黃迺翔（Milkker）	還沒裝耶 前陣子都還在追進度
+上午02:34	黃迺翔（Milkker）	是用上課寫的code來跑測試做練習
+上午02:35	Joey Chen(91)-仕傑	重練，從無到有寫
+上午02:35	Joey Chen(91)-仕傑	照著示範影片的流程寫，搞不好你可以額外學到不少TDD, 重構跟開發方式
+上午02:35	黃迺翔（Milkker）	嗯嗯 我先把tennis的影片再完整看一次
+上午02:35	Joey Chen(91)-仕傑	嗯嗯 會有幫助的
+上午02:35	黃迺翔（Milkker）	[貼圖]
+上午02:35	Joey Chen(91)-仕傑	然後 resharper 要裝的
+上午02:35	黃迺翔（Milkker）	謝謝老師
+上午02:36	Joey Chen(91)-仕傑	課前環境準備就有提醒大家了
+上午02:36	黃迺翔（Milkker）	我想說先把vimrc調整掉
+上午02:36	Joey Chen(91)-仕傑	我記得你在學校？如果是，用學校的身份去申請 license 吧
+上午02:36	黃迺翔（Milkker）	沒啦 上版了
+上午02:36	Joey Chen(91)-仕傑	喔喔，我以為你是教職
+上午02:36	黃迺翔（Milkker）	上班了 最近年終驗收輪迴
+上午02:37	黃迺翔（Milkker）	[貼圖]
+上午02:39	黃迺翔（Milkker）	所喔先重新看影片，再熟悉一下vim跟裝Resharper後，在拍影片
+上午02:42	Joey Chen(91)-仕傑	[貼圖]
+上午02:43	黃迺翔（Milkker）	[貼圖]
+上午02:43	黃迺翔（Milkker）	老師也早點休息
+上午08:52	Janet	@Joey Chen(91)-仕傑 https://www.youtube.com/watch?v=IIA_futHKB4&t=135s&list=PLjU_mhFTKtQpwlCZCSSsJTO5KssApJv63&index=4
+上午08:54	Janet	我徹底的反省中, 哈哈~
+上午08:56	Janet	要能容忍錯誤忠實呈現, 才能記錄自己的問題, 下一輪再修正.
+上午09:32	Karl_陳楷文_Kev	謝謝91 
+上午10:32	Patrick Shih	"@Joey Chen(91)-仕傑 
+https://youtu.be/EfSDBtyEFNg"
+上午11:22	Julian Yu-Lang Chu	@Joey Chen(91)-仕傑  https://youtu.be/28USOgc1YWA
+下午12:06	Joey Chen(91)-仕傑	大家知道為啥我的錄影都要配音樂嗎？這樣我才有耐心看完跟多看幾遍 XD
+下午12:13	Julian Yu-Lang Chu	91哥是直接用youtube裡面的免費音樂庫嗎
+下午12:14	Joey Chen(91)-仕傑	我最近的影片是用 facebook 的免費媒體庫的
+下午12:15	Joey Chen(91)-仕傑	是應該用 youtube 上的，如果要放在 youtube
+下午12:15	Joey Chen(91)-仕傑	(facebook 影片審音樂很嚴格的，youtube 只會抓出來，但不會強制移除音樂
+下午12:21	Joey Chen(91)-仕傑	TDD 開發時，真的不需要 scoreLookup.ContainsKey()
+下午12:21	黃迺翔（Milkker）	可以找NCS 無版權音樂來使用
+下午12:22	Joey Chen(91)-仕傑	"請大家要留意一下，我之前的 reivew comments 可能很多被歸類到待審核。
+然後每一輪的練習，記得要試著依據 comment 調整一下。"
+下午12:23	Joey Chen(91)-仕傑	"就跟刻意練習一書裡面，靠北《異數》裡面一萬小時就可以變成專家的立論點一樣。
+如果沒有正確的方式刻意練習的話，一萬小時也只是重複而已 :) 只能變熟悉一點，沒法有質的變化。"
+下午12:25	Janet	真的，我錯了二天，幸好有群組訊息救了我(at last!)
+下午12:43	Joey Chen(91)-仕傑	by the way, 再兩天，JetBrains 個人訂閱首年8折優惠的表單要收單囉
+下午12:48	Joey Chen(91)-仕傑	@Patrick Shih 也可以直接在工作上用 vim 啦。建議來上一輪 TDD/重構。會讓你在開發與設計的過程中，更加精準和精鍊。刀刀直指要害的感覺。
+下午01:11	Joey Chen(91)-仕傑	"review 完畢，不錯，30分鐘就寫完完整的版本了。
+如果重構地更即時，TDD的更準確，至少可以快 5分鐘"
+下午01:31	Julian Yu-Lang Chu	@Patrick Shih 我可以問一下你用的git插件是甚麼嗎
+下午01:49	Patrick Shih	要裝 Git Windows & GitExtension & GitExtension 的VS插件
+下午01:49	Patrick Shih	這三樣
+下午01:51	Patrick Shih	不過裝了以後 VS 自帶的 Commit 的 ALT + I 會不能用
+下午02:27	Joey Chen(91)-仕傑	你的我也 review 完了，沒啥大問題，只有最後的重構手法可以多練習
+下午02:51	Julian Yu-Lang Chu	謝謝 91哥， 目前路徑選用也還是不夠精準而且思考也花得有點久，還要持續練習， 另外有一個疑問是_firstPlayerScore!=_secondPlayerScore 這個平手與否的判斷式是我會等到Fifteen All這個testcase才出來， 但是如果事前閱讀test case跟網球規則已經知道平手與不平手兩種狀態的條件，是否可以提早一點在Love All寫出來， 同樣的疑問也發生在Adv跟Win的前提是最少有一方要>3的條件
+下午02:52	Julian Yu-Lang Chu	謝拉 看起來介面感覺不錯 我研究看看
+下午02:52	Joey Chen(91)-仕傑	你說得沒有錯，我會在 Fifteen All 的前一個測試案例重構出來這個判斷，是有前提的。
+下午02:53	Joey Chen(91)-仕傑	在 TDD 課程裡面，我們會先針對需求做實例化需求，測試案例探索, grouping, 排序，並做基本的設計/邏輯樹分析。
+下午02:54	Joey Chen(91)-仕傑	"所以在每一個紅燈變綠燈的過程，其實都在某一條邏輯樹上的分支。
+
+所以那一堆 if branch merge 是參照著那棵邏輯樹上的草稿走得"
+下午02:54	Joey Chen(91)-仕傑	撇開這樣的前提，就練習來說，把步驟拆細會好一點，看到重複或製造出重複，才重構
+下午02:58	Joey Chen(91)-仕傑	[照片]
+下午02:59	Joey Chen(91)-仕傑	橘線就是主幹，幾個分支最後會合併成主幹
+下午02:59	Joey Chen(91)-仕傑	[照片]
+下午02:59	Joey Chen(91)-仕傑	測試案例探索、群組、排序、分析 baby step
+下午02:59	Joey Chen(91)-仕傑	[照片]
+下午02:59	Joey Chen(91)-仕傑	落到邏輯樹上的 產品feature 增量
+下午03:01	Joey Chen(91)-仕傑	"一開始就有基本的演算法基底當作藍圖，作為基本方向去設計，也是幫助跟 pair 之間的討論。
+
+在做的過程可能會有不同，但總得先有個全貌的想法，而不是邊寫邊想。
+
+這是學TDD後面的一道門檻，容易邊想邊做，見樹不見林。"
+下午03:02	Joey Chen(91)-仕傑	怎麼剛好的討論，剛好的草稿，隨時可以保持著調整演算法、重構的步調跟 易用性的 API 設計，是完成體的模樣
+下午03:04	黃文德(Duncan)	[貼圖]
+下午03:32	Janet	[貼圖]
+下午03:39	Julian Yu-Lang Chu	"又學到新觀念!!
+三門課程感覺就是對應TDD的心(TDD重構)技(極速開發)體(單元測試)"
+下午03:40	Joey Chen(91)-仕傑	嗯 沒有單元測試 沒法重構
+下午03:40	Joey Chen(91)-仕傑	沒有重構的 TDD 就只是 Test first
+下午03:41	Joey Chen(91)-仕傑	沒有開發的生產力，這些工程實踐就都不夠實務。
+下午05:36	小安	請問 Resharper 的 if bug要去哪邊改，我跟他不太熟（掩面）
+下午05:49	Joey Chen(91)-仕傑	"https://youtrack.jetbrains.com/oauth?state=%2Fissue%2FRSRP-471253
+在 visual studio 快速搜尋那邊，輸入 template explorer"
+下午05:50	黃迺翔（Milkker）	看完一輪影片了，要放0.5比較跟得上
+下午05:50	Joey Chen(91)-仕傑	照圖去找右邊的 expr, Execute basic/smart completion, 把它改成 basic 的 marco 就好
+下午05:50	Joey Chen(91)-仕傑	正常，到這麼深的地方，沒幾個人熟的
+下午06:07	小安	[照片]
+下午06:07	小安	[照片]
+下午06:07	小安	改了之後好像沒有改變
+下午06:09	Joey Chen(91)-仕傑	因為你選錯if了
+下午06:09	Joey Chen(91)-仕傑	你選到 #if
+下午06:10	小安	[貼圖]
+下午06:11	小安	我眼殘...看到if就很開心地改下去了 可以了 ！
+下午06:11	小安	感謝91哥
+下午06:21	Joey Chen(91)-仕傑	還好你有貼圖
+下午08:00	小安	內心覺得我一定有什麼誤會，所以附個圖片比較保險 ＸＤ
+下午11:13	小安	@Joey Chen(91)-仕傑 https://www.youtube.com/edit?ar=1&o=U&video_id=hObyD5foNJo  終於在30分鐘左右手殘的寫完了
+下午11:13	小安	https://www.youtube.com/watch?v=hObyD5foNJo&feature=youtu.be 這個才對..
+下午11:22	Joey Chen(91)-仕傑	"有練的同學應該都可以感受到，這一整套的訓練，很多細微的地方都可以讓你小小的動作都偷一丁點時間出來。
+就像複製測試案例這件事。
+
+用滑鼠選取很常多一個字元，少一個字元的問題，讓從你手上敲出來的代碼跟你的思路更能串在一起，中間不會「因為手速太慢」而間隔太久。"
+下午11:27	Joey Chen(91)-仕傑	"by the way, 有兩個大家常見的錯字提醒一下。
+
+1. 測試裡面提取的方法名稱，是 Given 不是 Give
+2. Lookup 是一個字，所以不要寫成 LookUp 了。"
+下午11:35	黃迺翔（Milkker）	老師 要快速選取雙引號內的文字 是v什麼啊？
+下午11:35	Joey Chen(91)-仕傑	vi"
+下午11:36	Joey Chen(91)-仕傑	我綁定的是 z"
+下午11:36	Joey Chen(91)-仕傑	包含雙引號的話就是 va"
+下午11:37	黃迺翔（Milkker）	恩恩 想再多寫幾遍再來拍一次影片
+下午11:38	黃迺翔（Milkker）	主要都是在 zj 跟 zk 切換的時候會卡到
+下午11:38	Joey Chen(91)-仕傑	你有把 Tennis class 獨立一個檔案出來嗎？
+下午11:38	黃迺翔（Milkker）	恩恩
+下午11:38	Joey Chen(91)-仕傑	放在同一個檔案時，zk 有時會亂跳。
+下午11:38	Joey Chen(91)-仕傑	不過很少是卡在這的
+下午11:40	黃迺翔（Milkker）	恩恩 在練一下 拍影片時應該會出現
+下午11:40	Joey Chen(91)-仕傑	by the way, 感覺大家現在 z;zra 這五個 char 只要 0.5 秒就能按完了
+下午11:44	黃迺翔（Milkker）	[貼圖]
+下午11:52	Joey Chen(91)-仕傑	"review 告一段落，幾個重點：
+1. 寫測試時誤觸 n 的頻率有點高，要留意一下是不是哪邊習慣錯了或認知錯誤
+2. 多餘的空格不用打，交給自動排版就好。(postfix template 的寫法會自然讓你省掉那些空格)
+3. 有的時候會想要很精準的清到某個字元，例如  Fifteen_Love() 從 L 清到 e，選擇是 cfe, 其實大可以用 ce 或 cw 清掉這個 word。"
+下午11:53	Joey Chen(91)-仕傑	@小安 , 我覺得你再練個 2 遍就可以在工作上用了。工作上大概卡個2天就過了。
+
+2018/10/11（四）
+上午12:07	小安	@Joey Chen(91)-仕傑 感謝91哥！繼續打套路練功，最近連睡覺都夢到再寫Tennis TDD
+上午12:33	Karl_陳楷文_Kev	錄完才想到 忘記開carnac ...   今天先pass sorry
+上午01:53	Janet	"@Joey Chen(91)-仕傑 
+https://www.youtube.com/watch?v=5-OdWVf32zk&feature=youtu.be"
+上午09:25	黃迺翔（Milkker）	老師 填單的Email 跟要跟之後註冊的Email要相同嗎?
+上午09:55	Julian Yu-Lang Chu	@Joey Chen(91)-仕傑  https://youtu.be/KxK4UxlGevc
+上午10:40	黃迺翔（Milkker）	"@Joey Chen(91)-仕傑
+在類別的私有欄位為什麼ReShaper會建議要套用 readonly?
+像是
+public class UnitTest
+{
+  private readonly TennisGame _service;
+}"
+上午10:54	Joey Chen(91)-仕傑	是，有什麼問題呢
+上午10:56	Joey Chen(91)-仕傑	可以去看一下 effectively c# 的那本書，如果看得懂英文就看原文的，因為中文的翻譯很爛。
+上午10:56	Joey Chen(91)-仕傑	readonly 通常是 resharper 偵測到，你沒有重新 assign 職，「詢問」你要不要加上 readonly 
+上午10:57	Joey Chen(91)-仕傑	你可以把它關掉，只要你足夠清楚哪些該 readonly 哪些不想 readonly 
+上午10:57	Joey Chen(91)-仕傑	就像 if 後面要不要加 else 
+上午10:58	Joey Chen(91)-仕傑	Resharper 預設會建議你拔掉 else 
+上午10:58	Joey Chen(91)-仕傑	原因是可以少一行
+上午10:58	Joey Chen(91)-仕傑	但很多時候留著 else 語意更清楚
+上午10:59	黃迺翔（Milkker）	恩恩 我先來訂書
+上午10:59	Joey Chen(91)-仕傑	（單元測試的藝術作者也有提到這一點，它建議歸它建議，重點是我們得清楚，為什麼要這樣。工具就變成只是提醒你跟讓你做這件事輕鬆一點
+上午11:02	黃迺翔（Milkker）	"恩恩 我原本以為是因私有欄位會跳這個提醒
+才想是不是可能變動的私有欄位建議改成私有屬性 <- 但可變動的私有欄位，命題也有探討空間"
+上午11:04	Joey Chen(91)-仕傑	大部分的 field 都是 readonly 的，也就是不給重新 assign 新的值。
+上午11:05	Joey Chen(91)-仕傑	透過方法去異動，應該說互動
+上午11:05	Joey Chen(91)-仕傑	限制多，就會相對穩定
+上午11:06	Joey Chen(91)-仕傑	但這仍然只是提醒，我自己的團隊是不會強制要加 readonly, 要加就要說出來為什麼
+上午11:07	Joey Chen(91)-仕傑	而不是不加的人得說為什麼
+上午11:07	Joey Chen(91)-仕傑	Constructor 傳入的，幾乎都是 readonly 
+上午11:08	Joey Chen(91)-仕傑	因為掌控是在外部，這個類只跟它互動
+上午11:13	黃迺翔（Milkker）	[貼圖]
+上午11:54	Joey Chen(91)-仕傑	順便跟大家講一個，我幾乎不用，但你們還是得知道的 vim 鍵：+
+上午11:54	Joey Chen(91)-仕傑	這個是跳到下一行的開頭。
+上午11:54	Joey Chen(91)-仕傑	因為位置有點遠，所以我通常不按。
+下午12:35	Julian Yu-Lang Chu	ps 對應：-
+下午01:57	Joey Chen(91)-仕傑	review 完了，到 Deuce 真的大爆炸
+下午02:02	黃迺翔（Milkker）	今天上班打code的時候，有時候會覺得vim寫起來比較快會偷切過去
+下午02:02	黃迺翔（Milkker）	還沒辦法完全在vim操作(還沒改掉滑鼠滾輪的習慣)
+下午02:03	Joey Chen(91)-仕傑	恩，我還不知道你現在練得怎樣，所以沒法給什麼 feedback
+下午02:03	Joey Chen(91)-仕傑	第 0 版那一版 context 差太多，給不了建議
+下午02:07	黃迺翔（Milkker）	恩恩
+下午02:15	Joey Chen(91)-仕傑	[照片]
+下午02:15	Joey Chen(91)-仕傑	[照片]
+下午02:15	Joey Chen(91)-仕傑	[照片]
+下午02:16	Joey Chen(91)-仕傑	一早大家寫代碼的樣子
+下午02:16	黃文德(Duncan)	[貼圖]
+下午02:20	黃迺翔（Milkker）	[貼圖]
+下午02:52	小安	第二張有點眼熟啊...
+下午04:02	Janet	謝謝您, 辛苦了~希望沒看得太心痛XD
+下午04:14	Joey Chen(91)-仕傑	你大部分都按對，挺不錯的，剩下熟練度的練習而已
+下午04:39	Janet	[貼圖]
+下午05:45	Joey Chen(91)-仕傑	你的zcc有改？如果是先回到行首，再用ci", 要小心一行裡面有兩個字串的情況唷
+下午06:03	Joey Chen(91)-仕傑	自己 review 感覺很不錯耶。
+下午06:24	Julian Yu-Lang Chu	ya 我的zcc有改 還在試驗中，大部分情況應該都只有一行一對"", 在行尾也可以zcc比較方便一點 , 一行多個的情況我是想說直接跳到""或是搜尋到在ci"會比較精準
+下午06:28	Joey Chen(91)-仕傑	也行。
+下午06:28	Julian Yu-Lang Chu	嘗試看看，錄完馬上當旁觀者檢討，就像課堂上說的 台下都會知道要做甚麼XD 上台寫coding又是另回事
+下午06:28	Joey Chen(91)-仕傑	by the way, 你的 advPlayer variable 消不掉，那邊得 extract method 再 inline 掉 prarameter
+下午06:29	Joey Chen(91)-仕傑	整個重構與TDD都在玩這一些 extract 出來再 inline 回去 XD
+下午06:29	Joey Chen(91)-仕傑	這也是為啥第一天晚上要睡飽，因為第二天要看表演 XD
+下午06:30	Julian Yu-Lang Chu	91哥幾次review後vim的常犯錯誤都挑出來了，比較有眼力看到自己的vim錯誤在哪
+下午06:31	Julian Yu-Lang Chu	好 我回去看一下
+下午06:31	Joey Chen(91)-仕傑	我 review 完了，看一下我的 comment 囉
+下午06:32	Joey Chen(91)-仕傑	我說過，inline 跟 extract parameter, 甚至 transform parameter object 才是 IDE 的王道
+下午06:32	Julian Yu-Lang Chu	謝91哥
+下午06:39	Joey Chen(91)-仕傑	你也可以不用再給我看了 :) 自己想練習的時候再多練習就好
+下午06:40	Joey Chen(91)-仕傑	TDD 跟重構 還沒上過，裡面比較多 review comment 是針對這個。
+下午06:43	Julian Yu-Lang Chu	[貼圖]
+下午06:44	Joey Chen(91)-仕傑	鼓勵你有興趣的話，可以幫忙 review 其他同學之後的練習
+下午07:17	Julian Yu-Lang Chu	沒問題啊 ，對我也是個好練習. ps:有人練習還不想給老師review的 也可以直接密我 ，vim的操作應該能幫一些忙， 
+下午07:19	Joey Chen(91)-仕傑	我下週開始行程就又全滿了...review 要排queue了
+下午07:27	黃文德(Duncan)	可惜只有我是PHP
+下午07:28	Joey Chen(91)-仕傑	沒差吧
+下午07:30	黃文德(Duncan)	怕看不太懂
+下午07:33	Julian Yu-Lang Chu	我不信 PHP+vim+TDD都寫到如此變態的速度了 一法通萬法阿
+下午07:48	黃文德(Duncan)	[貼圖]
+下午07:49	黃文德(Duncan)	那需要的話我也可以幫忙review
+下午07:52	Julian Yu-Lang Chu	[貼圖]
+下午07:55	Janet	[貼圖]
+下午09:17	Karl_陳楷文_Kev	我有時候遇到跑unitest 會停不了，要重開vs 才正常，有人有解嗎？？
+下午09:19	Joey Chen(91)-仕傑	兩種可能，一種是寫出無窮迴圈而沒發現。
+下午09:19	Joey Chen(91)-仕傑	一種是進入 debug mode 了
+下午09:25	Karl_陳楷文_Kev	我看了錄影，好像按zra 的時候 檔案還沒存，上面還是星號
+下午10:06	黃迺翔（Milkker）	"@Joey Chen(91)-仕傑 
+https://www.youtube.com/watch?v=AbAsWHhrCyA"
+下午10:06	Julian Yu-Lang Chu	我記得應該是先存才會跑unittest , 有試過用vs內建的test explorer過嗎, 內建沒問題的話重裝resharper看看， 不然傳個影片讓大家online debug看看
+下午10:07	黃迺翔（Milkker）	有成功還原zk不理我的案例
+下午10:07	黃迺翔（Milkker）	[貼圖]
+下午10:08	Joey Chen(91)-仕傑	幾分幾秒？
+下午10:09	黃迺翔（Milkker）	我找一下
+下午10:10	黃迺翔（Milkker）	我發現錄影失敗 鍵盤偵測貝卡一半
+下午10:11	黃迺翔（Milkker）	4:20~4:3x
+下午10:18	Joey Chen(91)-仕傑	"下次錄影的時候，show keypress 字調小，offset 往上拉一點，你現在錄的影片，按下去當下是看不見你按了什麼的。
+
+把 code 的字調大，zk 基本上就是觸動 你滑鼠按的那個向後巡覽的按鈕的動作，所以是等義的。至於為什麼沒發揮作用，我不確定為什麼。
+
+倒是你 zk 之前跑測試，是怎麼跑得？"
+下午10:21	黃迺翔（Milkker）	[貼圖]
+下午10:21	黃迺翔（Milkker）	我再找找看是什麼原因
+下午10:22	黃迺翔（Milkker）	有得時候會出現下面這個錯誤
+下午10:22	黃迺翔（Milkker）	[照片]
+下午10:23	黃迺翔（Milkker）	Undo Chain broken
+下午10:23	Joey Chen(91)-仕傑	不是啊，你跑測試，我沒看到滑鼠點，也沒看到 keypress show 任何東西
+下午10:23	Joey Chen(91)-仕傑	挺神奇的
+下午10:24	黃迺翔（Milkker）	zk嗎
+下午10:24	Joey Chen(91)-仕傑	不是，跑測試.....
+下午10:25	黃迺翔（Milkker）	我有打zra拉 被咖掉了
+下午10:25	Joey Chen(91)-仕傑	咖掉？
+下午10:25	黃迺翔（Milkker）	畫面被咖掉
+下午10:25	黃迺翔（Milkker）	下面有一排
+下午10:25	Joey Chen(91)-仕傑	那一排會一直往上推
+下午10:25	Joey Chen(91)-仕傑	你有看，他往上推的時候就會看到
+下午10:25	Joey Chen(91)-仕傑	你有看 => 你有按
+下午10:26	Joey Chen(91)-仕傑	除非你錄影有暫停
+下午10:27	黃迺翔（Milkker）	恩恩 我確定都有看，可能跟上一排一起消掉 他只是換行的概念
+下午10:27	黃迺翔（Milkker）	我確定都有按，因為我看我的都是一起消失的機率很高
+下午10:28	黃迺翔（Milkker）	我在重錄好了 這樣看好痛苦
+下午10:29	Joey Chen(91)-仕傑	恩，我看到你有按東西了，因為你按完等他 build 在跑完測試，沒東西把它往上頂
+下午10:29	Joey Chen(91)-仕傑	所以看不見你剛按了什麼
+下午10:29	黃迺翔（Milkker）	恩恩
+下午10:29	Joey Chen(91)-仕傑	沒事，我等等看一下，再給你 comment, 先忙一下
+下午10:30	黃迺翔（Milkker）	[貼圖]
+下午10:40	Karl_陳楷文_Kev	@Joey Chen(91)-仕傑   https://youtu.be/Mjz9OMO5moM
+下午10:46	Karl_陳楷文_Kev	"@Julian Yu-Lang Chu 不曉得是不是 CodeMaid.CleanupActiveDocument 的問題 ,  看github 有issue但應該解了才對@@ 
+
+影片等我找個剪接的再傳"
+下午10:47	Joey Chen(91)-仕傑	那就不要用 CodeMaid 的，直接用 ReSharper 的 Reformat 那一組
+下午10:47	Karl_陳楷文_Kev	我試試 謝謝
+下午10:48	Joey Chen(91)-仕傑	你的 ReSharper if 的 bug 還沒修掉
+下午10:48	Joey Chen(91)-仕傑	@小安 , 交給你說一下怎麼修了
+下午10:54	Joey Chen(91)-仕傑	我 review 告一段落了，去看 comments，記得看一下 comments 有沒被納入待審核。
+下午10:57	小安	"@黃迺翔（Milkker） if 的 Bug 修改步驟 =>
+在 visual studio 快速搜尋輸入 template explorer，然後在Ｃ＃找到 if (絕對不是＃if)"
+下午10:57	Joey Chen(91)-仕傑	[貼圖]
+下午10:57	黃迺翔（Milkker）	[貼圖]
+下午11:00	小安	@黃迺翔（Milkker） 點選修改後，右邊的expr 改為 basic
+下午11:00	小安	[照片]
+下午11:00	小安	[照片]
+下午11:01	黃迺翔（Milkker）	[照片]
+下午11:01	黃迺翔（Milkker）	[貼圖]
+下午11:01	小安	我有選到＃if的慘痛經驗咩 ＱＡＱ
+下午11:01	黃迺翔（Milkker）	我有確定不是#if
+下午11:02	黃迺翔（Milkker）	(沒講可能真的很直覺選下去XDD
+下午11:10	小安	我當時真的很直覺選下去...ˊ＿ˋ
+下午11:16	黃迺翔（Milkker）	哈哈XDD
+下午11:16	黃迺翔（Milkker）	感謝示範組
+下午11:29	Patrick Shih	"@Joey Chen(91)-仕傑 
+終於改掉 scoreLookup.ContainKey() 習慣
+https://youtu.be/F35drXoAfo4"
+下午11:33	Joey Chen(91)-仕傑	你們公司 code convention 有規定不能用 var?
+下午11:35	Joey Chen(91)-仕傑	等等 JetBrains 表單要收單囉
+下午11:35	Karl_陳楷文_Kev	沒有耶 只是不習慣
+下午11:36	Karl_陳楷文_Kev	我其實不是主力c#
+下午11:36	Joey Chen(91)-仕傑	喔喔 了解，主力是用啥？
+下午11:37	Joey Chen(91)-仕傑	肯定也不是 java 跟 js 啊
+下午11:38	Joey Chen(91)-仕傑	你出去可以電掉一堆 C# 工程師了
+下午11:38	Karl_陳楷文_Kev	"我算c 比較多⋯  
+
+只是什麼都寫過一點 "
+下午11:38	Joey Chen(91)-仕傑	soga
+下午11:39	Joey Chen(91)-仕傑	@歐趴 ，你有伴了
+下午11:39	歐趴	港動QQ~~~(握
+下午11:42	Karl_陳楷文_Kev	[貼圖]
+下午11:49	Joey Chen(91)-仕傑	@Karl_陳楷文_Kev , 很不錯，看得出來是練家子啊，沒有多餘的錯誤，TDD 的點也抓得很正確。（即時重構還可以更即時就是）
+下午11:51	Joey Chen(91)-仕傑	喔喔，你參加過我在新竹的 workshop 啊
+下午11:51	Joey Chen(91)-仕傑	tennis 練完，就去練它吧 :P
+下午11:51	Karl_陳楷文_Kev	謝謝
+下午11:56	Joey Chen(91)-仕傑	[照片]
+下午11:56	Joey Chen(91)-仕傑	youtube 不給我輸入耶，機車
+下午11:57	Joey Chen(91)-仕傑	只好把雙引號變成全形的
+
+2018/10/12（五）
+上午12:01	小安	@Joey Chen(91)-仕傑 https://www.youtube.com/watch?v=C1dMaLCk4q4&feature=youtu.be 原本嘗試做了一個有配樂版本的，結果轉了半小時，上傳要一個小時...
+上午12:08	Joey Chen(91)-仕傑	哇塞...誇張了點
+上午12:09	Joey Chen(91)-仕傑	"review 告一段落，幾乎是快看完了啦，看到 second player adv 了。
+記得去看一下 comments 啊。
+
+對了，那個 Joey 跟 Tom 要從 constructor 傳入，一來設計才合理，二來這樣你才練得到另外一個東西。"
+上午12:10	Joey Chen(91)-仕傑	@Karl_陳楷文_Kev 你也可以在工作上開始用 vim 啦，不會卡住你的開發速度的
+上午12:13	Karl_陳楷文_Kev	我最後要重構成constructor 傳入，時間就到了 ，之後再改前面處理Adv 先加
+上午12:13	Joey Chen(91)-仕傑	原來如此
+上午12:13	Joey Chen(91)-仕傑	越晚重構，成本就越重
+上午12:14	Karl_陳楷文_Kev	了解
+下午04:52	Joey Chen(91)-仕傑	"完整 review 完了，可以在實務上用 vim 了。
+review 重點：
+1. zcc 可以不用在 """" 的位置裡面，跟 Ctrl+A 一樣的使用方式
+2. 善用 ,m FileStructure 找到你要的 function or field"
+下午04:52	Joey Chen(91)-仕傑	有的時候d} 會比數幾行還快。
+下午04:53	Joey Chen(91)-仕傑	還有個 flip, 可以對調 operator 的左右邊元素
+下午05:14	Patrick Shih	老師怎麼對調 operator左右兩邊的元素，你指的是Fifteen Love 變成 Love Fifteen 這種情境嗎？
+下午05:15	Joey Chen(91)-仕傑	主要是 if(firstScoreTimes - secondScoreTimes ==1) 可以在 - 上面 flip
+下午05:15	Joey Chen(91)-仕傑	(還是 Visual Studio 沒有 XD
+下午05:16	Joey Chen(91)-仕傑	@小安 ，你在這課之前有用過 vim 嗎
+下午05:18	Joey Chen(91)-仕傑	靠 visual studio 真的不行耶
+下午05:18	Joey Chen(91)-仕傑	== 跟 != 可以
+下午05:19	Joey Chen(91)-仕傑	看看人家 IntelliJ
+下午05:19	Joey Chen(91)-仕傑	[照片]
+下午05:20	Patrick Shih	看來要寫信給 JetBean 投訴一下，哈哈哈
+下午05:21	Joey Chen(91)-仕傑	我希望他們先把 argument name tip 先做出來
+下午05:21	Joey Chen(91)-仕傑	光有這功能，你啥都不用做，至少 intention 立馬提升 5~10%, 除非命名都亂命
+下午05:29	Patrick Shih	這的確很重要，有的時候會不知道Method裡　bool　代表的意思
+下午05:29	Patrick Shih	[照片]
+下午05:30	小安	@Joey Chen(91)-仕傑 完全沒有...剛裝完還不知道怎麼打字
+下午05:38	Joey Chen(91)-仕傑	是，在測試裡面我會用 C# 的 argument name feature 頂一下。
+下午05:39	Joey Chen(91)-仕傑	(Y) 因為我覺得你也可以在實務上用 vim 開發了
+下午05:39	Joey Chen(91)-仕傑	很少看到才五天，就跨過去那道檻了
+下午05:40	Julian Yu-Lang Chu	好厲害👍
+下午05:42	Joey Chen(91)-仕傑	"代表上課的內容這樣安排，應該還行。
+
+當然，如果本身對 C# 跟 IDE, 開發方式就不夠熟的，要上手也沒法那麼快。"
+下午05:46	黃文德(Duncan)	好厲害！
+下午05:47	小安	感謝91哥！（害羞）在上課之前我完全都只有用ＶＳ內建的快捷，這堂課真的讓我省掉很多原本已經寫到很煩的 Code 。
+下午05:49	小安	我覺得課堂的安排非常的好，尤其回家作業幫助非常大。
+下午05:49	Joey Chen(91)-仕傑	":) 很高興沒讓你們失望。
+
+對我來說，你們公司是個挺重要的象徵。因為上完單元測試，你們有開始在實務上用，也開始導入，也有產生效果，然後再主動來詢問後面還有哪些進階課程，想讓團隊一起來上。"
+下午05:50	Joey Chen(91)-仕傑	我其實挺喜歡跟滿意，我的課跟別人開的課不一樣的，尤其因為這樣能讓上課跟實務的轉化，這道橋樑能接起來。
+下午05:50	Joey Chen(91)-仕傑	包括 Odd-e 其他團隊，他們也對我這種上法跟安排感到驚喜跟對效果感到驚豔
+下午05:52	小安	而且看大家寫Code的影片是種樂趣，平常公司大家寫法都差不多那樣，真的可以學到很多！而且我老婆聽到你每天都Review學員的Code還說這老師也太佛心了
+下午05:53	黃文德(Duncan)	這老師也太佛心了 +1
+下午05:53	Patrick Shih	這老師太佛心　＋　１
+下午05:54	Janet	[貼圖]
+下午05:54	Janet	所以, 開公司叫"熱血科技"呀(moon laugh)
+下午05:55	小安	公司上次上完課就開始漸漸導入TDD，之後還請91哥多多關照（跪）
+下午05:55	小安	[貼圖]
+下午05:55	Joey Chen(91)-仕傑	哈哈，【熱血】非我莫屬
+下午05:57	Joey Chen(91)-仕傑	"這很重要，其實國外很多 coding dojo/code retreat 的活動，目的是擺脫公司內同溫層、同性質產品開發的問題，促進大家有更多機會看別人、跟別人一起寫 code。
+
+一場活動，只要能多學到一個自己以前不知道的東西，就值得了。
+
+所以我說，大家要逐漸習慣，寫 code 給別人看、跟人家一起寫 code 這個形式。"
+下午05:58	Joey Chen(91)-仕傑	"大家都理解了需求，寫法卻有很多不同，思路的不同，開發方式的不同，工具的不同。
+
+RD 一定要避免只在公司內的小圈圈活動，知不知，是學習的起點"
+下午05:59	小安	[貼圖]
+下午06:00	Joey Chen(91)-仕傑	真是不錯，公司選對種子了
+下午06:02	小安	11月的課再請91哥多多指教 ！
+下午06:02	Joey Chen(91)-仕傑	歡迎來燒腦啊，那門課很硬的。
+下午06:02	黃文德(Duncan)	真的很燒腦ㄚ~~~~
+下午06:03	Joey Chen(91)-仕傑	@黃文德(Duncan) , @Janet  問他們兩
+下午06:03	Joey Chen(91)-仕傑	我記得還有一位，也是上次上 TDD 的
+下午06:03	小安	看來那天不能點無糖飲料ＸＤ
+下午06:03	Joey Chen(91)-仕傑	還行還行，因為第二天早上最燒，是看表演的燒
+下午06:03	Joey Chen(91)-仕傑	一次的資訊量太多
+下午06:04	Janet	哈~~沒錯!!第一天大家養生都點無糖, 第二天無糖飲料一上, 大家都缺糖份了(moon laugh)
+下午06:06	黃文德(Duncan)	還有ㄚ~第一天很有可能會很晚睡(因為不甘心)XD
+下午06:07	小安	好可怕 大腦你要撐住啊..
+下午06:07	Joey Chen(91)-仕傑	哈哈哈
+下午06:09	黃文德(Duncan)	記得當時第一天晚上不甘心到零晨兩點多才不甘願的去睡.......
+下午06:14	Joey Chen(91)-仕傑	"完整 review 完畢囉。
+,m 的 FileStructure 要練習一下，非常好用。字串相加，用 $"""" 的方式會更清楚。"
+下午06:14	Joey Chen(91)-仕傑	@小安 , 後面大概不需要我 review 了 :)
+下午06:14	Joey Chen(91)-仕傑	自己錄，自己 review, 有疑問再上來討論。
+下午06:16	小安	好的，我會持續練習！感謝91哥
+下午07:33	Julian Yu-Lang Chu	TDD重構感覺好精實.....
+下午07:46	黃文德(Duncan)	很精實，但很充實！
+下午07:47	黃文德(Duncan)	[照片]
+下午07:47	黃文德(Duncan)	我果然沒記錯XD
+下午08:24	Patrick Shih	"@Joey Chen(91)-仕傑 
+https://www.youtube.com/watch?v=Yj7TdjE66HM&t=0s&index=7&list=PL7kKvMhcW3u4rBIR0Tkj8Maw5xa6ecDZq"
+
+2018/10/13（六）
+下午12:58	您已收回訊息
+下午12:58	Ivy Chen	"@Joey Chen(91)-仕傑 
+https://youtu.be/Theb8CoZvFs"
+下午04:03	Patrick Shih	"@Joey Chen(91)-仕傑 
+https://youtu.be/8yU3v5GzZWw"
+下午04:11	Joey Chen(91)-仕傑	我直接看最新版唷，我來鼓勵一下其他人幫忙 review 好了。 @Julian Yu-Lang Chu  你也來幫 Patrick review 一下。我印象中 @Patrick Shih 完成度已經極高了。
+下午04:33	Julian Yu-Lang Chu	"昨天的我有看ㄟ,  我覺得Patrick只需要等㊣91認證㊣即可!!
+今天的影片已經是我們這班c#最速...."
+下午04:46	Joey Chen(91)-仕傑	我應該有跟 @Patrick Shih 說過他沒問題啦，之後應該要開始學著自己 review, 然後挑一下另一道題來練習。
+下午04:46	Joey Chen(91)-仕傑	可以描述一下複製單元測試故障的情況嗎？
+下午04:47	Joey Chen(91)-仕傑	我只有在 phpstorm 會碰到複製的問題，原因是 space/tab 斷行的判斷。
+下午04:47	Joey Chen(91)-仕傑	我不能用 o 斷行，得用 shift+enter
+下午04:47	黃文德(Duncan)	@Joey Chen(91)-仕傑 91哥有建議換哪道題目練習嗎？
+下午04:48	Joey Chen(91)-仕傑	比較簡單的，可以先練 potter cart 
+下午04:48	Joey Chen(91)-仕傑	或是 bowling 
+下午04:48	黃文德(Duncan)	好！
+下午04:49	Joey Chen(91)-仕傑	再進階一點的，是完整一點的 Poker hand 
+下午04:49	Joey Chen(91)-仕傑	Poker hand 一小時跑不掉
+下午04:50	Joey Chen(91)-仕傑	我挺想開個一天的 workshop 給上過我的課的學員，大家 dojo 一下 Poker hand, 只收場地費這樣
+下午04:50	Joey Chen(91)-仕傑	你們有興趣嗎？
+下午04:50	黃文德(Duncan)	有！！！
+下午04:50	Karl_陳楷文_Kev	+1
+下午04:50	Julian Yu-Lang Chu	+1
+下午04:51	Joey Chen(91)-仕傑	我也只是主持人跟其中一員，我不會有太多 training 的成份，但每個人都可以分享自己的想法跟做法這樣
+下午04:51	Joey Chen(91)-仕傑	Casual 一點的 workshop
+下午04:52	黃文德(Duncan)	嗯嗯
+下午04:52	Joey Chen(91)-仕傑	我的想法預計是10-15個學員，每個人可以帶一位非上課的學員來。
+下午04:53	Joey Chen(91)-仕傑	Poker hand 是進階版的 十八拉 🎲
+下午04:54	Julian Yu-Lang Chu	"想問一下@黃文德(Duncan)  @Joey Chen(91)-仕傑 
+phpstorm或是intellij的y3k游標會跟著跳嗎...."
+下午04:55	Julian Yu-Lang Chu	我在試玩WebStorm  y3kp都會往上跳三行  y3jp沒問題，我在想是不是有設定弄錯了
+下午04:58	Joey Chen(91)-仕傑	Ideavim的行為...
+下午04:58	Joey Chen(91)-仕傑	所以我複製 PHPUnit 才得用兩段式
+下午04:59	Joey Chen(91)-仕傑	因為游標會跑
+下午04:59	Joey Chen(91)-仕傑	我才被逼得用 bookmark
+下午04:59	Julian Yu-Lang Chu	[貼圖]
+下午05:01	斬斬斬斬天地人 斷斷斷斷情仇恨	我剛確認過
+下午05:01	斬斬斬斬天地人 斷斷斷斷情仇恨	Linux vim 的行為也是一致的
+下午05:01	Joey Chen(91)-仕傑	嗯嗯 vsvim 比 ideavim 可愛一點
+下午05:01	斬斬斬斬天地人 斷斷斷斷情仇恨	所以 vim 真的就是 y3k 會 cursor 跳上去，y3j 不會
+下午05:04	Joey Chen(91)-仕傑	剛剛講的 dojo, 我再來看一下合適的時間，可能是12月
+下午05:07	Julian Yu-Lang Chu	[照片]
+下午05:08	Julian Yu-Lang Chu	"看來不是jk而已XD
+ps: VsCodeVim也是跟VsVim一樣"
+下午05:08	黃文德(Duncan)	y3kp 會跳我是可以接受，因為知道跳幾行
+下午05:08	Joey Chen(91)-仕傑	vscode vim 根本是殘廢 XD
+下午05:09	Joey Chen(91)-仕傑	zk 應該可以跳回去剛剛的地方
+下午05:09	Joey Chen(91)-仕傑	IDE 可愛的地方
+下午05:10	Julian Yu-Lang Chu	可是跳完貼的位置就不是原位了
+下午05:10	Julian Yu-Lang Chu	所以y3kzkp
+下午05:10	Julian Yu-Lang Chu	晚點試試
+下午05:10	黃文德(Duncan)	不過在mac的phpstrom做field 提取才痛苦.....還好我也用bookmark克服了
+下午05:11	黃迺翔（Milkker）	"@Joey Chen(91)-仕傑 
+https://youtu.be/FTxueoga5eM"
+下午05:12	Karl_陳楷文_Kev	我有試用 vscode vim ，有些從vimrc 轉過去的指令無效@@ 還要改
+下午05:15	Joey Chen(91)-仕傑	我原本覺得，我一般 coding 不會用到的東西，都在綁定 vimrc 用上了 XD
+下午05:15	Joey Chen(91)-仕傑	嗯嗯，試試看吧，應該要能作用才對
+下午05:15	黃文德(Duncan)	從一個method 提取變數上去，在mac下光標會跟著上去.....windows不會，所以我根本不知道要往下幾行
+下午05:16	Joey Chen(91)-仕傑	@Patrick Shih , 我不知道為啥你那個 F1 沒 work 耶，你能貼一下你那一塊的 vimrc 設定嗎？
+下午05:17	Joey Chen(91)-仕傑	我到現在沒碰過按下 F1 連貼都沒貼出來的。試著換綁另一個鍵組合看看
+下午05:21	Joey Chen(91)-仕傑	@Patrick Shih , 也可以這麼做事試看，記得先把 Visual Studio 關到剩下一個。然後執行 mapclear!，再重新用 :source載一次 vimrc 設定。
+下午05:22	Joey Chen(91)-仕傑	"我覺得這樣 F1 就可以複製，如果不行，就試著綁別的鍵，如果再不行，就是你後面綁定的命令有問題。
+
+所以 F1 那一行綁定先貼上來，或是你的 vimrc 直接貼到 secret gist, 我幫你看一下"
+下午05:26	Patrick Shih	是 複製 或 貼上沒有成功，我感覺是複製沒成功，之前疑似發生貼到以前複製的東西，最後會停在下一個Method的名稱上
+下午05:28	Patrick Shih	[照片]
+下午05:28	Patrick Shih	這個狀況時好時壞，還找不到一定規律
+下午05:29	Joey Chen(91)-仕傑	建議你先換別的鍵，確保不是互相干擾。例如 Alt+F1
+下午05:42	黃文德(Duncan)	好喔
+下午05:51	Patrick Shih	"@Julian Yu-Lang Chu 
+謝謝 幫忙 Review  ~~~"
+下午05:52	Patrick Shih	+1， 有機會也想要參加
+下午06:04	Julian Yu-Lang Chu	@Patrick Shih  我從你那學到好幾招(good)
+下午06:06	Patrick Shih	是老師教的好  XDDD
+下午06:09	Patrick Shih	"@Joey Chen(91)-仕傑 老師，之前有些待審核的留言現在才看到
+"" 可以設定一下 surround template，把選取來的內容，自動加上 Math.Abs()﻿ ""
+這是說增加一個 Math.Abs() 的 code snippet意思嗎"
+下午06:14	Julian Yu-Lang Chu	我覺得VScodeVim可以先用原生的設定就好，可以彌補一些VSCode的不足，弄設定的時間花在弄IDE的比較划算
+下午06:19	Patrick Shih	VSCode 你們都裝哪一個， Vim 還是  amVim ?
+下午06:19	Julian Yu-Lang Chu	@Patrick Shih 是的，我是在resharper的surround template(ctrl+e,u)新增abs()  ps:功能同vs2017的ctrl+k,s
+下午06:19	Joey Chen(91)-仕傑	對的，只是 live template 要設定成 $SELECTION$, 用 surround with 做插入
+下午06:20	Julian Yu-Lang Chu	我用VScodeVim
+下午06:21	Joey Chen(91)-仕傑	我有看到 zeu
+下午06:21	Joey Chen(91)-仕傑	我先去吃飯 :)
+下午06:21	Patrick Shih	之前覺得 vim 動作慢半拍，改用amVim就不會，不過都沒測試到其他功能
+下午06:28	Karl_陳楷文_Kev	vscodevim 的zae 是一個一個字冒出來
+下午06:28	Karl_陳楷文_Kev	很慢
+下午06:51	Joey Chen(91)-仕傑	用 code snippets 類的 別用 vim zae 
+下午07:21	Karl_陳楷文_Kev	我找一下@@
+下午07:38	Joey Chen(91)-仕傑	可以自己開發一下，另一班的 Winnie, 跟 PHP 的 Recca 都挺有經驗的
+下午07:51	Julian Yu-Lang Chu	https://code.visualstudio.com/docs/editor/userdefinedsnippets
+下午07:51	Julian Yu-Lang Chu	VsCode簡易的code snippet製作比VS好太多了
+下午08:44	歐趴	"練了一個下午都快要成佛了...麻煩91大大或其他有空的高手們幫忙review惹m(_ _)m
+
+https://www.youtube.com/watch?v=LD30IaVy58c&feature=youtu.be
+
+@Joey Chen(91)-仕傑"
+下午08:56	Joey Chen(91)-仕傑	22分鐘很猛的
+下午08:56	Joey Chen(91)-仕傑	[照片]
+下午08:56	Joey Chen(91)-仕傑	哈哈哈
+下午08:57	Joey Chen(91)-仕傑	"scoreLookup[_firstPlayerScore] + "" "" + scoreLookup[_secondPlayerScore];
+
+這個我會用 C# 的 feature 避開"
+下午08:57	Joey Chen(91)-仕傑	就會變成 $"{scoreLookup[_firstTimes]} {scoreLookup[_secondTimes]}"
+下午08:57	Joey Chen(91)-仕傑	成對的，IDE 都會幫忙長，打字的，都是 intellisense
+下午08:58	Joey Chen(91)-仕傑	前面長 $ 也是 Alt+Enter 就能長出來
+下午09:03	Julian Yu-Lang Chu	3的話 zcc map成^ci”即可
+下午09:03	Joey Chen(91)-仕傑	對，但我不建議
+下午09:03	Julian Yu-Lang Chu	91哥有提醒過 這樣要小心有兩個””
+下午09:03	Joey Chen(91)-仕傑	因為我會碰到 "abc" + "def" 的
+下午09:03	Joey Chen(91)-仕傑	但上次也有講，就把 zcc 設成會先到開頭的
+下午09:04	Joey Chen(91)-仕傑	如果有兩個以上的 "", 就乖一點用 ci"
+下午09:04	Joey Chen(91)-仕傑	我覺得很 ok 的
+下午09:04	Julian Yu-Lang Chu	C# 用string interpolation應該不太會有這樣問題
+下午09:04	Julian Yu-Lang Chu	91哥應該是php或java遇到？
+下午09:06	Joey Chen(91)-仕傑	是的
+下午09:06	Joey Chen(91)-仕傑	php 得用 split 把一個字串拆成兩個"" 相加。java 更特別，得用 ctrl+Enter 透過 "" 斷行
+下午09:06	Joey Chen(91)-仕傑	這是我找得到最快的方式了
+下午09:07	Joey Chen(91)-仕傑	因為 java 的 string.format, 只認 "" + "" 時可以直接用
+下午09:07	Joey Chen(91)-仕傑	要有 + 的 opreator
+下午09:07	Joey Chen(91)-仕傑	我用 Ctrl+Enter 來在對的地方產生 + 的 operator
+下午09:14	歐趴	原來如此～～了解
+下午09:14	Joey Chen(91)-仕傑	三個問題我都先回答了，大部分都已經是極限了 :P
+下午09:15	Joey Chen(91)-仕傑	我舉個我在 php 的例子，C#, C++, Java 呼叫方法都是 joey.Foo(), 但是 php 是 $joey->Foo()
+下午09:16	Joey Chen(91)-仕傑	那個 -> 就是因為我得看，而且地處偏遠。所以我就把我的 Alt+. 綁成了 ->
+下午09:16	Joey Chen(91)-仕傑	Duncan 看完之後也這樣幹了，連 => 他也綁了....
+下午09:17	Joey Chen(91)-仕傑	"對還沒用過、練習過的人，會覺得這也太靠北，太 over 了。
+
+但自己綁定的，練過幾遍，你就會愛上自己的組合鍵。
+
+那個 z; 也是這樣由來，因為我一直看到我按 zl; 或是 lla;"
+下午09:17	歐趴	哈哈哈 所以大家的小指也是很糾結XD
+下午09:18	Joey Chen(91)-仕傑	用 Alt+Enter 呼叫 introduce variable 的位置，可以在開頭，也可以在 ; 上。所以有 z; 對 introduce variable 也很有用。
+下午09:20	Joey Chen(91)-仕傑	@Patrick Shih , 下次練一下沒有 commit 的版本，應該可以壓在 20 分鐘內。
+下午09:26	Joey Chen(91)-仕傑	"@Patrick Shih , 你最新的版本我看完囉。
+
+你自己看一下 comments, 記得待審核的部份要看到。"
+下午09:26	Joey Chen(91)-仕傑	你也不需要我再 review 了 :)
+下午09:36	Joey Chen(91)-仕傑	@Ivy Chen , 我上次講 zb 要改成 diw 是錯的，要改成 ciw 才對
+下午09:36	Joey Chen(91)-仕傑	這樣才會切 mode
+下午10:04	黃文德(Duncan)	哈，是會打結
+下午10:05	Joey Chen(91)-仕傑	大家慢慢會發現，要壓到 15 分，連打字都不太能有失誤。沒多少空間讓你打錯字再嚕回去
+下午10:06	黃文德(Duncan)	我現在 . / ； 三個都會用到，有時會錯亂.....
+下午10:06	Joey Chen(91)-仕傑	15分左右那都有些刻意了，我覺得正常的練習到極致，差不多就是 18~20 分鐘，這是一般正常的情況
+下午10:06	Joey Chen(91)-仕傑	每個鍵都有用 XD 如果你隨便挑了一個你不知道有啥用的鍵，回去查一下 vim, 它能幹嘛
+下午10:07	Joey Chen(91)-仕傑	喔靠，講到這，我發現我忘了有個東西我有沒有講
+下午10:07	Joey Chen(91)-仕傑	大寫 A 跟 大寫 I, 大家知道幹嘛的吧
+下午10:07	Joey Chen(91)-仕傑	不知道的，自己在 normal mode 按一下啊
+下午10:09	黃文德(Duncan)	知道在幹嘛
+下午10:19	Julian Yu-Lang Chu	:q :w :qw gt gT也可以記一下 kata不會用到 不過我想正常工作可能會用到
+下午10:28	Joey Chen(91)-仕傑	順便講一下，大家知道 intellinsense 跳出來的時候，按 enter 跟按 tab 的差異吧？
+下午10:29	Joey Chen(91)-仕傑	不知道的請舉手
+下午10:30	Karl_陳楷文_Kev	不知道
+下午10:31	Joey Chen(91)-仕傑	那知道的喊個聲，幫忙回答一下
+下午10:33	Julian Yu-Lang Chu	(舉手）
+下午10:34	Patrick Shih	不知道
+下午10:34	Joey Chen(91)-仕傑	如果，你在字接在一起的時候，打字，跳出 intellisense, 按 tab 會把後面的word蓋掉，按 enter 是接起來的
+下午10:35	Joey Chen(91)-仕傑	需要錄影嗎？ ~"~
+下午10:36	黃文德(Duncan)	理解！
+下午10:36	Patrick Shih	[貼圖]
+下午10:36	Patrick Shih	原來如此
+下午10:36	Julian Yu-Lang Chu	等到家開電腦試看看
+下午10:37	Julian Yu-Lang Chu	所以enter比較安全摟，當intellisense在中間時？
+下午10:39	Joey Chen(91)-仕傑	看你要蓋掉還是要接啊
+下午10:39	Joey Chen(91)-仕傑	蓋掉有時候好美妙的 <3
+下午10:40	Patrick Shih	有時候真的很想要蓋掉
+下午10:40	Julian Yu-Lang Chu	XD
+下午10:42	Joey Chen(91)-仕傑	[影片]
+下午10:42	Joey Chen(91)-仕傑	enter 的觸發，要用方向鍵選一下
+下午10:42	Joey Chen(91)-仕傑	不然會自動斷行
+下午10:43	Joey Chen(91)-仕傑	我相信你們一定都有按 tab 不小心把後面的字蓋掉的經驗啊
+下午10:43	Joey Chen(91)-仕傑	治標的就是手動空格 XD
+下午10:52	Joey Chen(91)-仕傑	"@Ivy Chen , 你的我 review 告一段落囉，三個重點：
+1. 下一次可以開始練習用 / 跳到精準的位置。記得，/搜尋預設分大小寫的，你可以改設定讓它不分大小寫。
+2. zcc 清 """" 的內容，可以不用在 """" 內，只要在 """" 的左邊即可。
+3. } 是指跳到下一個空白行的位置，不是跳到下一個 } 的位置。"
+下午10:53	Joey Chen(91)-仕傑	@Ivy Chen , 還有一個，在 insert mode, zl 可以跳到結尾。
+下午10:53	Joey Chen(91)-仕傑	zb 記得改成 ciw
+下午10:56	Joey Chen(91)-仕傑	跟你確認一下，你的錄影有 show key press 嗎？
+下午11:10	黃迺翔（Milkker）	诶 一開始出現一下 結果不見了...
+下午11:11	Joey Chen(91)-仕傑	"下次先錄一版 1 分鐘的 :P
+
+然後檢查一切正常，再開始整體的。MVP 啊"
+下午11:13	黃迺翔（Milkker）	"白天看其他人的影片
+練了一下30分鐘可以打到Deuce了"
+下午11:14	黃迺翔（Milkker）	看起來是有開著，但是錄影的時候他只抓視窗
+下午11:14	黃迺翔（Milkker）	剛剛錄了一下的感覺
+下午11:14	Joey Chen(91)-仕傑	then, fix problem
+下午11:15	Joey Chen(91)-仕傑	我看你這一版沒有 key press 的，針對開發流程上的優化匯給一些 comment
+下午11:15	Joey Chen(91)-仕傑	但是你按了什麼，我看不見，所以有沒在一樣要過去，有更快的方式，我給不了建議
+下午11:18	黃迺翔（Milkker）	看起來是因為使用keypress 沒使用系統管理員開啟
+下午11:19	黃迺翔（Milkker）	沒用系統管理員錄不到，但會顯示
+下午11:19	Joey Chen(91)-仕傑	下次你錄完的影片，可以幾先看一遍
+下午11:19	Joey Chen(91)-仕傑	自己
+下午11:19	Joey Chen(91)-仕傑	就跟 code 要 commit 前自己要 code review 一遍一樣
+下午11:19	Joey Chen(91)-仕傑	"這是好習慣。
+
+更好的習慣，是用最小的成本，先試著做一小段，確認一切都沒問題，才集中火力開幹"
+下午11:20	Joey Chen(91)-仕傑	就像曳光彈開發（TBD）
+下午11:20	Joey Chen(91)-仕傑	"先確認敵人位置，才集中火力開幹。
+
+不然就是那種：
+「司機大哥，我好像還沒告訴你我的目的地在哪裡？」
+「對啊，可我車開很快吧。」"
+下午11:21	黃迺翔（Milkker）	這舉例太慘烈了
+下午11:21	Joey Chen(91)-仕傑	把敏捷落實在生活，其實挺有趣的 :)
+下午11:21	黃迺翔（Milkker）	今天在練習的時候 zrf 消耗很多成本
+下午11:23	黃迺翔（Milkker）	先是在local scope 寫出變數宣告
+下午11:23	黃迺翔（Milkker）	使用zrf建立field時，又重新打了一次變數名稱
+下午11:26	Joey Chen(91)-仕傑	by the way, Time 是時間， Times 才是次數唷
+下午11:28	Joey Chen(91)-仕傑	@黃迺翔（Milkker） , review 告一段落，記得要把 comments 看完整一點。
+下午11:29	Ivy Chen	@Joey Chen(91)-仕傑 收到！謝謝91哥和幫我review 的同學
+下午11:30	Joey Chen(91)-仕傑	comments 記得看完整，會有一些被納入待審核
+下午11:30	黃迺翔（Milkker）	了解 謝謝91老師\
+下午11:30	黃迺翔（Milkker）	[貼圖]
+下午11:33	Joey Chen(91)-仕傑	我看大家錄的影片啊，我就覺得，我應該把你們每個人在台上那 6 分鐘的矬樣錄下來
+下午11:33	Joey Chen(91)-仕傑	讓你看看你現在多厲害，多牛逼啊！
+下午11:33	Joey Chen(91)-仕傑	真的坐在那個位置，就會放空
+下午11:33	Joey Chen(91)-仕傑	要講話就會抖，講話就不能思考，思考就不能講話，講話就不能寫 code。
+下午11:35	Joey Chen(91)-仕傑	"要跟大家講的是，每個人都是這樣過來的。你在安全的環境下，在台上練個10次，寫 code 給人家看，你就會跨過那一道檻。
+
+心裡只要想著，有啥大不了的，下面的人上來也一樣矬，不會好到哪去。如果他上來比我好，代表他以前偷練過了。
+
+就只是這樣，你只是在學習克服那道障礙。"
+下午11:35	Joey Chen(91)-仕傑	"那道障礙的另一個名字，叫做「面子」。
+
+愛面子你就學得慢，就學不會。"
+下午11:53	Joey Chen(91)-仕傑	@歐趴 ，對了，那個 zcc 得要在 "" 裡面或左邊的這件事，我要倒回去我習慣性按大寫 B, 因為我只需要在左邊，不一定得在 "" 裡面，所以大寫B會比小寫B少按很多次
+
+2018/10/14（日）
+上午12:03	Joey Chen(91)-仕傑	看歐趴的影片，一個延伸的火花，讓我多綁訂了一個機車的自訂鍵 XD
+上午12:04	Joey Chen(91)-仕傑	歐趴一定覺得莫名其妙，因為他根本沒這樣用。
+上午12:04	Joey Chen(91)-仕傑	vmap M :vsc ReSharper.ReSharper_ExtractMethod<CR><Esc>
+上午12:04	Joey Chen(91)-仕傑	口桀口桀口桀口桀，剛剛測試了一下，挺爽的
+上午12:05	歐趴	喔喔喔喔XDDDD 就不用按三個鍵
+上午12:05	Joey Chen(91)-仕傑	反正，我也不會按M跳到螢幕中間
+上午12:06	歐趴	有道理～～
+上午12:06	Joey Chen(91)-仕傑	而且還是在 visual mode, 很多原本的鍵根本不會用
+上午12:07	Joey Chen(91)-仕傑	vmap P :vsc ReSharper.ReSharper_IntroduceParameter<CR><Esc>
+上午12:08	Joey Chen(91)-仕傑	[貼圖]
+上午12:08	歐趴	[貼圖]
+上午12:08	小安	[貼圖]
+上午12:08	Julian Yu-Lang Chu	超實用 這幾個都在v mode才進行!
+上午12:09	Joey Chen(91)-仕傑	你知道的，影片看久了，腦袋會自然混入 DNA
+上午12:09	Joey Chen(91)-仕傑	這個靈光一閃，是因為 @歐趴  用了 ?M 跳到 Math.Abs() 準備 extract method
+上午12:10	Joey Chen(91)-仕傑	我一閃神，想說，哇靠，為啥歐趴只要按 M 就可以 extract method
+上午12:10	Joey Chen(91)-仕傑	"然後仔細看，他有按 zrm。
+
+然後我想，為啥不直接按 M 就 extract method"
+上午12:14	歐趴	覺得91好強，我這個影片是靠北忍者的劣化複製版，按的精準度都不如他，沒想到91仍舊可以在裡面學到東西
+上午12:15	Joey Chen(91)-仕傑	多練多思考，就能觸發 level up
+上午12:15	Joey Chen(91)-仕傑	我只是用思路跟著你們走，但我的練習跟因為這個課，接觸的 context 會比大家多很多
+上午12:18	Joey Chen(91)-仕傑	如果你們連 shift 都不想按，就用小寫的 m 跟 p 吧
+上午12:18	Joey Chen(91)-仕傑	反正 visual mode 一般情況你都不會遇到它們
+上午12:18	Joey Chen(91)-仕傑	我會選大寫，是有種別名的味道 XD
+上午12:21	Joey Chen(91)-仕傑	"@歐趴 , 最後的 invert if to ? 
+
+你的 ?if 搜尋太讚了。納入下個練習計畫中！"
+上午12:22	Joey Chen(91)-仕傑	我 review 完你的影片啦，可以在實務上用，也不需要我再 review 了
+上午12:34	Joey Chen(91)-仕傑	@黃文德(Duncan) , 問你一下，多行代碼要 extract method，你有辦法用 vim trigger 嗎
+上午12:35	Joey Chen(91)-仕傑	我沒辦法在 IdeaVim 底下這樣做。原因是，visual mode 得 <Esc> 才能執行 :action
+上午12:35	Joey Chen(91)-仕傑	但 Esc 完就只剩下一行了
+上午12:35	Joey Chen(91)-仕傑	Visual Studio 沒這問題
+上午12:36	黃文德(Duncan)	沒辦法，之前想綁，但是就是會遇到你說的剩下一行
+上午12:39	黃文德(Duncan)	不過 phpstorm extract method 預設的快速鍵是 option+command+m，也很好按，就直接用內建的就好了
+上午12:39	歐趴	"@Joey Chen(91)-仕傑 多謝91大大review~ 這堂課真的收穫很多，把我以前對vim如何增加生產力的困惑打通了
+
+?if也是從拷貝忍者的影片偷來的XD"
+上午12:39	Joey Chen(91)-仕傑	我也是慣性用 ctrl+Alt+m 了。
+上午12:40	Joey Chen(91)-仕傑	我之前 miss 掉這最後一哩了
+上午01:54	Joey Chen(91)-仕傑	"另外，如果大家想要在某一個區塊裡面的每一行，都加上某個動作。
+你可以先用大寫 V 選一個區塊，然後按下 : 就會出現這一段的 pattern，後面補上 normal A;
+這樣就代表，我每一行，都要在 normal mode 的狀態下輸入 A;
+所以就會變成每一行最後都補上 ;"
+上午01:57	Joey Chen(91)-仕傑	[影片]
+下午02:42	黃迺翔（Milkker）	"@Joey Chen(91)-仕傑  
+https://youtu.be/_QuRlfkAs34"
+下午03:33	黃迺翔（Milkker）	結果再拍一次變慢了(攤
+下午04:47	Joey Chen(91)-仕傑	@Patrick Shih 如果找到 F1 失效的原因在講一聲啊
+下午04:50	Joey Chen(91)-仕傑	你要記得看完整 review comments 唷，有一些是之前提醒過的東西。（當然，習慣很難一次就改過來）
+下午05:08	Joey Chen(91)-仕傑	"review 告一段落，請務必看完完整的 review comments，然後針對我給的那四點在下一次錄影練習中修正。
+
+至少那四點要調整過來這樣。"
+下午06:17	黃迺翔（Milkker）	[貼圖]
+下午08:14	Patrick Shih	好的
+
+2018/10/15（一）
+上午12:03	黃銘軒	@Joey Chen(91)-仕傑 https://www.youtube.com/watch?v=D7zE1aNc1SQ
+上午12:05	黃銘軒	沒有進行版控
+上午12:33	Joey Chen(91)-仕傑	[貼圖]
+上午12:33	Joey Chen(91)-仕傑	我明天再找時間看
+
+2018/10/16（二）
+上午09:54	Joey Chen(91)-仕傑	報告，JetBrains coupon 應該都發出去了，請有申請的人，收一下 email 喔
+上午10:05	黃迺翔（Milkker）	有收到了!!
+上午10:21	Joey Chen(91)-仕傑	[貼圖]
+上午11:15	小安	有收到了，感謝！
+上午11:21	Karl_陳楷文_Kev	有收到 謝~
+下午03:49	Jamin	想請問一下~~小弟按zra跑測試，跑出來的是resharper的unit test session,而不是Test  explorer,我是要調整resharper的short cut嗎?
+下午03:49	Jamin	[照片]
+下午03:52	Joey Chen(91)-仕傑	不是
+下午03:52	Joey Chen(91)-仕傑	是要改 vimrc, zra 我有兩組設定
+下午03:52	Joey Chen(91)-仕傑	一組 用 " 註解掉了
+下午03:52	Joey Chen(91)-仕傑	"第一組是 ReSharper 的 reformat + ReSharper 的 test session
+第二組是 CodeMaid 的 clean up + Test Explorer 的執行測試"
+下午03:52	Joey Chen(91)-仕傑	你可以自己調整 :)
+下午03:53	Joey Chen(91)-仕傑	因為學員用這兩種的比例大概 50%-50%
+下午03:53	Jamin	好的~~~我試試~~謝謝91大~
+下午08:04	Jamin	"想問一下，有人遇過這個問題嗎?
+透過alt + up arrow想做MoveSelectedLinesUp，但無法往上移動"
+下午08:05	Joey Chen(91)-仕傑	Export shortcut, 搜尋 alt 跟 up arrow
+下午08:05	Joey Chen(91)-仕傑	找到其他的 command 名稱，到鍵盤去把那堆佔著熱鍵的移掉
+下午08:05	Joey Chen(91)-仕傑	只保留原本的就行
+下午08:06	Joey Chen(91)-仕傑	這會失效 代表第一次跳出衝突時，你直接選 resharper 了
+下午08:06	Joey Chen(91)-仕傑	所以 這一個 visual Studio 本身的熱鍵失效
+下午08:42	Jamin	我把Resharper和alt+up/down撞到的熱鍵移除就可以了～～謝謝９１
+下午08:44	Joey Chen(91)-仕傑	[貼圖]
+下午09:06	Patrick Shih	老師 請問一下  IdeaVim  在create class / method 的時候，游標是不是一定要在括號的左側 ALT + ENTER 才有用
+下午09:06	Patrick Shih	[照片]
+下午09:07	Patrick Shih	如果游標在括弧中間與右側就沒辦法跳出  重構的選單，是只有我這裡會這樣嗎
+下午09:18	Patrick Shih	補充一下  用的是  Android Studio & Kotlin
+下午09:37	Joey Chen(91)-仕傑	對，這是 JetBrains IDE的問題，不是 Ideavim
+下午09:38	Joey Chen(91)-仕傑	用zn跳過去比較快，或是還沒寫()就 create
+下午09:38	Joey Chen(91)-仕傑	我上次就是跟 @黃文德(Duncan) 說，phpstorm 可以用zn跳比較快
+下午09:43	Patrick Shih	"謝謝老師
+不好意思再多問一個，往上複製建議怎麼按
+y3k3jp 嗎"
+下午09:45	Joey Chen(91)-仕傑	"因為你往上複製的行數不一定，也可能是 y?Foo <CR> 這時要跳回來根本沒法算行數。
+
+你有試過用 zk 看能不能跳回複製前的游標位置嗎"
+下午09:45	Joey Chen(91)-仕傑	如果可以，那就是 y3kznp
+下午09:46	Joey Chen(91)-仕傑	zkp 才對
+下午09:46	Patrick Shih	可以  謝謝老師
+下午09:46	Joey Chen(91)-仕傑	IDE+vim的美妙
+下午09:47	Patrick Shih	[貼圖]
+下午09:48	Joey Chen(91)-仕傑	雙劍合璧
+下午09:48	Joey Chen(91)-仕傑	讓只懂 IDE 跟只懂 vim 的人都追不上你們
+下午09:50	黃文德(Duncan)	沒錯！超快！
+下午09:51	Patrick Shih	沒錯，  好像在演奏音樂一樣
+下午09:52	Joey Chen(91)-仕傑	沒事練練手，可以修身養性的。
+下午09:55	Patrick Shih	[照片]
+下午09:55	Patrick Shih	好詭異喔，  }  竟然跳這麼遠
+下午09:56	Joey Chen(91)-仕傑	Space, tab 調整看看
+下午09:56	黃文德(Duncan)	我習慣把空格也顯示
+下午09:57	Patrick Shih	所以只要有  tab }  就會略過
+下午09:57	Patrick Shih已收回訊息
+下午09:57	Joey Chen(91)-仕傑	"一月的極速開發缺學生啊～～
+
+希望大家能幫忙一帶一路一下啊。
+
+"
+下午10:15	黃文德(Duncan)	好！
+下午10:16	歐趴	來寫網誌幫91推廣～
+下午10:17	歐趴	yihuode網站好常在轉圈圈喔
+下午10:18	Joey Chen(91)-仕傑	唉 是啊 因為網站在中國，我們是外族，在長城外的
+下午10:18	Joey Chen(91)-仕傑	重點是CDN在長城內....
+下午10:18	歐趴	難怪～
+下午10:18	Joey Chen(91)-仕傑	要開無痕 refresh..
+下午10:33	黃銘軒	@Joey Chen(91)-仕傑 91大 ，我的還沒review說
+下午10:33	Joey Chen(91)-仕傑	好，謝謝提醒，我這三天都在課上。
+下午10:38	Joey Chen(91)-仕傑	第一版就在 20 分鐘內
+下午10:39	黃文德(Duncan)已收回訊息
+下午10:41	Joey Chen(91)-仕傑	這完全是練家子啊，我只看了五分鐘，你100%可以在工作上用了
+下午10:49	Joey Chen(91)-仕傑	"下一輪練習的兩個重點調整：
+1. 用 Ctrl+A 跟 Ctrl+X 來加減該行的數字
+2. 用 zcc 來清除該行 """" 內的內容"
+下午10:54	Joey Chen(91)-仕傑	我完整地看完了，沒了，只有這兩點要改
+下午10:55	Joey Chen(91)-仕傑	而且步驟、方式完全正確，又是另一個複製忍者
+下午10:55	Joey Chen(91)-仕傑	而且極少打錯字
+下午10:55	Joey Chen(91)-仕傑	我甚至那悶，為啥你寫得那麼順，竟然是 19分
+下午10:55	Joey Chen(91)-仕傑	超順的啊
+下午10:56	Joey Chen(91)-仕傑	你把 zcc 跟 ctrl+A, ctrl+X 用熟，一定可以在18分以內。
+下午10:56	Joey Chen(91)-仕傑	除了那兩個，其他的只剩下手速
+下午10:56	Joey Chen(91)-仕傑	真的是打字速度的差異了
+下午11:00	小安	91哥我的還能Review嗎，最近都卡在20分，想知道除了手殘打錯字還有哪邊要改的...
+下午11:00	小安	https://www.youtube.com/watch?v=T-kxrwIySUQ&index=8&list=PL9JYfNfg5BpQZs0bMeZWrOrRFQ6zTcxYa
+下午11:00	Joey Chen(91)-仕傑	放上來讓其他人鞭一下
+下午11:00	Joey Chen(91)-仕傑	XD
+下午11:01	小安	鞭我吧（遞辮子
+下午11:01	Joey Chen(91)-仕傑	https://trello.com/b/NbtCoC4f/odd-e-%E5%AD%B8%E5%93%A1%E5%BF%83%E5%BE%97
+下午11:01	Joey Chen(91)-仕傑	[照片]
+下午11:02	Joey Chen(91)-仕傑	我都是這樣加我的待辦的
+下午11:02	Joey Chen(91)-仕傑	等著我看的，按個 space 就 assign 給自己了
+下午11:03	Joey Chen(91)-仕傑	我明天白天看，我這兩天都吃了半顆安眠藥，現在身體正在反噬中 XD
+下午11:03	小安	[貼圖]
+下午11:03	小安	沒問題
+下午11:04	Joey Chen(91)-仕傑	看歐趴這邊推薦文啊，https://blog.opasschang.com/2018/10/15/%E7%B9%BC%E5%AD%B8vim%E7%9A%84%E5%95%9F%E7%A4%BA%E4%B9%8B%E5%BE%8C%EF%BC%8C%E7%B5%82%E6%96%BC%E8%A7%A3%E6%8E%89%E5%BF%83%E4%B8%AD%E7%9A%84%E5%9B%B0%E6%83%91/
+下午11:04	Joey Chen(91)-仕傑	我真的覺得我它媽超幸運的
+下午11:04	黃文德(Duncan)	哇！！！
+下午11:04	Joey Chen(91)-仕傑	"因為，我沒用過真實的 vi/vim editor, 也沒用過 subline, 
+我也很不擅長命令行，沒用過 linux"
+下午11:05	Joey Chen(91)-仕傑	我，就是看著給你們的那一份 vi-vim pdf 自己摸的
+下午11:05	歐趴	QAQ竟然
+下午11:05	Joey Chen(91)-仕傑	然後一路 google 出去，找 ideavim/vsvim 的 issue, document
+下午11:05	歐趴	十里坡劍神（誤
+下午11:06	Joey Chen(91)-仕傑	幹，真的是十里坡硬練到劍神
+下午11:06	Joey Chen(91)-仕傑	不過因為我 IDE 的功底很扎實就是了
+下午11:06	Joey Chen(91)-仕傑	第一梯啊，連用 r replace 都是學生教我的...
+下午11:06	黃文德(Duncan)	等等，我看到「害我那兩週幾乎沒有在重訓還熬夜，體重掉了兩公斤。」←我覺得是炫耀.........
+下午11:07	Joey Chen(91)-仕傑	不過我覺得，每個人擅長的就都不一樣。
+下午11:07	Joey Chen(91)-仕傑	他們會用 r, 我學會之後比他們快。
+下午11:07	歐趴	體重掉兩公斤很崩潰捏～
+下午11:07	Joey Chen(91)-仕傑	大概就是那樣，擠出綜效就對了
+下午11:07	Karl_陳楷文_Kev	羨慕
+下午11:08	歐趴	綜效真的很強，回想起以前用vim到現在都沒有什麼綜效
+下午11:09	黃文德(Duncan)	@歐趴 我晚點也會po fb推薦文，你這篇方便讓我分享嗎？你寫的太好了！！我自己的文字可能100個字都不到XDD
+下午11:09	Karl_陳楷文_Kev	之前學 也只是jkhl狂點
+下午11:09	Karl_陳楷文_Kev	哈哈
+下午11:10	歐趴	@黃文德(Duncan)  沒問題沒問題，我是昨天晚上熬夜寫好等著放涼
+下午11:10	黃文德(Duncan)	[貼圖]
+下午11:10	歐趴	剛好趁這個機會po XD
+下午11:10	Joey Chen(91)-仕傑	媽的，為啥我是胖兩公斤
+下午11:10	黃文德(Duncan)	哦哦，嚇死我了，我以為從剛91哥說幫忙推薦到現在就寫出這篇來了XD
+下午11:10	黃文德(Duncan)	對ㄚ~媽的，我每週大約都跑個30k的步，還是掉不到1公斤ㄚ.....
+下午11:10	黃文德(Duncan)	人生真是不公平......
+下午11:12	歐趴	晚上肚子很餓吃不夠就會瘦惹XD
+下午11:13	黃文德(Duncan)	[貼圖]
+下午11:16	小安	看到兩公斤也覺得羨慕...
+下午11:20	Joey Chen(91)-仕傑	哥的知識都在肚子上了
+下午11:20	Patrick Shih	"我又發現 IdeaVim 有個怪問題
+多行選取， zrm 只會擷取最後一行"
+下午11:20	Patrick Shih	[照片]
+下午11:21	Patrick Shih	[照片]
+下午11:21	Joey Chen(91)-仕傑	昨天在討論這個啊
+下午11:21	黃文德(Duncan)	對
+下午11:21	黃文德(Duncan)	因為wax
+下午11:21	Joey Chen(91)-仕傑	要看一下我們的討論，才不會一直踩重複的雷 XD
+下午11:21	黃文德(Duncan)	Esc 
+下午11:21	Joey Chen(91)-仕傑	只能用預設 shortcut 了
+下午11:21	Joey Chen(91)-仕傑	這一點，還是 VsVim 好 XD
+下午11:22	Joey Chen(91)-仕傑	Ideavim 吃屎
+下午11:22	Patrick Shih	謝謝，剛剛也是百思不得其解，預設的沒問題
+下午11:22	黃文德(Duncan)	[貼圖]
+下午11:22	Joey Chen(91)-仕傑	如果 @Patrick Shih  可以用 vim 在多行選取的情況，trigger extract method, 請教教我
+下午11:24	Joey Chen(91)-仕傑	在 Visual Studio 的世界，沒見識過那樣的結果，我真心覺得能靠自己硬練 vim 到撞開牆的，不到 1%
+下午11:24	Joey Chen(91)-仕傑	光那個 p 的貼上，會貼上自己剛剛刪除的東西
+下午11:24	Joey Chen(91)-仕傑	就可以滅掉一半以上的人
+下午11:25	Joey Chen(91)-仕傑	而且覺得已經用了 IDE 了，還用啥小 vim, 「我有熱鍵」！
+下午11:25	Joey Chen(91)-仕傑	看得到可行性，才能讓自己往下走
+下午11:25	歐趴	上完課後其實覺得恐怖的是看不到可能性的日常QQ
+下午11:26	黃文德(Duncan)	真的，我算是一個活生生的例子XD~不用vim，光靠ide+mouse就可以算快了，但變成vim+ide，整個世界又不同了！
+下午11:28	Joey Chen(91)-仕傑	大家千萬不要忘了，有事沒事就去掃一下 extension/plugin
+下午11:28	Joey Chen(91)-仕傑	因為一個不起眼的 plugin, 很有可能就是你 vim pipeline 最重要的一塊拼圖
+下午11:28	Joey Chen(91)-仕傑	就看你能把神經磨到多敏感了
+下午11:30	Joey Chen(91)-仕傑	已經破關的同學可以回過頭想想
+下午11:30	Joey Chen(91)-仕傑	沒有這門課跟你們課後的練習
+下午11:31	Joey Chen(91)-仕傑	你要過多久，才會改掉加空格的習慣，要有什麼契機，你才可能去用 postifix template
+下午11:32	Joey Chen(91)-仕傑	"你學會了原來測試該長成這個模樣，看起來才清楚。
+學會了要先跑測試紅燈才動產品代碼。
+學會了小布重構，學會了加一些代碼讓抽象重複變成實質重複，再消除重複。
+學會了一個無聊的 Alt+. 只幫你長 ->
+學會了一個無聊的 z; 只為了幫你補 ;"
+下午11:33	Joey Chen(91)-仕傑	這些都不難，但你不練習，不去思考，不去「發現」，不被「刺激」，不被「提醒」
+下午11:33	Joey Chen(91)-仕傑	你得花掉多少時間才可能把這些 event 發生，並得到好的結果？
+下午11:33	Joey Chen(91)-仕傑	而那些時間對你來說，有多貴。
+下午11:34	Joey Chen(91)-仕傑	能學會，其實都是你們自己的本事，真的。
+下午11:34	Joey Chen(91)-仕傑	我的價值是在於，讓你們用自己的本事學會
+下午11:34	Joey Chen(91)-仕傑	我只是複雜擦出火花的而已
+下午11:34	Joey Chen(91)-仕傑	負責
+下午11:34	Julian Yu-Lang Chu	我的ideam多行extract method疑似可以work了.....
+下午11:35	Patrick Shih	快教我  ~~~
+下午11:35	Julian Yu-Lang Chu	"map zrm :action ExtractMethod<CR>
+imap zrm <Esc>:action ExtractMethod<CR>
+""vmap zrm <Esc>:action ExtractMethod<CR>
+
+我把vmap註解掉"
+下午11:35	Julian Yu-Lang Chu	另外我還裝了EAP版的ideavim
+下午11:36	Julian Yu-Lang Chu	不知道是那個影響的...還沒裝EAP版的幫我試一下
+下午11:36	黃文德(Duncan)	不用 v 如何選多行？
+下午11:36	Julian Yu-Lang Chu	map是通用吧
+下午11:38	Joey Chen(91)-仕傑	map 是通用啊
+下午11:38	黃文德(Duncan)	我無法
+下午11:38	Joey Chen(91)-仕傑	但是 沒有在 normal mode 無法用 :action 的
+下午11:38	Joey Chen(91)-仕傑	我在 Ideavim 也都不行
+下午11:38	Joey Chen(91)-仕傑	只有 Visual  Studio 可以
+下午11:40	Karl_陳楷文_Kev	@歐趴 你c++ 是寫windows 的？
+下午11:41	歐趴	黑啊 用Qt
+下午11:41	Julian Yu-Lang Chu	我裝0.49.8 我降回0.49再試試看看
+下午11:44	Karl_陳楷文_Kev	了解@@   
+下午11:45	Karl_陳楷文_Kev	"@Joey Chen(91)-仕傑 
+https://www.youtube.com/watch?v=FFp1lUwfctA"
+下午11:46	Karl_陳楷文_Kev	現在回去用vscode 覺得有夠惱人的
+下午11:47	Karl_陳楷文_Kev	= =
+下午11:47	Joey Chen(91)-仕傑	[貼圖]
+下午11:47	黃文德(Duncan)	[貼圖]
+下午11:47	Joey Chen(91)-仕傑	我上次把 vim 關掉，錄單元測試的影片，反而手指會打傑啊
+下午11:48	Joey Chen(91)-仕傑	打結
+下午11:48	Joey Chen(91)-仕傑	大家只要記得，退回去熱鍵+滑鼠，你就又是一尾活龍了
+下午11:48	Karl_陳楷文_Kev	之前是圖方便 , 因為團隊少開發Linux , 而且vscode 還跨平台
+下午11:48	Joey Chen(91)-仕傑	會卡，是因為你不想用滑鼠，因為習慣了
+下午11:49	Joey Chen(91)-仕傑	不過 vscode 的 vim 始終還是殘廢
+
+2018/10/17（三）
+上午12:12	Julian Yu-Lang Chu	"vnoremap zrm :<bs><bs><bs><bs><bs>action VimVisualSwapSelections<cr>:action ExtractMethod<cr>
+
+試試這個看看， 0.49版應該可用"
+上午12:13	黃文德(Duncan)	<bs> 這個想法我上次也試了....
+上午12:13	黃文德(Duncan)	我再試一次看看
+上午12:13	Julian Yu-Lang Chu	主要是這個action VimVisualSwapSelections
+上午12:14	黃文德(Duncan)	哦哦，我來試試
+上午12:14	Joey Chen(91)-仕傑	VimVisualSwapSelections => 感覺很酷
+上午12:15	黃文德(Duncan)	可以ㄟ！！
+上午12:15	黃文德(Duncan)	酷！
+上午12:15	黃文德(Duncan)	[貼圖]
+上午12:15	Julian Yu-Lang Chu	source: https://youtrack.jetbrains.com/issue/VIM-862
+上午12:16	Julian Yu-Lang Chu	不過看起來 EAP0.49.2 開始也有修復，目前正式release只到0.49
+上午12:16	黃文德(Duncan)	有 VimVisualSwapSelections 的話，那這樣可以做的事好像又更多了
+上午12:16	黃文德(Duncan)	不少選擇配點ide功能都會放在這點上
+上午12:17	黃文德(Duncan)	看來 actionlist 裡的 vim 開頭的需要好好研究一下各別的功能了
+上午12:17	Joey Chen(91)-仕傑	真的從你身上也學到好多
+上午12:19	Joey Chen(91)-仕傑	[記事本] vnoremap zrm :<bs><bs><bs><bs><bs>action VimVisualSwapSelections<cr>:action ExtractMethod<cr>
+
+試試這個看
+上午12:19	Julian Yu-Lang Chu	交給你了(拍肩),  我要找時間先好好練....現在好像20是平均水平了..QQ
+上午12:19	Joey Chen(91)-仕傑	大家先把 commit 的動作拔掉
+上午12:20	Joey Chen(91)-仕傑	因為實務上在 commit 時，是很適合短休息的
+上午12:20	Joey Chen(91)-仕傑	不休息，反而對思路不好
+上午12:20	Joey Chen(91)-仕傑	蕃茄鐘概念
+上午12:23	Julian Yu-Lang Chu	其實是91哥惠我良多XD,  三天TDD班是開始快速進步的分水嶺~
+上午12:23	Julian Yu-Lang Chu	結果時間都花在測ideavim....今天作業還沒做orz
+上午12:24	黃文德(Duncan)	今天找出 VimVisualSwapSelections 這個就能算作業完成了吧XD
+上午12:24	Julian Yu-Lang Chu	不不 是JS班的作業.....
+上午12:24	黃文德(Duncan)	[貼圖]
+上午12:25	Julian Yu-Lang Chu	上完第一天 推薦!
+上午12:25	黃文德(Duncan)	原來這連三天JS你也有去
+上午12:29	Julian Yu-Lang Chu	ya, 兩天班應該可以省下我半年以上的自行練功時間 超划算~~~
+上午12:29	黃文德(Duncan)	[貼圖]
+上午12:44	Joey Chen(91)-仕傑	今天的 js clean code 因應時間跟班上同學狀態的調整，它是拿 legacy code 來說明怎麼重構
+上午12:45	Joey Chen(91)-仕傑	三天的 CSD 或是我的重構TDD 是讓你寫出那樣醜的 legacy code, 然後重構給你看
+上午12:45	Joey Chen(91)-仕傑	其實，重構學員寫出來的爛 code 給學員看，那種震撼感可能是10倍以上
+上午12:45	黃文德(Duncan)	「是讓你寫出那樣醜的 legacy code, 然後重構給你看」←這個真的是很狂，而且很有感！！
+上午12:45	Joey Chen(91)-仕傑	但很吃時間安排
+上午09:20	Patrick Shih	請問一下  IdeaVim 以下情況 .if  你們會不會沒有用
+上午09:20	Patrick Shih	[照片]
+上午09:21	Joey Chen(91)-仕傑	你要去看 android studio 的 postfix template
+上午09:21	Joey Chen(91)-仕傑	而且可以自己編輯跟新增
+上午09:21	Joey Chen(91)-仕傑	它跟 ideavim 無關
+上午09:21	Patrick Shih	謝謝老師
+上午09:23	Patrick Shih	[照片]
+上午09:24	Patrick Shih	老師 你指的是這畫面嗎，  沒有可以設定的地方
+上午09:25	Patrick Shih	應該說   有的地方  .if  可以用    如  ==  我測試出來    > 3  的 .if  沒有用
+上午09:26	Joey Chen(91)-仕傑	不是這個，他有好多個，我找一下給你
+上午09:26	Joey Chen(91)-仕傑	你找一下 custom 關鍵字
+上午09:26	Joey Chen(91)-仕傑	那邊新增是獨立的 editor 視窗
+上午09:27	Joey Chen(91)-仕傑	可以新增個 ANY -> $SELECTION.if 之類的
+上午09:27	Joey Chen(91)-仕傑	那個 ANY 可以自訂型別
+上午09:27	Joey Chen(91)-仕傑	然後 Kotlin 有語言特性不一樣
+上午09:27	Joey Chen(91)-仕傑	因為我不懂 Kotlin 所以你得學會怎麼改，才能夠應變
+上午09:28	Joey Chen(91)-仕傑	File | Settings | Editor | Color Scheme | Custom Postfix Templates
+上午09:28	Joey Chen(91)-仕傑	選錯了，等等
+上午09:29	Joey Chen(91)-仕傑	那是 color
+上午09:29	Joey Chen(91)-仕傑	File | Settings | Editor | Custom Postfix Templates
+上午09:29	Joey Chen(91)-仕傑	這個才對
+上午09:29	Joey Chen(91)-仕傑	你要裝一下 plugin, custom postfix template
+上午09:30	Joey Chen(91)-仕傑	".ae : assert equals template
+    ANY -> assertEquals($expected$, $expr$);
+
+.example : example template
+    ANY  →  foo($expr$)"
+上午09:30	Joey Chen(91)-仕傑	這是我的 ae postfix template
+上午09:30	Joey Chen(91)-仕傑	ANY 代表什麼型別都可以跳這個 intellisense 出來
+上午09:38	Patrick Shih	老師  他是加入 Template File 對不對，Template File 會吃甚麼格式 ?
+上午09:39	Joey Chen(91)-仕傑	等我一下，我有點忘了，它埋得有點深
+上午09:39	Joey Chen(91)-仕傑	我得想一下怎麼叫它出來改
+上午09:39	Patrick Shih	[照片]
+上午09:55	Joey Chen(91)-仕傑	C:\Users\joeychen\.IntelliJIdea2018.2\config\plugins\custom-postfix-templates_templates\templates\
+上午09:55	Joey Chen(91)-仕傑	我忘了我怎麼從 IDE 裡面直接去開了
+上午09:56	Joey Chen(91)-仕傑	但是路徑是在這邊
+上午09:56	Joey Chen(91)-仕傑	.postfixTemplates 你可以用 IDE 開跟編輯
+上午09:57	Joey Chen(91)-仕傑	但是這邊是自己新增的
+上午10:00	Joey Chen(91)-仕傑	我先 update 一下版本，太舊了
+上午10:13	Joey Chen(91)-仕傑	我好像只有自己新增 custom postfix template, 原生的不給改
+上午10:14	Joey Chen(91)-仕傑	你可以把原生的 disable 掉，只出來你的 custom abbr
+上午10:22	Patrick Shih	"謝謝老師  .if   試出來
+不過像  .ae   不是點在自己寫的程式碼後面，一直試不出來"
+上午10:22	Patrick Shih	".ae : assert equals template
+ANY -> assertEquals($expected$, $expr$)"
+上午10:23	Patrick Shih	老師你的  ANY   是  kotlin.Any 的  ANY 嗎？  還是 Template 的保留自
+上午10:23	Joey Chen(91)-仕傑	是保留字
+上午10:24	Joey Chen(91)-仕傑	會有提示讓你選，你的 postfix 只在什麼型別下，才會 popup intellinse
+上午10:24	Joey Chen(91)-仕傑	你還要改一個地方，是 context 跟層級
+上午10:27	Joey Chen(91)-仕傑	[照片]
+上午10:27	Joey Chen(91)-仕傑	先講一下，型別就是類似這樣
+上午10:27	Joey Chen(91)-仕傑	你在這幾個 type 都可以用 .apply 的 postfix
+上午10:27	Joey Chen(91)-仕傑	但長出來的 template 不一樣
+上午10:28	Patrick Shih	我先給你看我的  Template  應該沒寫錯  if 用的是  kotlin.Any  .ae用的是  ANY
+上午10:28	Patrick Shih	[照片]
+上午10:28	Patrick Shih	可是 我的  .ae  需要在任何型別後面嗎
+上午10:28	Patrick Shih	是 空白的地方打  .ae  ?
+上午10:29	Joey Chen(91)-仕傑	要啊，這是 postfix template
+上午10:29	Joey Chen(91)-仕傑	例如 tennis.score().ae
+上午10:30	Patrick Shih	那我誤會了  我以為  可以像    可以像  zae  那樣直接長出來
+上午10:33	Joey Chen(91)-仕傑	no, vim 沒有 template 的功能
+上午10:33	Joey Chen(91)-仕傑	你只能叫出 template 的 menu
+上午10:34	Joey Chen(91)-仕傑	例如 zeu 去執行 surroud with live template
+上午10:34	Joey Chen(91)-仕傑	那是 執行 action
+上午10:35	Joey Chen(91)-仕傑	tag 一下 @Julian Yu-Lang Chu
+上午10:35	Joey Chen(91)-仕傑	把你的 zeu 交出來 XD
+上午10:36	Patrick Shih	"老師  抱歉 我的問題比較多
+在一個問題
+""ABC"".if  =>  not  work
+""ABC"" == ""CDE"".if  => ok"
+上午10:37	Patrick Shih	[照片]
+上午10:37	Patrick Shih	[照片]
+上午10:39	Julian Yu-Lang Chu	"vmap <A-s> :vsc ReSharper.ReSharper_SurroundWith<CR> 這是VS的
+zeu會按錯u啦~  
+
+jetbrains的我找一下"
+上午10:39	Julian Yu-Lang Chu	這個是不是因為能不能判斷是boolean
+上午10:41	Patrick Shih	不過用的是  kotlin.Any  ->   if .....  應該會對才對
+上午10:42	Julian Yu-Lang Chu	SurroundWith /SurroundWithLiveTemplate  應該是這兩個 我Webstorm還沒綁 中午試一下
+上午10:43	Julian Yu-Lang Chu	ae跟for都work嗎
+上午10:45	Patrick Shih	ae & if  都是綁  kotlin.Any   ，我是先玩  "Love All".ae  不行才發現的
+上午10:49	Patrick Shih	for 用的是  Int   沒問題
+上午10:53	Julian Yu-Lang Chu	所以int可以，綁bool有試過嗎
+上午10:54	Julian Yu-Lang Chu	我猜想是不是any的問題
+上午10:58	Julian Yu-Lang Chu	說錯綁string
+上午10:58	Joey Chen(91)-仕傑	哈，如果是 Alt+s 的，我建議就不要給 vim 去 trigger, 直接用 IDE, 就不用管 mode 了
+上午11:02	Patrick Shih	"剛剛重開 Android Sudio 也不行
+哈哈  只好分別為  各種型別  綁上  .ae 了，不知道  Any 為何不工作"
+上午11:02	Patrick Shih	綁上  String  就可以
+上午11:03	Patrick Shih	說錯  還是有問題
+上午11:04	Patrick Shih	[照片]
+上午11:04	Patrick Shih	空字串  的可以
+上午11:04	Patrick Shih	[照片]
+上午11:04	Patrick Shih	有內容的卻不行
+上午11:04	Patrick Shih	現在已經是  綁  string
+上午11:05	Joey Chen(91)-仕傑	[貼圖]
+上午11:16	Joey Chen(91)-仕傑	對了，這讓我想到，我之前 abs 打算用 postfix template 做，是不可行的
+上午11:16	Joey Chen(91)-仕傑	單一值可以，但是expression就不行
+上午11:36	黃銘軒	"@Joey Chen(91)-仕傑 多謝91大Review，每天花好多時間看影片來練習，真的是收穫良多。
+對了，91大，如果先前上過SkillTree的自動測試與TDD實務開發，想說現在的單元測試實戰操練營和重構與 TDD 實戰操練營的差異?"
+上午11:54	Joey Chen(91)-仕傑	你如果 skilltree 是 2017 年上的，第八梯次第九梯次，那單元測試實戰營到中午的3個 lab 主體已經上過了，只有額外補上重構測試的練習。下午的進階部份會有 delegate 的三種測試
+上午11:55	Joey Chen(91)-仕傑	"所以如果你是第八梯次第九梯次的 skilltree TDD，單元測試來的效益就會小一點。
+
+但重構與TDD就完全不一樣了"
+上午11:56	Joey Chen(91)-仕傑	主體會是給你們個需求，讓你們寫代碼滿足需求，帶一點 test/production code review, 挑一組實作得爛一點的 legay code，直接重構給你們看
+上午11:56	Joey Chen(91)-仕傑	基本上就是你會覺得，你以前的設計爛在哪，自己都不知道。你以為的重構稱不上重構，只能說是整理而已 XD
+上午11:57	Julian Yu-Lang Chu	沒有空格的情況可以嗎...
+上午11:57	Joey Chen(91)-仕傑	同樣的需求，用TDD+即時重構，讓你體會如果一開始就用 TDD 的思路跟方式。開發差異有多大
+上午11:58	Joey Chen(91)-仕傑	"結論，不建議你上單元測試，有機會來幫我當助教，把下午的內容補起來，上午當作溫習。
+
+但重構與TDD 建議沒上過的，都要來被洗禮一趟"
+上午11:59	Joey Chen(91)-仕傑	媽的，多行選取擷取方法，我碰到一個特別的情況，中午吃飯給你看一下
+下午12:00	黃銘軒	@Joey Chen(91)-仕傑 先前上過是2016年第六梯的
+下午12:10	Patrick Shih	一樣，我這邊不是空字串都不行，你那邊會嗎？
+下午12:11	Patrick Shih	[照片]
+下午12:12	Joey Chen(91)-仕傑	"@黃文德(Duncan) , @Julian Yu-Lang Chu 
+vmap zrm :<bs><bs><bs><bs><bs>action VimVisualSwapSelections<cr>:action EditorUnSelectWord<CR>:action ExtractMethod<cr>
+
+要這樣"
+下午12:13	黃文德(Duncan)	是的，昨天改了
+下午12:13	黃文德(Duncan)	也發現兩個好東西
+下午12:14	黃文德(Duncan)	晚點分享
+下午12:16	Joey Chen(91)-仕傑	期待
+下午04:02	Julian Yu-Lang Chu	[照片]
+下午04:02	Julian Yu-Lang Chu	我可以， 試試看用比較特別的名字試
+下午04:03	Julian Yu-Lang Chu	你的int應該是吃到內建的
+下午04:03	Julian Yu-Lang Chu	"根據文件 https://github.com/xylo/intellij-postfix-templates
+kotlin只支援any"
+下午04:07	黃文德(Duncan)	昨天睡前快速 view 一下 actionlist 的 Vim系列，發現有 VimBack、VimForward 這兩個，IDE 自已的 Back、Forward 在 IdeaVim 底下是不 work 的，但 VimBack、VimForward 就可以，所謂不 work 是不會針對在 IdeaVim 底下跳動來 back、forward，所以我 zk、zj 改用 VimBack、VimForward 了
+下午04:08	Joey Chen(91)-仕傑	cool, 試試
+下午04:09	黃文德(Duncan)	然後另一個是 VimAutoIndentLines ，在做 MoveLineUp 時不會自動判斷移到的目的地的縮版(雖然可以透過排版來處理)，但加上 VimAutoIndentLines 就會自動縮了
+下午04:09	黃文德(Duncan)	所以我也加上去了 :action MoveLineUp<CR>:action VimAutoIndentLines<CR>
+下午04:10	Joey Chen(91)-仕傑	VimAutoIndentLines 指的是用 vim 縮排？
+下午04:11	黃文德(Duncan)	我錄一下影片
+下午04:13	Joey Chen(91)-仕傑	yes, 我了解了
+下午04:13	Joey Chen(91)-仕傑	pipeline 的兩個動作
+下午04:13	黃文德(Duncan)	[影片]
+下午04:13	Joey Chen(91)-仕傑	搬上去之後照 block 的位置自己排版
+下午04:13	黃文德(Duncan)	這個是只有 MoveLineUp，不會自動縮
+下午04:13	黃文德(Duncan)	[影片]
+下午04:14	黃文德(Duncan)	這個加上 VimAutoIndentLines，就會自動縮
+下午04:14	黃文德(Duncan)	是的
+下午05:01	Joey Chen(91)-仕傑	"調了一些昨天大家講的設定，硬是在上課中錄了一版 C# 的版本：https://www.youtube.com/watch?v=hfPe_extFh4&feature=youtu.be
+
+13:53"
+下午05:01	Joey Chen(91)-仕傑	賣點在，我是用 Visual Studio 寫的
+下午06:49	Karl_陳楷文_Kev	@Joey Chen(91)-仕傑  我看單元測試實戰操練營 201901 第五梯次﹣台北還有9個位子 , 應該還能報名吧?
+下午06:51	Joey Chen(91)-仕傑	還可以啊
+下午06:54	Karl_陳楷文_Kev	好的 謝謝
+下午08:15	Julian Yu-Lang Chu	實用!!!!
+下午08:16	Julian Yu-Lang Chu	0.49.8 VimVisualSwapSelections 沒有會多選一格的問題了~
+下午08:18	Joey Chen(91)-仕傑	cool,真的是 bug 啊
+下午08:18	Julian Yu-Lang Chu	!!!V3k ctrl-D可以取代jetbrains 的y3kzkp了
+下午08:18	Joey Chen(91)-仕傑	一直都可以不是嗎
+下午08:19	Julian Yu-Lang Chu	==>我之前不知道有
+下午08:19	Joey Chen(91)-仕傑	只有 Rider 的 Ctrl+D 有點問題
+下午08:19	Joey Chen(91)-仕傑	用 action trigger 可以
+下午08:19	Joey Chen(91)-仕傑	單行 Ctrl+D 也可以
+下午08:19	Joey Chen(91)-仕傑	但區塊 Ctrl+D 就是沒反應
+
+2018/10/18（四）
+上午12:11	歐趴	"google了一陣子找不到答案，想詢問resharper的file templatre功能，我用的是resharper C++，但我想C#內應該有類似的狀況。
+
+假設我使用file template建立class TennisGame, 我可以將新增的檔案名稱y自動改為tennis_game.h而不是TennisGame.h嗎?"
+上午12:14	歐趴	[照片]
+上午12:15	歐趴	紅框處不知道怎麼設定
+上午12:30	Karl_陳楷文_Kev已收回訊息
+上午12:59	Karl_陳楷文_Kev	@歐趴 選單resharper -> options  -> code editing -> c++ -> naming style 找一下有沒有對應的？
+上午01:00	歐趴	找過了～但沒有file的選項
+上午01:01	歐趴	[照片]
+上午01:05	Karl_陳楷文_Kev	add 裡面？   
+上午01:06	歐趴	Add 裡面也沒有XD
+上午01:17	Karl_陳楷文_Kev	c#的話，改class 的naming style 就一起改了@@
+上午01:25	歐趴	恩恩剛剛試了一下的確是這樣，可是C#內好像也沒辦法class name和filename用不同的naming convention
+上午01:26	Karl_陳楷文_Kev	"他可以像c# 搬class 直接開新檔案嗎？ 我試了不行
+
+如果是直接建新的，他跳命名對話窗，就可以輸入tennis_game"
+上午01:27	歐趴	恩恩，可是class Name也會變成class tennis_game
+上午01:28	歐趴	先來去休息，明天再來研究 謝謝 @Karl_陳楷文_Kev
+上午01:29	歐趴	會有這需求是因為Google C++ Coding Style Convention內，建議的檔名命名方式是snake_case，但是class的建議命名方式是CamelCase
+上午01:31	Karl_陳楷文_Kev	替代方案是改class 的命名，你開完.h後，跳到名稱按alt + enter 他會幫你rename
+上午01:31	Karl_陳楷文_Kev	我試起來是這樣
+上午01:32	歐趴	make sense, 好像目前只能這樣做
+上午01:35	Karl_陳楷文_Kev	[照片]
+上午01:35	Karl_陳楷文_Kev	我發現這個可以點
+上午01:35	Karl_陳楷文_Kev	改macro
+上午01:36	Karl_陳楷文_Kev	找看看有沒有你要的
+上午01:36	Karl_陳楷文_Kev	也可以改CLASS下面的NAME
+上午01:36	Karl_陳楷文_Kev	就是檔名的處裡
+上午01:38	歐趴	我有看過這個，但看了一些設定感覺都沒辦法達成效果
+下午05:19	Joey Chen(91)-仕傑	[照片]
+下午05:20	Joey Chen(91)-仕傑	致各位藝術家
+下午05:24	Karl_陳楷文_Kev	看了無雙 對模仿有不同的見解XD
+下午05:37	Joey Chen(91)-仕傑	無雙是什麼？來個參考
+下午05:39	Karl_陳楷文_Kev	電影 , 我就不暴雷了~
+下午05:39	Karl_陳楷文_Kev	模仿畫家到畫假鈔  大概是這樣
+下午05:39	Karl_陳楷文_Kev	哈
+
+2018/10/20（六）
+上午12:33	Janet	"@Joey Chen(91)-仕傑 
+https://www.youtube.com/watch?v=bDGsYi3FObU"
+上午01:59	Julian Yu-Lang Chu	我個人建議調一下Carnac的顯示欄，高於youtube的進度條會好得多
+上午09:13	Janet	好喔，謝謝提醒(moon grin)
+上午09:15	Janet	看自己錄的影片也蠻有趣的(hahaha)
+下午03:37	Julian Yu-Lang Chu	人要勇於面對自己（誤 
+
+2018/10/21（日）
+上午08:30	Janet	https://youtu.be/nD8UaqVqGeY
+下午06:54	Joey Chen(91)-仕傑	自我review還不錯！
+下午06:54	Joey Chen(91)-仕傑	我終於回到有電腦的世界了
+下午06:54	Joey Chen(91)-仕傑	沒想到你大寫 M extract method 也綁上去了 (Y)
+下午07:05	Janet	感謝主動幫我review的同學們喔，我還有很大的進步空間(hahaha)
+下午07:07	Joey Chen(91)-仕傑	你也可以在工作上直接用啦
+下午07:07	Joey Chen(91)-仕傑	我相信你已經在用了 :P
+下午07:09	Joey Chen(91)-仕傑	大家可以大聲的說，專業的工程師跟不夠專業的工程師，生產力至少差一倍了 :P
+下午07:10	Joey Chen(91)-仕傑	對了，一件小事提醒你，你 Visual Studio 代碼的字型建議你要改一下
+下午07:12	Janet	耶！我得到91哥的認證了(moon grin)
+下午07:13	Janet	[貼圖]
+下午07:13	Janet	請問，建議什麼字型呢？
+下午07:13	Joey Chen(91)-仕傑	[照片]
+下午07:13	Joey Chen(91)-仕傑	不限定，但是 右下角那幾個類似的 char 要分得清楚
+下午07:14	Joey Chen(91)-仕傑	粗體的就是「等寬」
+下午07:14	Joey Chen(91)-仕傑	所以我習慣直接先選 Consolas
+下午07:14	Joey Chen(91)-仕傑	那個 0 跟 O, I1l 的
+下午07:15	Joey Chen(91)-仕傑	很容易讓人眼睛脫窗的
+下午07:15	Janet	好的，謝謝提點(hahaha)
+下午08:18	Joey Chen(91)-仕傑	記得用大寫字母來觸發 intellisense
+下午08:18	Joey Chen(91)-仕傑	你現在的習慣都是小寫字母，這個習慣要改掉
+下午08:18	Joey Chen(91)-仕傑	例如 _fN 就是 _fristPlayerName
+下午08:18	Joey Chen(91)-仕傑	都小寫比較無法 filter 地更乾淨
+下午08:25	Joey Chen(91)-仕傑	我 review 完畢了，記得comments 看完整一點
+下午08:41	Joey Chen(91)-仕傑	@小安 的 insert mode 按 zd 好熟練, 感覺幾個環節就能接得很順暢
+下午08:42	Janet	了解
+下午08:45	Janet	謝謝指教(moon grin)
+下午09:08	Julian Yu-Lang Chu	"https://github.com/tonsky/FiraCode
+可以參考看看，我看有同事用還不錯，ps:如果喜歡正版的數學符號"
+下午09:27	Joey Chen(91)-仕傑	@小安 ，你的我 review 完了，建議你看一下我最新版本影片的寫法，會對重構 TDD 還有極速開發更有一些幫助。
+下午09:28	Joey Chen(91)-仕傑	"然後 review comments 記得看完。
+下一版應該有機會壓到18分鐘多啦"
+下午09:28	Joey Chen(91)-仕傑	@Karl_陳楷文_Kev 已經在 18 分鐘了啊！
+下午09:30	小安	好的！感謝91哥的review~
+下午09:32	Karl_陳楷文_Kev	@Joey Chen(91)-仕傑  後來發現最後還要繼續refactor 全部if 的condition 成method，昨天又多了2～3分鐘了～  
+下午09:32	Joey Chen(91)-仕傑	好，我 review 一下
+下午09:55	Karl_陳楷文_Kev	@Joey Chen(91)-仕傑   https://www.youtube.com/watch?v=E5w154QEwW4&t=1038s
+下午09:55	Karl_陳楷文_Kev	這昨天的感謝~
+下午09:57	Karl_陳楷文_Kev	另外問 , 你說F12 可以從GivenFirstPlayerScoreTimes(2) 的2跳到 method 的parameter , 但我按了是跳到Int32 struct 定義耶 , 是不是我熱鍵要改甚麼功用?
+下午10:00	Joey Chen(91)-仕傑	這有點麻煩，你的 ReSharper Ultimate 有裝 反組譯的，預設選到了 trace 2l4
+下午10:00	Joey Chen(91)-仕傑	trace source code 的
+下午10:01	Joey Chen(91)-仕傑	等我一下，我現在用 mac 裡面的 windows VM
+下午10:01	Joey Chen(91)-仕傑	"其實那邊你也可以直接先到方法裡面寫
+for loop 2, 再把 2 extract parameter 也是一樣的效果"
+下午10:01	Joey Chen(91)-仕傑	而且挺漂亮的。 (PHP 是只能這樣...XD
+下午10:05	Joey Chen(91)-仕傑	我自己的發動，我覺得是執行了 ReSharper.ReSharper_GotoNextHighlight
+下午10:05	Joey Chen(91)-仕傑	這一個
+下午10:05	Joey Chen(91)-仕傑	而不是移至定義
+下午10:05	Joey Chen(91)-仕傑	因為 i 的命名會被 ReSharper highlight 成有警告的命名
+下午10:06	Karl_陳楷文_Kev	酷 原來還有這樣的
+下午10:06	Joey Chen(91)-仕傑	所以 ReSharper.ReSharper_GotoNextHighlight 會直接跳上去。（如果你有其他被 ReSharper highlight 的，也都可以用這個 action 跳過去
+下午10:06	Joey Chen(91)-仕傑	但我比較少用，原因是有一些 highlight 我不一定會改它。例如 field 標 readonly
+下午10:43	Joey Chen(91)-仕傑	@Karl_陳楷文_Kev , 下一次練習，玩玩看 C# 的 string interpolation
+下午10:43	Joey Chen(91)-仕傑	[照片]
+下午10:43	Joey Chen(91)-仕傑	就會變成 $"{lookup[_firstTimes} Love";
+下午10:43	Joey Chen(91)-仕傑	這樣在原本的代碼上修改，就不用多打一堆 空格 跟 + 跟雙引號
+下午10:54	Karl_陳楷文_Kev	ok 感謝~
+下午10:55	Joey Chen(91)-仕傑	跟小安一樣，看一下新的影片
+下午10:55	Joey Chen(91)-仕傑	例如在 Deuce 之後，我們會重構出一個 GivenDeuce()
+下午10:55	Joey Chen(91)-仕傑	這樣 Adv 測試案例的意圖就更明顯，更接近真實情況
+下午10:55	Joey Chen(91)-仕傑	先 Deuce，某一邊先得一分，就是 Adv
+下午10:56	Joey Chen(91)-仕傑	https://youtu.be/hfPe_extFh4?t=584
+下午11:07	Joey Chen(91)-仕傑	review 完囉
+下午11:08	Karl_陳楷文_Kev	[貼圖]
+
+2018/10/23（二）
+上午12:23	Julian Yu-Lang Chu	@黃文德(Duncan)  想問一下你怎麼設定相對行號跟絕對行號並存的~~我找不到orz
+上午12:24	黃文德(Duncan)已收回訊息
+上午12:24	黃文德(Duncan)	我 PhpStorm 是另外裝一個套件才可以
+上午12:24	Julian Yu-Lang Chu	[貼圖]
+上午12:25	Julian Yu-Lang Chu	Jetbrains系列通用嗎
+上午12:25	黃文德(Duncan)	不確定，你可以試試，我找一下名字
+上午12:29	黃文德(Duncan)	Relative Line Numbers
+上午12:29	黃文德(Duncan)	這套
+上午12:30	黃文德(Duncan)	它是利用 annotate 功能來顯示相對行號
+上午12:36	Julian Yu-Lang Chu	感謝 @黃文德(Duncan)  !! 這套我本來有裝
+上午12:37	黃文德(Duncan)	哈哈哈
+上午12:38	Julian Yu-Lang Chu	但是還是被蓋掉， 被你一推薦我就發現vim設定檔裡面有:set rnu，原生的就被蓋掉了
+上午12:38	黃文德(Duncan)	是的，所以我把 set number 關掉
+上午12:39	Julian Yu-Lang Chu	[貼圖]
+上午12:39	黃文德(Duncan)	那個套件所下的 .vimrc 直接兩個都會出現
+上午11:09	Patrick Shih	請問一下，如果 ReSharper
+上午11:09	Patrick Shih	要加入自己的  Postfix Template
+上午11:09	Patrick Shih	[照片]
+上午11:09	Patrick Shih	要怎麼加入
+上午11:10	Patrick Shih	還是 透過  Template 的  marco
+上午11:10	Patrick Shih	[照片]
+上午11:10	Joey Chen(91)-仕傑	哈哈哈，看到我的影片，有覺得神奇了吧
+上午11:10	Joey Chen(91)-仕傑	因為 ReSharper 沒有自訂 postfix template
+上午11:11	Joey Chen(91)-仕傑	https://gist.github.com/hatelove/eeddb7a7c70c42b8893d549a01e6de03
+上午11:12	Joey Chen(91)-仕傑	用擴充方法，source template
+上午11:12	Joey Chen(91)-仕傑	[貼圖]
+上午11:12	Patrick Shih	太厲害了，受我一拜
+上午11:12	Patrick Shih	這樣要用的話都要加入這段程式碼瞜
+上午11:13	Joey Chen(91)-仕傑	對，應該可以弄顆 dll push 到 nuget 上
+上午11:13	Joey Chen(91)-仕傑	[貼圖]
+上午11:13	Joey Chen(91)-仕傑	好處是，live template 是吃設定的
+上午11:13	Joey Chen(91)-仕傑	source template 是吃代碼跟庫的
+上午11:13	Joey Chen(91)-仕傑	所以團隊要一起享用或共同開發好用的 template, 是跟著代碼走的。
+上午11:14	Joey Chen(91)-仕傑	我把這一段代碼先放在 live template 裡面了，所以要用，也是 cst 三個鍵就可以長出來
+上午11:16	Patrick Shih	[貼圖]
+上午11:18	Patrick Shih	需要另外引用  JetBean 的 dll 嗎
+上午11:19	Patrick Shih	我看到有些  Attribuite
+上午11:20	Joey Chen(91)-仕傑	要用 nuget 參考
+
+2018/10/25（四）
+上午09:53	黃文德(Duncan)	JetBrains 的 ideaVim 0.50 好像有 bug…我原本在 0.49 中搭配使用 action VimVisualSwapSelections 不會有亂選行的問題，結果更新後就會有問題了......
+上午09:58	黃文德(Duncan)	不對，應該不是 action VimVisualSwapSelections 的問題....
+上午09:59	黃文德(Duncan)	[影片]
+上午09:59	黃文德(Duncan)	@Joey Chen(91)-仕傑 你有升級 PhpStorm 以及 IdeaVim 嗎？沒有的話幫我測試一下會不會有我這個問題....
+上午10:00	Joey Chen(91)-仕傑	問題是啥
+上午10:01	Joey Chen(91)-仕傑	我從結果看，就是 extract method 完，大寫 V visual mode 還沒解除
+上午10:01	Joey Chen(91)-仕傑	對吧
+上午10:01	黃文德(Duncan)	如影片，我選取多行後，進行 extract method 再 / 尋找
+上午10:01	Joey Chen(91)-仕傑	你不用 / 尋找，用 kj 應該也是一樣的
+上午10:01	黃文德(Duncan)	但還在多行取消模式
+上午10:01	黃文德(Duncan)	之前不會
+上午10:02	黃文德(Duncan)	是的
+上午10:03	黃文德(Duncan)	雖然可以再改 ideavimrc....最再加上 ESC 即可....
+上午10:05	Joey Chen(91)-仕傑	給我你現在的 vmap M
+上午10:05	黃文德(Duncan)	vmap zrm :<bs><bs><bs><bs><bs>action VimVisualSwapSelections<CR>:action ExtractMethod<CR><ESC>
+上午10:05	黃文德(Duncan)	但是影片中，我其實不是用 zrm，而是用滑鼠直接使用內建功能
+上午10:05	Joey Chen(91)-仕傑	我 phpstorm 現在是 2018.2.5 的版本
+上午10:05	黃文德(Duncan)	我也是
+上午10:06	黃文德(Duncan)	記得之前在還沒發現 VimVisualSwapSelections 時，我們就用 V mode選兩行後用內建 extract method，然後 / 尋找，不會有這個問題
+上午10:06	Joey Chen(91)-仕傑	我現在用 zrm 的方式，會變成只有一行...
+上午10:06	Joey Chen(91)-仕傑	更慘
+上午10:06	黃文德(Duncan)	囧
+上午10:08	Joey Chen(91)-仕傑	我的也會在選取的 mode，不過因為在 Visual Studio 之前就是這樣
+上午10:08	Joey Chen(91)-仕傑	所以我會慣性按 esc
+上午10:08	黃文德(Duncan)	了解
+上午10:08	Joey Chen(91)-仕傑	只是 jetbrains 沒事按 Esc 他會有討厭的音效
+上午10:08	黃文德(Duncan)	哈哈哈
+上午10:08	黃文德(Duncan)	超討厭......
+上午10:10	Joey Chen(91)-仕傑	在 zrm 或 M 裡面補 Esc 比較合理啦，就回到 normal mode
+上午10:10	黃文德(Duncan)	是這樣沒錯啦XDD~只是跟原本的行為不一樣了
+上午10:10	黃文德(Duncan)	哈~我只好就加上 ESC 了
+上午10:12	Joey Chen(91)-仕傑	@黃文德(Duncan) , @Julian Yu-Lang Chu , 我發現 2 個 scenario 還是無法用一個 action 同時滿足
+上午10:13	黃文德(Duncan)	什麼意思？
+上午10:13	Joey Chen(91)-仕傑	1. 在 if (xxx) 要選取 xxx 用 vi) 選取後，用現在 Duncna 的 zrm 綁定，他會因為 VimVisualSwapSelections 多選到右邊的 )，導致無法直接 extract method
+上午10:14	Joey Chen(91)-仕傑	但是選取多行的 extract method 沒問題
+上午10:15	Joey Chen(91)-仕傑	"2. 針對 if (xxxx) 選取 xxx 的問題，我加上一段 EditorUnSelectWord，就會 work 了。
+vmap zrm :<bs><bs><bs><bs><bs>action VimVisualSwapSelections<CR>:action EditorUnSelectWord<CR>:action ExtractMethod<CR><ESC>
+
+但是這樣選取多行時會縮回來變一行"
+上午10:16	Joey Chen(91)-仕傑	我先把 ideavim 也 upgrade 到 0.50 吧
+上午10:17	黃文德(Duncan)	我沒第一個問題
+上午10:17	黃文德(Duncan)	我錄一下，看情境對不對
+上午10:18	黃文德(Duncan)	[影片]
+上午10:19	Joey Chen(91)-仕傑	我更新成 0.50 就好了，上次 @Julian Yu-Lang Chu 說有修掉bug
+上午10:19	黃文德(Duncan)	哦哦
+下午03:47	Joey Chen(91)-仕傑	"好康的 coding dojo 來了，https://yihuode.io/activities/718
+費用一人 1000，這個 1000 可以在 2019年3月之後 91 的任一課程全額折抵！
+日期在 2019/1/13(日)，地點一樣在台北"
+下午03:47	黃文德(Duncan)	[貼圖]
+下午03:48	黃文德(Duncan)	直接報名了ㄚ~
+下午03:48	Karl_陳楷文_Kev	喔喔
+下午03:48	Karl_陳楷文_Kev	連兩天課程
+下午03:48	Karl_陳楷文_Kev	XD
+下午03:49	黃文德(Duncan)	哦，第一梯是 c# ㄚ
+下午03:49	黃文德(Duncan)	只好等 php 了......
+下午03:51	Joey Chen(91)-仕傑	"其實 dojo 不用太分語言的
+timebox 那5~7分鐘，哪怕你都在上網查 C# API 也沒關係，更何況是 pair 進行的"
+下午03:51	黃文德(Duncan)	@Joey Chen(91)-仕傑  網址可以給班底的人嗎？
+下午03:51	Joey Chen(91)-仕傑	你可能會發現，別人連查 API 都比你快
+下午03:51	Joey Chen(91)-仕傑	@黃文德(Duncan) , 可以喔！
+下午03:51	Joey Chen(91)-仕傑	我預計明天才公開對外，所以你們可以自己先私心推薦
+下午03:52	黃文德(Duncan)	好哦
+下午03:53	Joey Chen(91)-仕傑	而且來賺個便當跟冷氣也不錯啊 XD
+下午03:53	黃文德(Duncan)	那就可以報名啦~~
+下午03:53	黃文德(Duncan)	XD
+下午03:56	黃文德(Duncan)	已報~腦粉無誤XD
+下午04:02	Janet	請問, 有限名額嗎?
+下午04:03	Joey Chen(91)-仕傑	30人，我預計一整天可能有人會輪不到
+下午04:03	Joey Chen(91)-仕傑	想上的就先上 :P
+下午04:03	Joey Chen(91)-仕傑	很輕鬆的，不燒腦的
+下午04:03	Joey Chen(91)-仕傑	只是赤裸裸 科科
+下午04:04	Joey Chen(91)-仕傑	我會幫大家準備，叫底下的人閉嘴的牌子
+下午04:04	Janet	先搶先嬴(bashful grin), 去偷學招術也很棒
+下午04:04	Joey Chen(91)-仕傑	還有求救的牌子
+下午04:04	Joey Chen(91)-仕傑	歡迎你們邀請你們覺得合適的朋友一起來
+下午04:04	黃文德(Duncan)	組php團XD
+下午04:04	Joey Chen(91)-仕傑	來親身體驗一下 熱血的力量
+下午04:05	Janet	你們就佔一半了吧?
+下午04:05	黃文德(Duncan)	哈，也要其他人有空
+下午04:10	黃文德(Duncan)	目前php應該有五位了
+下午04:22	Joey Chen(91)-仕傑	"目前 10 人報名了，還有 20 個名額。
+
+一起來玩，也推薦你們熟悉之後，在社群或公司裡面辦一些這種活動。"
+下午07:03	Joey Chen(91)-仕傑	剩7個名額
+下午07:13	黃文德(Duncan)	[貼圖]
+下午07:36	Joey Chen(91)-仕傑	已經26人報名，剩4個名額
+下午07:37	Karl_陳楷文_Kev	我有按到嗎
+下午07:37	Joey Chen(91)-仕傑	沒有～
+下午07:38	Joey Chen(91)-仕傑	有會收到通知信～
+下午07:38	Joey Chen(91)-仕傑	後台沒看到
+下午07:38	Karl_陳楷文_Kev	摁 因為我剛看到奇怪的數字 
+下午07:39	Joey Chen(91)-仕傑	500嗎，哈哈
+下午07:42	Karl_陳楷文_Kev	成功了 連兩日課程
+下午07:42	Karl_陳楷文_Kev	[貼圖]
+下午07:45	Joey Chen(91)-仕傑	剩兩個名額，我看可以開放給外面的人了
+下午07:52	黃文德(Duncan)	哈，外面兩個人....
+下午07:52	黃文德(Duncan)	php應該很多人吧XD
+下午07:53	Joey Chen(91)-仕傑	合體了啊 你 Winnie, 正男，莫桑
+下午07:54	黃文德(Duncan)	哈
+下午07:54	Joey Chen(91)-仕傑	四小時內額滿了！
+下午07:55	黃文德(Duncan)	[貼圖]
+下午07:57	Jamin	來不及報到耶
+下午07:57	Joey Chen(91)-仕傑	排候補一下囉 剛有人提醒我 那附近可能會衝到尾牙
+下午07:58	Karl_陳楷文_Kev	還好我尾牙都是週五
+下午07:58	Karl_陳楷文_Kev	[貼圖]
+下午08:03	黃文德(Duncan)	我們也都是在平日晚上，不會在六日，還好還好
+下午08:03	Jamin	聽到pair programmer就覺得好熱血呀～
+下午08:05	Joey Chen(91)-仕傑	[貼圖]
+下午08:38	Julian Yu-Lang Chu	啊 我測完ideavim 0.49.8，忘了在line說VimVisualSwapSelections多選一個字元的問題已修正，最近太忙了orz
+下午08:38	Joey Chen(91)-仕傑	[貼圖]
+下午08:39	Julian Yu-Lang Chu	太快額滿了吧 好險我不能去（疑？
+下午08:39	Joey Chen(91)-仕傑	[貼圖]
+下午08:46	Julian Yu-Lang Chu	看起來不是單純dojo欸， Pair +mob programming值得體驗一下， pair由來已久，mob最近也常看到人在推，雖然表面上好像降低整個team的生產力，但實質上同時兼顧training跟凝聚共識團隊的功能 ps:我個人感想
+下午08:47	Joey Chen(91)-仕傑	跟極速開發的下午類似
+下午08:48	Joey Chen(91)-仕傑	一個段落一個段落，我預計停下來 引導一下簡單的回顧、討論，提問，這樣。
+下午08:48	Joey Chen(91)-仕傑	其實就是三門課的綜合技，只是不帶著 training, 當驗收也好，震撼教育也好。
+下午08:48	Joey Chen(91)-仕傑	刺激 刺激 刺激
+下午08:48	Julian Yu-Lang Chu	[貼圖]
+下午08:49	Joey Chen(91)-仕傑	經營一個環境，讓大家發現自己不知道的東西，或是讓大家發現原來自己會別人不會的東西
+
+2018/10/26（五）
+下午11:00	Julian Yu-Lang Chu	[影片]
+下午11:01	Julian Yu-Lang Chu	nmap zsf gevawee:s/\%V\([a-zA-Z0-9_]\+\)\s\?\([-!=><:]\+\)\s\?\([a-zA-Z0-9_]\+\)/\3 \2 \1<CR><ESC>
+下午11:03	Julian Yu-Lang Chu已收回訊息
+下午11:19	黃文德(Duncan)	zsf 功能是？？
+下午11:20	Julian Yu-Lang Chu	調換> < : - 兩邊的參數
+下午11:20	黃文德(Duncan)	哦哦
+下午11:21	Julian Yu-Lang Chu	如果打錯的情況下 可以快速更換
+下午11:21	黃文德(Duncan)	好厲害！竟然用出這種 map
+下午11:22	Julian Yu-Lang Chu	還有= 也可以調換
+下午11:23	Julian Yu-Lang Chu	之前剛好有看過類似的 想說應該可以弄得出來
+下午11:23	黃文德(Duncan)	[貼圖]
+下午11:35	Julian Yu-Lang Chu	很簡陋只能針對符合命名規則的參數  靈感是來自jetbrains的|| flip  跟 _firstPlayerScoreTimes - _secondPlayerScoreTime ==1 ,  有人可以給一點建議順便或幫我檢查一下regex就太感激了XD
+下午11:40	黃文德(Duncan)已收回訊息
+下午11:40	黃文德(Duncan)	有辦法調換 if 裡的嗎？
+下午11:43	Julian Yu-Lang Chu	只要調換符號前後的參數是符合a-zA-Z0-9_規則就可以
+下午11:43	Julian Yu-Lang Chu	php可能要再加規則$ ?
+下午11:44	Julian Yu-Lang Chu	我去看一下你影片
+下午11:45	黃文德(Duncan)	jetbrains 有內建是還好，只是好奇你怎麼判斷有刮號裡的或是沒刮號的
+下午11:47	Julian Yu-Lang Chu	喔喔 因為括號不合a-zA-Z0-9_ 規則，所以method目前不能用這個調換
+下午11:47	黃文德(Duncan)	但是加上if好像就有問題？
+下午11:49	Julian Yu-Lang Chu	我再測一下
+下午11:49	黃文德(Duncan)	因為我不是用vs，所以單純看正規式而已XD
+下午11:50	Julian Yu-Lang Chu	喔喔 因為if通常會跟著( 所以不會被a-zA-Z0-9_判斷進去
+下午11:50	黃文德(Duncan)	也是
+下午11:51	黃文德(Duncan)	厲害！
+下午11:52	Julian Yu-Lang Chu	看你影片倒提醒了我要加.進去 物件才能用XD
+下午11:52	黃文德(Duncan)	哈
+
+2018/10/27（六）
+上午09:10	Karl_陳楷文_Kev已收回訊息
+上午09:27	Karl_陳楷文_Kev	這是用vim command line 的replace 功能？
+下午01:41	黃銘軒	有人對power bi熟嗎
+下午01:42	黃銘軒	[照片]
+下午01:42	黃銘軒	圖片的部分要如何做？
+下午02:59	Julian Yu-Lang Chu	是的，利用submatch來做
+下午03:10	Julian Yu-Lang Chu	query editor設好應該切過去modeling就可以產生了visuallization的選項了 上次看同事示範好像是這樣 僅供參考~
+下午03:10	Julian Yu-Lang Chu	[照片]
+
+2018/10/28（日）
+下午12:30	Karl_陳楷文_Kev	[貼圖]
+下午01:52	黃銘軒	@Julian Yu-Lang Chu 謝啦 明天試試看
+
+2018/10/29（一）
+下午12:04	黃銘軒	那個畫面是Power BI Desktop還是Power BI Pro?
+下午02:21	Julian Yu-Lang Chu	應該是desktop的，然後data 載入後 應該有一個report的navi button,可以切過去看要產生甚麼圖表(昨天忘了這邊)
+下午02:21	Julian Yu-Lang Chu	"https://docs.microsoft.com/zh-tw/power-bi/service-get-started
+你要的是step2嗎?"
+下午02:21	Julian Yu-Lang Chu	這是power BI service的
+下午02:33	黃銘軒	power bi service，我的帳號目前無法使用
+下午08:16	Joey Chen(91)-仕傑	封館搶票中：https://yihuode.io/activities/720
+下午08:16	Joey Chen(91)-仕傑	"【C#進階設計，從重構學會高易用性、高彈性的 API 設計】
+封館搶票中：https://yihuode.io/activities/720"
+下午08:16	Joey Chen(91)-仕傑	靠北，不小心按到送出
+下午08:22	Patrick Shih	只要 三千六嗎？
+下午08:22	Joey Chen(91)-仕傑	怎麼會有這樣的誤解
+下午08:23	Patrick Shih	 首梯次課程優惠，所有票價一律折扣 NT$ 3,600
+下午08:23	Joey Chen(91)-仕傑	好反饋，我改了一個字了
+下午08:23	Joey Chen(91)-仕傑	折抵
+下午08:23	Patrick Shih	喔喔看錯
+下午10:53	小安	一瞬間也看成只要3600
+下午10:54	Joey Chen(91)-仕傑	那幣別可能得換成美金了 XD
+下午10:54	黃文德(Duncan)	我也是XD
+下午10:54	黃文德(Duncan)	但想說怎麼可能，又詳細看了一下
+下午10:54	Joey Chen(91)-仕傑	話說 Odd-e 東京的五天 CSD, 是日幣 50 萬....
+下午10:54	黃文德(Duncan)	[貼圖]
+下午10:57	小安	[貼圖]
+
+2018/10/30（二）
+下午04:10	Jaye Chen	"https://youtu.be/2wqM5xgb6w4
+@Joey Chen(91)-仕傑 "
+下午04:10	Jaye Chen	練習了一陣子才有辦法錄到30分鐘 再麻煩老師了><
+下午04:11	Jaye Chen	怪了 畫質好低喔
+下午04:11	Karl_陳楷文_Kev	不會啊下面可以選HD
+下午04:12	Jaye Chen	那可能是我這外面網速比較低被限制了
+
+2018/10/31（三）
+上午06:27	Julian Yu-Lang Chu	產生圖表搞定了嗎~
+上午06:30	Julian Yu-Lang Chu	我先幫忙看5個點，老師比較忙暫時沒空看的話，你可以繼續練下去，等老師有空review你最新的錄影，其他同學有空幫忙看一下摟 每個人挑一點加起來就超多了XD
+上午09:05	黃銘軒	@Julian Yu-Lang Chu 今天才要開始用，這幾天都遇到雜事
+上午09:37	Jaye Chen	[貼圖]
+
+2018/11/07（三）
+下午02:54	Joey Chen(91)-仕傑	C# source template 文章：https://dotblogs.com.tw/hatelove/2018/11/07/resharper-source-template-introduction，我的 abs 跟 ae 就是這樣長的
+下午02:54	Joey Chen(91)-仕傑	靠腰，網址帶到後面的標點符號，大家自己去掉一下後面的字
+下午03:01	Karl_陳楷文_Kev	https://dotblogs.com.tw/hatelove/2018/11/07/resharper-source-template-introduction
+下午03:03	Karl_陳楷文_Kev	[貼圖]
+下午03:59	Janet	[貼圖]
+下午07:58	Karl_陳楷文_Kev	現在才發現，手機版是正常的耶
+下午08:01	Joey Chen(91)-仕傑	是啊
+
+2018/11/08（四）
+下午02:28	Joey Chen(91)-仕傑	@黃文德(Duncan) , 好怪，我現在在 phpstorm 裡面，真的做啥動作都會變成 visual mode
+下午02:32	黃文德(Duncan)	感覺是新版的bug
+下午02:33	黃文德(Duncan)	我更新後就再也無法去玩 tennis game 了.....一直卡XD
+下午02:33	黃文德(Duncan)	很容易變成 visual mode
+下午02:34	Joey Chen(91)-仕傑	Orz
+下午02:34	Joey Chen(91)-仕傑	新版指的是 phpstorm?
+下午02:36	黃文德(Duncan)	對
+下午02:36	黃文德(Duncan)	不過同一時間，也有更新 vim mode plugin ，所以我不確定到底是哪個的問題
+下午02:37	黃文德(Duncan)	我又找不到方法安裝舊版的 vim mode
+下午02:37	黃文德(Duncan)	ideavim
+下午02:37	Joey Chen(91)-仕傑	我也是兩個都更新 XD
+下午02:37	Joey Chen(91)-仕傑	但 intelliJ 是好的
+下午02:37	黃文德(Duncan)	"我目前環境
+PhpStorm 2018.2.5
+IdeaVim 0.50"
+下午02:38	Joey Chen(91)-仕傑	me too
+下午02:39	黃文德(Duncan)	本來想說，換了有 touch bar 、新款鍵盤的電腦後，來試試速度會不會降很多
+下午02:39	黃文德(Duncan)	結果都不能測XD
+下午03:18	Joey Chen(91)-仕傑	我 ideavim 退回 0.49，就正常一點了，只有上次的大寫 M 會多選到 ) 的不方便而已
+下午03:19	黃文德(Duncan)	咦，怎麼退回0.49?
+下午03:19	Joey Chen(91)-仕傑	remove 掉 plugin, 自己從 disk 裝啊 XD
+下午03:19	Joey Chen(91)-仕傑	https://plugins.jetbrains.com/plugin/164-ideavim
+下午03:19	黃文德(Duncan)	我上次也是想這樣，但沒成功....
+下午03:19	Joey Chen(91)-仕傑	0.49 裡面
+下午03:20	Joey Chen(91)-仕傑	cd342f7bea0389fb-0.49.jar
+下午03:20	Joey Chen(91)-仕傑	就它
+下午03:20	黃文德(Duncan)	怪，晚點再來試一次
+下午03:20	黃文德(Duncan)	mm
+下午03:20	Joey Chen(91)-仕傑	[照片]
+下午03:20	黃文德(Duncan)	[貼圖]
+下午03:24	黃文德(Duncan)	我單降 PhpStorm 也正常了....
+下午03:24	Joey Chen(91)-仕傑	phpstorm 怎麼降版啊？
+下午03:24	黃文德(Duncan)	重裝XD
+下午03:25	黃文德(Duncan)	再來升級確認一次
+下午03:25	Joey Chen(91)-仕傑	人生啊～～～有一好沒兩好
+下午03:25	Joey Chen(91)-仕傑	所以還是降 ideavim 比較合理 XD
+下午03:33	黃文德(Duncan)	哈，我錯了，降 PhpStorm 還是一樣.....來試降 IdeaVim
+下午03:35	Joey Chen(91)-仕傑	[貼圖]
+下午03:37	黃文德(Duncan)	試驗結束，真的降 IdeaVim 就好了
+下午03:38	黃文德(Duncan)	[貼圖]
+下午03:39	黃文德(Duncan)	不過終於可以再來試試 Tennis Game 了，晚上再來錄一次，換鍵盤後的差別XD
+下午03:51	Joey Chen(91)-仕傑	intelliJ + ideavim 0.50, 好像也有一樣的問題，只是沒這麼頻繁
+下午03:52	Joey Chen(91)-仕傑	我剛也降版了
+下午03:52	Joey Chen(91)-仕傑	法克
+下午03:54	黃文德(Duncan)	[貼圖]
+下午07:52	Julian Yu-Lang Chu	我前幾天用Webstorm沒感覺欸。你們怎測的
+下午07:53	Joey Chen(91)-仕傑	用 phpstorm 練一次 tennis 就會一直碰到了
+下午07:53	Joey Chen(91)-仕傑	包含在 F1 複製 test case 完要改 test method name
+下午07:53	Joey Chen(91)-仕傑	有時候用 zcc 清完字
+下午07:54	Joey Chen(91)-仕傑	其實我還不知道何時會碰到這問題，只是頗常發生
+下午08:48	黃文德(Duncan)	太久沒練 Tennis Game 了.....又不順手了.....
+
+2018/11/14（三）
+下午09:44	Joey Chen(91)-仕傑	"DI 與 AOP 進階實戰，課程簡介第一個迭代的版本已經完成，【Clean Coder：DI 與 AOP 進階實戰，201905 第一梯次】，https://yihuode.io/activities/729
+
+目前尚未對外公開，老鳥先搶首梯次課程優惠，可折抵 NT$ 3,600，請把握機會。
+
+可配合開今年的三聯式發票，課後可配合開上課證明。
+
+如果易伙的網站連不上，可以直接回信給我你的報名資訊：姓名/習慣的稱呼，公司，聯絡用 email，緊急通知用手機號碼。
+
+※ 個人資訊不會使用在 Odd-e 開課通知以外的其他地方。"
+
+2018/11/16（五）
+下午05:39	黃迺翔（Milkker）	[照片]
+下午05:40	黃迺翔（Milkker）	Reshaper 幫我自動產生的 GetHashCode
+下午05:40	Joey Chen(91)-仕傑	XD
+下午05:40	黃迺翔（Milkker）	不太懂 這些數字的原因　是隨機條質數嗎
+下午05:41	Joey Chen(91)-仕傑	好的 HashCode 演算法，很難的
+下午05:41	Joey Chen(91)-仕傑	要平均分配，還要避免碰撞
+下午05:42	Joey Chen(91)-仕傑	http://www.30abysses.com/TWY/2016/11/21/c_sharp-gethashcode.html
+下午05:43	Joey Chen(91)-仕傑	一位待過 美國微軟跟 Blizzard 的前輩整理的文章
+下午05:43	Joey Chen(91)-仕傑	一個最簡單的建議：永遠不要自己寫 GetHashCode() 的實作演算法
+下午05:43	Joey Chen(91)-仕傑	所以 ReSharper 幫你長 XD
+下午05:44	Joey Chen(91)-仕傑	我們會自己寫實作內容，應該都是「我只希望哪幾個東西一樣時，就當作一樣」
+下午05:44	Joey Chen(91)-仕傑	但仍然可能出現，不一樣的輸入，出來一樣的結果。
+下午05:44	Joey Chen(91)-仕傑	那就是碰撞
+下午05:45	Joey Chen(91)-仕傑	另外，不同 .net framework 產生出來物件的 GetHashCode() 值可能會不一樣
+下午05:45	Joey Chen(91)-仕傑	所以，千萬不要拿物件的 GetHashCode() 來當作 key
+下午05:45	Joey Chen(91)-仕傑	會死人的，.net framework 升級，改了底層演算法，那些 data 就滅了。
+下午05:45	黃迺翔（Milkker）	但有 實作 Equals 為什麼還需要 GetHashCode ?
+下午05:46	Joey Chen(91)-仕傑	Equals 是拿來比較相等
+下午05:46	Joey Chen(91)-仕傑	GetHashCode() 是拿來給類似 Dictionary<TKey, TValue>() ，用物件 instance 做 key 用的
+下午05:47	Joey Chen(91)-仕傑	當你 new Dictionary<Customer, Order> 時，傳入一個 customer instance 當 key
+下午05:47	黃迺翔（Milkker）	"所以 Equals 算是行為
+HashCode有點像是統一的ID"
+下午05:47	Joey Chen(91)-仕傑	實際上的 key, 是這個 customer instance 的 .GetHashCode() 在當 key
+下午05:47	Joey Chen(91)-仕傑	所以，在其他語言，通常 Dictionary 叫做 HashMap, 或 HashTable
+下午05:48	Joey Chen(91)-仕傑	instance 的識別 id
+下午05:48	Joey Chen(91)-仕傑	這也是為什麼，Dictionary 的新增、查找，趨近於 Big O(1)
+下午05:48	Joey Chen(91)-仕傑	因為 hash 查找很快，插入也不用管碰撞
+下午05:49	Joey Chen(91)-仕傑	每一組 key-value pair 之間事實上是沒關聯的
+下午05:49	黃迺翔（Milkker）	哈哈 有問有差><
+下午05:49	Joey Chen(91)-仕傑	把他們關聯起來的,是 Dictionary 自己實作的 indexer
+下午05:49	黃迺翔（Milkker）	不然之前不懂他的概念，也不太敢亂寫
+下午05:50	Joey Chen(91)-仕傑	所以你看到 msdn 偷懶的寫法：都是用 ^
+下午05:50	黃迺翔（Milkker）	所以沒實作 GetHashCode 的話
+下午05:50	Joey Chen(91)-仕傑	或是用 Tuple
+下午05:50	Joey Chen(91)-仕傑	因為 Tuple 也有幫你實作好 GetHashCode 演算法
+下午05:50	黃迺翔（Milkker）	Class 當作 Dictionary 的 Key 會出問題嗎?
+下午05:51	Joey Chen(91)-仕傑	不會，除非你沒有繼承 Object :P
+下午05:51	Joey Chen(91)-仕傑	Object 幫你寫好 GetHashCode() 了啊
+下午05:51	Joey Chen(91)-仕傑	不然這個世界早大亂了 XD
+下午05:51	Joey Chen(91)-仕傑	是「覆寫」 GetHashCode() 時，要特別留意你的實作內容
+下午05:51	黃迺翔（Milkker）	還是C# 會自動幫你把所有欄位的 Property GetHashCode() ^ GetHashCode() ^ GetHashCode() ^ GetHashCode()
+下午05:51	Joey Chen(91)-仕傑	no~
+下午05:52	黃迺翔（Milkker）	恩恩
+下午05:52	黃迺翔（Milkker）	g4
+下午05:52	Joey Chen(91)-仕傑	（還好天賦點得夠深 :P
+下午05:53	Joey Chen(91)-仕傑	覆寫啊，用 Tuple 還是比較簡單的
+下午05:53	Joey Chen(91)-仕傑	他連 Equals 都幫你寫得很好
+下午05:53	Joey Chen(91)-仕傑	https://docs.microsoft.com/zh-tw/dotnet/api/system.object.gethashcode?view=netframework-4.7.2
+下午05:54	Joey Chen(91)-仕傑	[照片]
+下午05:54	Joey Chen(91)-仕傑	把你想要「哪幾個東西一樣，就當作一樣」的部份，都丟到 Tuple 裡面，最後拿 Tuple 的 GetHashCode() 回傳就好
+下午05:55	黃迺翔（Milkker）	這我喜歡XDD
+下午05:55	黃迺翔（Milkker）	簡單易懂，又不用看到magic number
+下午05:55	Joey Chen(91)-仕傑	所以，建議順便搞懂 Tuple 是個啥毛 :P
+下午05:56	黃迺翔（Milkker）	恩恩 之前有摸一下=w= 不過都拿來偷懶用的時候比較多
+下午05:58	黃迺翔（Milkker）	那在實作 operator == 跟 != 的時候，會建議呼叫 equals 還是自己寫邏輯?
+下午06:00	黃迺翔（Milkker）	因為我在寫完 operator 後，才看到Reshaper的提示
+下午06:01	黃迺翔（Milkker）	雖然我覺得這見仁見智
+下午11:20	Joey Chen(91)-仕傑	我挺好奇覆寫 == 與 != operator 的情境需求的
+下午11:26	Joey Chen(91)-仕傑	會覆寫 Equals() 絕大部分也都是因為實作了 IEqualityComparer 介面，連帶覆寫掉 Equals() 與 GetHashCode()
+下午11:28	Joey Chen(91)-仕傑	如果只需要辨識 某個強型別物件是否相等，則是實作 IEquatable<T>
+下午11:29	Joey Chen(91)-仕傑	然後覆寫掉 原生 Object 的 Equals() 轉呼叫實作這個 interface 的 Equals(T obj) 的方法
+下午11:32	黃迺翔（Milkker）	"主要實作民國年月的 class
+1. 提供 RocYear, Month 紀錄年月
+2. 實作 ＋跟 - 方便增加月份數，或兩個民國年月相差的月份數
+3. 一併實作比較兩個民國年月是否相等"
+下午11:33	黃迺翔（Milkker）	這樣在迭代月份數跟比較上比較方便
+下午11:33	Joey Chen(91)-仕傑	背後有用 calendar 吧？
+下午11:34	黃迺翔（Milkker）	 Taiwan calendar 那個嗎
+下午11:35	Joey Chen(91)-仕傑	嗯嗯
+下午11:35	黃迺翔（Milkker）	沒耶 很單純兩個屬性 民國年跟月份
+下午11:37	黃迺翔（Milkker）	之前會做這個是因為剛好在學operator
+下午11:38	Joey Chen(91)-仕傑	你民國年月的類，如果挺單純，就實作 IEquatable<T> 吧
+下午11:38	黃迺翔（Milkker）	然後又有YYYMM的迭代跟比較的需求
+下午11:40	Joey Chen(91)-仕傑	有需要排序，或是 Join(), Distinct() 那幾類的需求，就額外寫個類實作 IComparer<T> 跟 IEqualityComparer<T>
+下午11:42	黃迺翔（Milkker）	這兩個的差別！？
+下午11:42	黃迺翔（Milkker）	我先來查查
+下午11:44	Joey Chen(91)-仕傑	IEquatable<T> 是自己要跟另外一個同型別的比較，依照自己定義決定是不是相等
+下午11:44	Joey Chen(91)-仕傑	IEqualityComparer<T> 是一個獨立類決定，兩個同型別的物件，是不是相等。
+下午11:45	Joey Chen(91)-仕傑	Object.Equals() 是比較，自己跟另一個不知道是什麼東西的，是不是相等。
+下午11:45	Joey Chen(91)-仕傑	IComparer<T> 是用來比較，兩個同型別的物件，哪一個比較大，哪一個比較小。
+下午11:45	Joey Chen(91)-仕傑	看用途囉
+下午11:52	黃迺翔（Milkker）	這個的使用時機
+下午11:52	Joey Chen(91)-仕傑	例如你有一堆 民國年要做 Distinct()
+下午11:53	Joey Chen(91)-仕傑	例如一堆民國年要做 Union(), Except(), Interect()
+下午11:56	黃迺翔（Milkker）	是說IComparer也會涵蓋IEqualComparer的功能，為什麼會特別開IEqualComparer這個抽象類別
+下午11:56	黃迺翔（Milkker）	嗯嗯
+下午11:56	Joey Chen(91)-仕傑	IComparer<T>, 只有 Compare() 沒有相等的啊
+下午11:57	Joey Chen(91)-仕傑	而且那是 interface, 不是抽象類別
+下午11:57	Joey Chen(91)-仕傑	相等跟比較大小是兩件事
+下午11:57	黃迺翔（Milkker）	恩恩 介面 打錯了
+
+2019/01/03（四）
+下午07:53	Julian Yu-Lang Chu	"大家新年快樂~  
+想問問有沒有人對WebStorm跟Typescript比較有經驗的，可以幫我review一下， 因為我幾乎是當c#來寫怕有些地方不合typescript的慣例跟特性
+
+https://www.youtube.com/watch?v=ymYa_EGklQU&feature=youtu.be"
+下午07:54	Joey Chen(91)-仕傑	[記事本] 大家新年快樂~  
+想問問有沒有人對WebStorm跟Typescript比較有經驗的，可以幫我review一下， 因為我幾乎是當c#來寫怕有些地方不合typescript的慣例跟特性
+
+https:
+下午10:44	Julian Yu-Lang Chu	另外 用MSI電腦跑JetBrains IDE覺得有點卡卡或慢的可以嘗試關掉dragon center看看， 關掉以後我的intelliSence跟跑測試的速度明顯提升
+下午10:57	Joey Chen(91)-仕傑	@Julian Yu-Lang Chu , 我覺得很讚
+下午10:57	Joey Chen(91)-仕傑	決定今年上半年來跟著學一下 typescript 的寫法
+下午11:12	Joey Chen(91)-仕傑	@Julian Yu-Lang Chu , webstorm 應該也可以用 Cyclic Expand Word
+下午11:12	Joey Chen(91)-仕傑	這樣打那些 Fifteen, Thirty, Forty 應該會更快一點
+下午11:33	Julian Yu-Lang Chu	謝91哥 我查一下cyclic expand word怎用
+下午11:33	Joey Chen(91)-仕傑	例如打 Fif 然後執行 cyclic expand word
+下午11:33	Joey Chen(91)-仕傑	我是綁在 Alt + /
+下午11:34	Joey Chen(91)-仕傑	多按幾次，他就會自動找你有開的檔案裡面最接近的幾個字 （應該是有開的檔案啦
+下午11:34	Joey Chen(91)-仕傑	所以可能會出現 Fifteen 或 Fifteen_All
+下午11:34	Joey Chen(91)-仕傑	所以你先去 keymap 找找看有沒這個 command
+
+2019/01/04（五）
+上午12:18	Julian Yu-Lang Chu	[貼圖]
+上午12:19	Julian Yu-Lang Chu	我試試
+上午01:00	黃文德(Duncan)	[貼圖]
+
+2019/01/10（四）
+上午10:58	黃銘軒	各位大大，問個蠢問題，請問演算法重要嗎?
+上午11:04	黃迺翔（Milkker）	"在所有東西都要自己來的開發環境，滿重要的
+(像是軍事機關的系統)
+
+但如果可以依賴別人開發好的元件，其實很多演算法都包好了"
+上午11:08	原來是阿春	"80%的情況不重要.但20%的時候會很重要,例如:
+1.機器效能很差.不能用資源去頂效能時
+2.有很多種選擇.要選一個比較好的方案.演算法就很重要
+3.要自己手刻紅黑樹的時候QQ
+4.跟別人吵架.要拿資料出來證明的時候."
+上午11:08	黃迺翔（Milkker）	但學演算法這點我覺得是內化程式邏輯的過程
+上午11:08	原來是阿春	演算法也算是科班生和從我我我和你你你補習班出來的差異.
+上午11:12	黃迺翔（Milkker）	"補充一下內化邏輯的詳細(發現太抽象了)
+學了一些演算法，裡面會有一些技巧處理問題，像是
+1. divide & conquer
+2. binary tree
+3. tree search
+等概念
+有摸過遇到時反應會快一些"
+下午03:20	Julian Yu-Lang Chu	@黃迺翔（Milkker） 內化邏輯是指時間複雜度跟空間複雜度的判斷跟處理對嗎
+下午03:21	黃迺翔（Milkker）	是遇到問題的時候，有這些概念知道要怎麼處理，因為你有這些先輩知識
+下午03:23	黃迺翔（Milkker）	"有點類似說，你有學過遞迴，所以遇到一些問題的時候你知道要用遞迴處理
+
+但如果沒摸過演算法之類的東西，在解一些比較複雜的問題，可能少了很多條路可以選擇"
+下午03:26	黃迺翔（Milkker）	"沒學過PS的人可以用小畫家處理很多改圖上的問題
+
+但如果要處理去背的需求，自然需要更強大的工具或知識"
+下午03:37	斬斬斬斬天地人 斷斷斷斷情仇恨	基本上除非做特定領域，要把演算法摸得很精深，不然做資訊領域，你雖然無論如何都要了解演算法，但通常只要知道特性和適用的場景，這樣有需要用的時候才能像上面大大說的用現成的演算法庫
+下午03:38	Joey Chen(91)-仕傑	"實作跟應用分開來看比較簡單一點。
+
+多了解沒有壞處，但一般的 enterprise application 大概會應用、比較，知道特性跟適用場景就夠了"
+下午03:39	Joey Chen(91)-仕傑	我的演算法也很弱，但也因為我目前相關的產品領域，還不需要我自己實作演算法，所以差異就不大
+下午03:39	Joey Chen(91)-仕傑	舉個例子，如果你不知道有哪些已知的演算法甚至人家已經實作好的演算法可以直接用
+下午03:40	Joey Chen(91)-仕傑	你可能寫了個優化版的 bubble sort，就覺得很屌了
+下午03:40	Joey Chen(91)-仕傑	但其實人家早包好 quick sort 了
+下午03:40	Joey Chen(91)-仕傑	這就會有很大的差異
+下午03:41	黃迺翔（Milkker）	這差異會嚇死人XD
+下午03:41	原來是阿春	比較怕的是野人顯曝,以為自己改得好棒棒.
+下午03:42	斬斬斬斬天地人 斷斷斷斷情仇恨	像做機器學習，不去了解，可能就大家只說得出 Tensorflow，就認為只能用 Python 做
+下午03:43	斬斬斬斬天地人 斷斷斷斷情仇恨	但實際上還有 C++ 的 Caffe2 (Facebook)，C# 的 ML.NET（微軟）
+下午03:43	斬斬斬斬天地人 斷斷斷斷情仇恨	不知道在規劃時就很難去考量到有沒有更適合的庫或做法
+
+2019/01/11（五）
+下午06:25	Julian Yu-Lang Chu	問一下 jetbrains有把跳出的intellisense 取消的按鍵嗎， 我目前是用space打斷， 但是某些情況直接取消比較順
+下午06:28	Joey Chen(91)-仕傑	是因為按 esc 會變成 normal mode 的困擾？
+下午06:28	Julian Yu-Lang Chu	嗯
+下午06:29	Joey Chen(91)-仕傑	我是按兩下 Alt，讓 cursor 先跳到 tool bar, 再跳回來 CodeEditor window
+下午06:30	Julian Yu-Lang Chu	跟visual studio一樣！？ 
+下午06:31	Joey Chen(91)-仕傑	喔，不行耶，我來看一下
+下午06:56	Julian Yu-Lang Chu	比較大的困擾是live template中填入變數的話esc會終止在該變數，不能按tab到下一個變數，但這個應該是切成normal mode導致的
+下午07:16	Julian Yu-Lang Chu	目前有試到ctrl*2 esc 可以用
+
+2019/01/14（一）
+下午05:52	Joey Chen(91)-仕傑	"熱血 dojo, 第二梯次，開放報名！
+
+https://yihuode.io/activities/767
+
+日期：3/31 (日)"
+下午05:52	黃文德(Duncan)	[貼圖]
+下午06:13	小安	[貼圖]
+下午06:15	Joey Chen(91)-仕傑	剩下 13 個位置
+下午08:02	小安	額滿惹....orz
+
+2019/01/16（三）
+下午04:13	歐趴	"我在使用Rider練習TennisKata的時候，遇到一個問題，不知道有沒有人遇？
+
+1. V進入Visual Mode選取要抽方法的那一行
+2. zrm抽方法
+3. 方法有成功抽出，但是之後在進行cw去改變word的時候，會跑出奇怪的selection。
+
+附上我的zrm
+vmap zrm :<bs><bs><bs><bs><bs>action VimVisualSwapSelections<CR>:action ExtractMethod<CR><ESC>"
+下午04:13	歐趴	[檔案]
+下午04:28	歐趴	[影片]
+下午04:29	歐趴	原來副檔名要mp4才可以預覽XD
+下午06:10	Joey Chen(91)-仕傑	IdeaVim 0.49, 0.50 對選取非整行的判定不一樣
+下午06:11	歐趴	我這是0.50～
+下午06:11	Joey Chen(91)-仕傑	我後來非整行的extract method 都按 shortcut 了
+下午06:11	Joey Chen(91)-仕傑	為了要用 0.50
+下午06:12	黃文德(Duncan)	我也是，vim mode 的問題，所以直接按 shortcut
+下午06:16	歐趴	先用vim, 進入visual mode把要抽的部分選起來，直接按shortcut嗎
+下午06:16	黃文德(Duncan)	是的，我是這樣
+下午06:21	Joey Chen(91)-仕傑	[貼圖]
+下午06:40	歐趴	感謝兩位～我發現不管是整行還是非整行，用vim mapping做extract method都會有影片中selection很怪的問題。直接按shortcut就沒有這問題。之後應該會直接按shortcut。
+下午06:42	Joey Chen(91)-仕傑	"那要看問題在哪了 因為我正行很順。
+
+"
+下午06:42	Joey Chen(91)-仕傑	整
+下午06:42	Joey Chen(91)-仕傑	先熱鍵也行啦
+下午06:42	Joey Chen(91)-仕傑	我人在外面 等晚點看一下影片
+下午06:42	歐趴	好的～
+下午06:48	Julian Yu-Lang Chu	你在Extract Method的視窗按一下tab或是給個新名字在enter試試
+下午06:50	歐趴	@Julian Yu-Lang Chu 剛剛試了，用zrm，發現一樣有和影片一樣的問題。
+下午06:50	黃文德(Duncan)	在上完課那一個月內，我試都不正常，後來有沒有修好了就不確定了，目前就都用 shortcut 了
+下午06:50	Joey Chen(91)-仕傑	怪，好奇了
+下午06:51	Joey Chen(91)-仕傑	"因為我最近兩門課 我才剛試過一輪。
+
+不然就是我試到的是 0.49"
+下午06:53	歐趴	我補充說明一下，我的設定檔有小改，我把nmap j gj和nmap k gk拿掉了，因為加了這兩行會讓d3j沒辦法向下刪掉整行三行。拿掉就可以了。
+下午06:55	黃文德(Duncan)	我等一下也再來試試
+下午06:57	Joey Chen(91)-仕傑	媽的 原來如此
+下午06:58	Joey Chen(91)-仕傑	發Q
+下午06:58	Joey Chen(91)-仕傑	我一直誤會他了 哈哈哈
+下午06:59	歐趴	真的XDDD 我昨天弄了一陣子，發現這兩行會有問題XD
+下午07:01	Julian Yu-Lang Chu	直接用:’<,’>action ExtractMethod呢
+下午07:02	歐趴	@Julian Yu-Lang Chu 靠可以耶XDDD
+下午07:04	Julian Yu-Lang Chu	那個<bs>是給0.49 的樣子
+下午07:21	歐趴	"附上正常work的影片, mapping設定如下
+vmap zrm :'<,'>action ExtractMethod<CR>"
+下午07:21	歐趴	[影片]
+下午07:23	歐趴	ExtractMethod操作完成後會有一個選取範圍，這個行為沒辦法在vmap最後補一個<Esc>消掉。想說就不理他了XD
+下午07:24	Joey Chen(91)-仕傑	這之前有提到過
+下午07:24	Joey Chen(91)-仕傑	但我忘了是解掉了 還是沒解 XD
+下午07:25	黃文德(Duncan)	記得是無解
+下午07:28	Joey Chen(91)-仕傑	0.49 沒問題，對吧
+下午09:49	歐趴	發現2018.3的Rider的postfix template的.for叫不出來，想問大家的解法是什麼～
+下午09:50	Joey Chen(91)-仕傑	surround template 應該也可以
+下午09:50	Joey Chen(91)-仕傑	surround with live template, 因為 for loop 本來就是歸在 surround 裡面的
+下午09:52	歐趴	這樣就不能times.for tab了XD
+下午09:55	歐趴	可以用surround template 但還是有點想用postfix(癢癢的
+下午10:01	Joey Chen(91)-仕傑	那就寫 source template 吧，跟 .ae 一樣
+下午10:03	歐趴	恩恩 我要研究ㄧ下Custom Postfix Template Plugin 設定檔怎麼寫XD
+下午10:07	Joey Chen(91)-仕傑	https://dotblogs.com.tw/hatelove/2018/11/07/resharper-source-template-introduction
+下午10:07	黃文德(Duncan)	見x了.....現在我 zrm 綁 vmap zrm :action ExtractMethod<CR> 都正常了.....
+下午10:07	Joey Chen(91)-仕傑	應該是一樣的才對
+下午10:07	黃文德(Duncan)	也不用多按esc
+下午10:07	Joey Chen(91)-仕傑	0.50 ?
+下午10:08	黃文德(Duncan)	對，然後 phpstorm 是 2018.3
+下午10:08	Joey Chen(91)-仕傑	0.50 應該是原本的那個 z, 選 ()內容，再 extract method 時會多選到 ) 的問題
+下午10:08	黃文德(Duncan)	但之前也是 ideavim 0.5
+下午10:08	黃文德(Duncan)	所以可能是 phpstorm 有再改的原因？
+下午10:08	Joey Chen(91)-仕傑	你試試，用 z, 再 zrm
+下午10:09	Joey Chen(91)-仕傑	有可能啊
+下午10:09	Joey Chen(91)-仕傑	改好通常無感，改壞掉才有感 XD
+下午10:09	黃文德(Duncan)	真的.....
+下午10:09	黃文德(Duncan)	之前是會遇到 zrm 不能多行
+下午10:09	黃文德(Duncan)	所以那時忘了是哪位查到有 VimVisualSwapSelections 這個東西
+下午10:09	黃文德(Duncan)	然後用這 VimVisualSwapSelections 之後，就有要多按 esc 的問題
+下午10:10	黃文德(Duncan)	現在什麼都不用了XD
+下午10:11	黃文德(Duncan)	查之前的記錄，還有一個就是你說 () 的問題，我來試試
+下午10:11	Joey Chen(91)-仕傑	@yu chu
+下午10:11	Joey Chen(91)-仕傑	@Julian Yu-Lang Chu 查到的，哈
+下午10:12	Joey Chen(91)-仕傑	VimVisualSwapSelections 我印象也是為了解 z, 選 () 內做 extract method 的問題
+下午10:13	黃文德(Duncan)	() 的問題好像也正常了
+下午10:13	黃文德(Duncan)	[貼圖]
+下午10:13	黃文德(Duncan)	回到最原始  vmap zrm :action ExtractMethod<CR>  即可XD
+下午10:14	Joey Chen(91)-仕傑	[貼圖]
+下午10:18	黃文德(Duncan)	[貼圖]
+下午10:32	Julian Yu-Lang Chu	我當初是直接裝eap版所以，那行舊指令我也沒用過幾次XD
+下午10:33	Julian Yu-Lang Chu	Custom postfix目前仍不支援rider
+下午10:33	歐趴	@Julian Yu-Lang Chu 對....我剛剛發現不支援QAQ
+下午10:35	歐趴	替專案加入一個custom postfix Template Project 感覺有點累贅，不過好像只能這樣子
+下午10:36	Joey Chen(91)-仕傑	XD
+下午10:36	Joey Chen(91)-仕傑	我會選擇用 surround 啦，你這懶鬼
+下午10:38	歐趴	不懶惰就沒有這門課了～～
+下午10:38	歐趴	（只好默默把surround加進快捷鍵XD
+下午10:40	Joey Chen(91)-仕傑	遲早要加的，因為實務上還有 try/catch 要用啊 XD
+下午11:16	Julian Yu-Lang Chu	你可以用.for ctrl*2 esc tab
+下午11:16	Julian Yu-Lang Chu	應該是intellisense在擋postfix
+下午11:17	歐趴	"@Julian Yu-Lang Chu it works!
+你怎麼那麼多黑魔法～～"
+下午11:22	Julian Yu-Lang Chu	剛好這陣子在踩goland的雷⋯
+下午11:25	歐趴	感謝大家幫忙～覺得今天學到很多m(_ _)m
+
+2019/01/17（四）
+下午03:41	Julian Yu-Lang Chu	昨天試了一下ctrl*2有點多餘, 多打一個字母在backspace就可以取消intellisense了
+下午03:42	Joey Chen(91)-仕傑	會有些違反直覺
+下午03:42	Joey Chen(91)-仕傑	但看怎樣比較順手囉
+下午03:42	Joey Chen(91)-仕傑	可以用vim綁熱鍵幹這件事
+下午03:42	Joey Chen(91)-仕傑	例如 command + ]
+下午03:43	Joey Chen(91)-仕傑	打一個?再清回來
+下午03:43	Joey Chen(91)-仕傑	就等同於用熱鍵取消intellisense
+下午03:43	Joey Chen(91)-仕傑	只會影響到 vim undo
+下午11:48	Julian Yu-Lang Chu	Ctrl+]是什麼作用？
+下午11:48	Joey Chen(91)-仕傑	只是舉例
+下午11:48	Joey Chen(91)-仕傑	我的意思是，你可以在 vim 裡面綁 shortcut
+下午11:49	Joey Chen(91)-仕傑	按下那個 shortcut, 就執行 vim 的動作。例如 ?<Esc>s
+下午11:49	Joey Chen(91)-仕傑	在使用上，就會「像」用 shortcut 取消了 intellisense 的 popup, 而且仍然在 insert mode
+下午11:49	Joey Chen(91)-仕傑	我沒試，但理論上可行
+下午11:50	Julian Yu-Lang Chu	另外 講到custom postfix, 在我的webstorm上裝了custom postfix, 會不能編輯live template的參數，有遇到這個問題的，可以暫時disable custom postfix
+下午11:51	Julian Yu-Lang Chu	我知道91哥的意思， 我只是單純不知道ctrl+] 這個指令 XD
+下午11:52	Joey Chen(91)-仕傑	哈，只是舉例，找個好按的ㄅㄟ
+
+2019/01/18（五）
+上午12:28	歐趴	目前91好像沒有任何public的Rider Tennis Kata練習影片？
+上午12:28	歐趴	"練習了一個晚上，分享給大家
+https://www.youtube.com/watch?v=Ll3KlHB_Lx8"
+上午12:28	Joey Chen(91)-仕傑	感謝 Donate
+
+2019/01/22（二）
+上午12:19	歐趴	想詢問，有人知道Rider的Extract SuperClass功能中，要怎麼只透過鍵盤勾選紅色圈圈的checkbox嗎？
+上午12:19	歐趴	[照片]
+上午10:52	黃文德(Duncan)已收回訊息
+
+2019/02/18（一）
+下午05:04	Joey Chen(91)-仕傑	單日限時特惠：https://www.facebook.com/91agile/posts/1131637320344218
